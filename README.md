@@ -172,7 +172,7 @@ Os temas deverão ficar na pasta themes dentro de wordpress/wp-content
     }
     //
     // Endereço de Site sem a barra no final 
-    $site = "http://supersmashbro.servidorturbo.net"; // Seu endereço de site onde ficará instalado o wordpress,( geralmente abre-se a pasta do wordpress pega tudo o que tem dentro e deixa solto no www )
+    $site = "http://site_do_seu_servidor.com.br"; // Seu endereço de site onde ficará instalado o wordpress,( geralmente abre-se a pasta do wordpress pega tudo o que tem dentro e deixa solto no www )
     //
     // a poha da moeda brasileira
     $moeda ='BRL';

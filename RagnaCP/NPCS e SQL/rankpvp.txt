@@ -1,0 +1,92 @@
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+////								   ////
+////     ___________        __________	      ___________          ////
+////    /           \      /          \      /           \         ////
+////   |__   _____   \    /   ______   \     |	   ____	   \       ////
+////	\ |  |\  |   |\	  |  |\     |  |\    |    |\  |    |\	   ////
+////	 \|  | \_|   | \  |  | \____|  | \   |	  | \_|____| |     ////
+////	  |  | | |   |  \ |  | |    |  |  |  |	  |  | \____\|     ////
+////	  |  | | |   |  | |  | |    |  |  |  |	  |  |		   ////
+////	  |  | | |   |  | |  | |    |  |  |  |	  |  |  ____       ////
+////      |  | |_|   |  | |  | |____|  |  |  |    |  |_|   |\      ////
+////    __|          /\ | |            |  |  |             | |     ////
+////    |           /  \/ \            /  |   \           / \|     ////
+////    |__________/   /   \__________/   /    \_________/   /     ////
+////     \         \  /     \         \  /      \        \  /      ////
+////      \_________\/       \_________\/        \________\/       ////
+////                                                               ////
+////                    Doctrine Dark Presents                     ////
+////								   ////
+////								   ////
+////								   ////
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+//==== Ranking ================================================
+prontera,164,195,5	script	Ranking PvP & GvG	857,{
+
+//==== Nome do NPC ============================================
+set @nome$,"[ ^FF0000 Ranking PvP & GvG ^000000 ]";
+//=============================================================
+	
+	mes @nome$;
+	mes "Olá "+strcharinfo(0)+".";
+	next;
+	mes @nome$;
+	mes "Gostária de ver o Ranking?";
+	next;
+	switch(select("- Sim","- Não"))
+	{
+
+case 1:
+
+	mes @nome$;
+	mes "Qual Ranking você gostária de ver?";
+	next;
+	switch(select("- ^FFA500Ranking de PvP [TOP 10]^000000","- ^008B8BRanking de GvG [TOP 10]^000000"))
+	{
+
+	case 1:
+
+		mes @nome$;
+		mes "Ok, este é nosso Ranking de PvP [TOP 10]";
+		next;
+		query_sql "SELECT name, kills, deaths FROM pvp ORDER BY kills DESC LIMIT 10",@name$,@kills,@deaths;
+		mes "Ranking PvP [TOP 10]";
+		mes " ";
+		mes "Posição <~> Nome <~> Matou <~> Morreu";
+		mes " ";
+		for(set @i,0;@i<=9;set @i,@i+1) {
+			mes "[^800080"+(@i+1)+"^000000] <~> ^800080"+@name$[@i]+"^000000 <~> ^008B8B"+@kills[@i]+"^000000 <~> ^FF0000"+@deaths[@i]+"^000000";
+		}
+		close;
+
+	case 2:
+
+		mes @nome$;
+		mes "Ok, este é nosso Ranking de GvG [TOP 10]";
+		next;
+		query_sql "SELECT name, kills, deaths FROM gvg ORDER BY kills DESC LIMIT 10",@guild_name$,@guild_kills,@guild_deaths;
+		mes "Ranking GvG [TOP 10]";
+		mes " ";
+		mes "Posição <~> Nome da Guild <~> Vitórias <~> Derrotas";
+		mes " ";
+		for(set @i,0;@i<=9;set @i,@i+1) {
+		mes "[^800080"+(@i+1)+"^000000] <~> ^800080"+@guild_name$[@i]+"^000000 <~> ^008B8B"+@guild_kills[@i]+"^000000 <~> ^FF0000"+@guild_deaths[@i]+"^000000";
+		}
+		close;
+	
+		}
+
+
+case 2:
+
+	mes @nome$;
+	mes "Volte quando precisar dos meus serviços.";
+	close;
+
+OnInit: 
+waitingroom "[ Rank PVP & GVG PK MODE-ON]",0; 
+end;
+}
+}

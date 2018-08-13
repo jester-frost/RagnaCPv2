@@ -1,0 +1,418 @@
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+////								   ////
+////     ___________        __________	      ___________          ////
+////    /           \      /          \      /           \         ////
+////   |__   _____   \    /   ______   \     |	   ____	   \       ////
+////	\ |  |\  |   |\	  |  |\     |  |\    |    |\  |    |\	   ////
+////	 \|  | \_|   | \  |  | \____|  | \   |	  | \_|____| |     ////
+////	  |  | | |   |  \ |  | |    |  |  |  |	  |  | \____\|     ////
+////	  |  | | |   |  | |  | |    |  |  |  |	  |  |		   ////
+////	  |  | | |   |  | |  | |    |  |  |  |	  |  |  ____       ////
+////      |  | |_|   |  | |  | |____|  |  |  |    |  |_|   |\      ////
+////    __|          /\ | |            |  |  |             | |     ////
+////    |           /  \/ \            /  |   \           / \|     ////
+////    |__________/   /   \__________/   /    \_________/   /     ////
+////     \         \  /     \         \  /      \        \  /      ////
+////      \_________\/       \_________\/        \________\/       ////
+////                                                               ////
+////                    Doctrine Dark Presents                     ////
+////								   ////
+////								   ////
+////								   ////
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+prontera.gat,164,177,4	script	Arena da Morte	801,{
+ 
+
+set @nome$,"[^FF0000Arena da Morte^000000]"; //Nome do npc.
+ 
+//Arena PvP 
+set $pvp$[0],"guild_vs1";//Arena 1
+set $pvpy$[0],"guild_vs3";//Arena 1
+//Arena GvG
+set $gvg$[0],"guild_vs2";// Arena 1
+set $gvgy$[0],"pvp_n_5-5";// Arena 1
+set $pvpx$[0],"pvp_n_2-2";// Baby 1
+//Sala de 1x1
+set $pvpw$[0],"pvp_n_2-5";// 1x1 1
+//Sala de Eventos
+set $evento$[0],"pvp_y_2-1";// Eventos
+//Arena Baby
+
+        if(BaseLevel < (70)) goto N_nlevel;
+        if(BaseLevel > (70)) goto N_level;
+N_nlevel:
+mes "[^FF3355Opes VIP^000000]";
+mes "SEU IDIOTAAAA !!! voce quer morrer é !?? você não tem nivel suficiente nem pra matar um poring !! como quer entrar aqui ¬¬ desapareça da minha frente seu verme inutil fraco escórea da humanidade RAPARIGAAA!!!.";
+next;
+warp prontera,0,0;
+close;
+
+N_level:
+	mes @nome$;
+	mes "Olá "+strcharinfo(0)+".";
+	mes "Escolha qual destino deseja ir";
+	soundeffect "prepare.wav",1;
+	next;
+	switch(select("- Playes vs Playes [Rank] [^0000FF"+getmapusers($pvp$[$pvp])+"^000000]","- Guild vs Guild [Rank] [^0000FF"+getmapusers($gvg$[$gvg])+"^000000]","- Sala de MVPS [^0000FF"+getmapusers($evento$[$evento])+"^000000]","- Sair"))
+	{
+ 
+	case 1:
+		switch(select("- Arena PvP [Rank]","- Sair")){
+	 
+			case 1:
+				percentheal 100,100;
+				warp $pvp$,0,0;	end;
+	 
+			case 2:
+				mes @nome$;
+				mes "Volte quando precisar dos meus serviços.";
+				close;
+		}
+	close;
+
+	case 2:
+		switch(select("- Arena GvG [Rank]","- Sair")){
+
+			case 1:
+				percentheal 100,100;
+				if(!getcharid(2)) {mes "Eu não posso ajudá-lo, você não possui  uma Clã."; close;}
+				warp $gvg$,0,0;	end;
+
+			case 2:
+				mes @nome$;
+				mes "Volte sempre que quiser.";
+				close;
+		}
+	close;
+	case 3:
+		switch(select("- Sala de MVPs","- Sair")){
+ 
+			case 1:
+				percentheal 100,100;
+				warp $evento$,155,191;	end;
+	 
+			case 2:
+				mes @nome$;
+				mes "Volte quando precisar dos meus serviços.";
+				close;
+		}
+	close;
+	case 4:
+		mes @nome$;
+		mes "Volte quando precisar dos meus serviços.";
+		close;
+	}
+	end;
+}
+ 
+//Inicio do Script
+ 
+-	script	Arena#PCKill	-1,{
+ 
+OnPCKillEvent:
+ 
+	getmapxy @map$,@x,@y,0;
+		if ( @map$ == $pvp$[$pvp] ) goto PvP;
+		if ( @map$ == $pvp$[$pvpx] ) goto PvP;
+		if ( @map$ == $pvp$[$pvpw] ) goto PvP;
+		if ( @map$ == $pvp$[$pvpy] ) goto PvP;//Sem ygg
+		if ( @map$ == $gvg$[$gvg] ) goto GvG;
+		if ( @map$ == $gvg$[$gvgx] ) goto GvG;
+		if ( @map$ == $gvg$[$gvgw] ) goto GvG;
+		if ( @map$ == $gvg$[$gvgy] ) goto GvG;//Sem ygg
+	end;
+ 
+//Arenas PvP
+PvP:
+	set @CID,getcharid(0);set @name$,"";set @points,0;
+	query_sql "SELECT `kills` FROM `pvp` WHERE `char_id`="+@CID+"",@points;
+	query_sql "SELECT `name` FROM `pvp` WHERE `char_id`="+@CID+"",@name$;
+	if ( @name$ == "" ) {
+		query_sql "INSERT INTO `pvp` (`char_id`,`name`,`kills`) VALUES ("+@CID+",'"+strcharinfo(0)+"',1)",@esc$; dispbottom "Você Matou seu primeiro jogador";
+		end;
+	}
+	query_sql "UPDATE `pvp` set `kills` = `kills` +1 WHERE `char_id`="+@CID+"",@esc$;
+	set @points,@points+1;
+	mapannounce	@map$,"["+strcharinfo(0)+"] Você matou [ "+rid2name(killedrid)+" ] e chegou a "+@points+" jogadores mortos.",bc_self,0x90FFFF;
+	end;
+ 
+//Arenas GvG
+GvG:
+	set @GID,getcharid(2);set @name$,"";set @points,0;
+	query_sql "SELECT `kills` FROM `gvg` WHERE `guild_id`="+@GID+"",@gpoints;
+	query_sql "SELECT `name` FROM `gvg` WHERE `guild_id`="+@GID+"",@name$;
+	if ( @name$ == "" ) {
+		query_sql "INSERT INTO `gvg` (`guild_id`,`name`,`kills`) VALUES ("+@GID+",'"+strcharinfo(2)+"',1)",@esc$; dispbottom "Primeiro Frag da Guild";
+		end;
+	}
+	query_sql "UPDATE `gvg` set `kills` = `kills` + 1 WHERE `guild_id`="+@GID+"",@esc$;
+	set @gpoints,@gpoints+1;
+	mapannounce	@map$,"A Guild [ "+@name$+" ] empilhou "+@gpoints+" caveiras.",bc_self,0x90FFFF;
+	end;
+}
+-	script	Arena#PCDie	-1,{
+ 
+OnPCDieEvent:
+ 
+	getmapxy @map$,@x,@y,0;
+		if ( @map$ == $pvp$[$pvp] ) goto PvP;
+		if ( @map$ == $pvp$[$pvpx] ) goto PvP;
+		if ( @map$ == $pvp$[$pvpw] ) goto PvP;
+		if ( @map$ == $pvp$[$pvpy] ) goto PvP;
+		if ( @map$ == $gvg$[$gvg] ) goto GvG;
+		if ( @map$ == $gvg$[$gvgx] ) goto GvG;
+		if ( @map$ == $gvg$[$gvgw] ) goto GvG;
+		if ( @map$ == $gvg$[$gvgy] ) goto GvG;
+	end;
+//Arenas GvG
+ 
+PvP:
+	set @CID,getcharid(0);set @name$,"";set @points,0;
+	query_sql "SELECT `deaths` FROM `pvp` WHERE `char_id`="+@CID+"",@points;
+	query_sql "SELECT `name` FROM `pvp` WHERE `char_id`="+@CID+"",@name$;
+	if ( @name$ == "" ) {
+		query_sql "INSERT INTO `pvp` (`char_id`,`name`,`deaths`) VALUES ("+@CID+",'"+strcharinfo(0)+"',1)",@esc$;
+		end;
+	}
+		query_sql "UPDATE `pvp` set `deaths` = `deaths` + 1 WHERE `char_id`="+@CID+"",@esc$;
+	end;
+ 
+//Arenas GvG
+ 
+GvG:
+	set @GID,getcharid(2);set @name$,"";set @gpoints,0;
+	query_sql "SELECT `deaths` FROM `gvg` WHERE `guild_id`="+@GID+"",@gpoints;
+	query_sql "SELECT `name` FROM `gvg` WHERE `guild_id`="+@GID+"",@name$;
+		if ( @name$ == "" ) { query_sql "INSERT INTO`gvg` (`guild_id`,`name`,`deaths`) VALUES ("+@GID+",'"+strcharinfo(2)+"',1)",@esc$; end; }
+		query_sql "UPDATE `gvg` set `deaths` = `deaths` + 1 WHERE `guild_id`="+@GID+"",@esc$;
+		end;
+	}
+prontera.gat,0,0,5	script	OnPCDieEvent	-1,{
+	OnPCDieEvent:
+	set @matou,0;
+	end; 
+}
+prontera.gat,0,0,5	script	OnPCKillEvent	-1,{
+OnPCKillEvent:
+getmapxy @map$,@x,@y,0;
+set @matou,@matou-1+2;
+set $@name2$,strcharinfo(0);
+if(@matou==1){
+soundeffectall "firstblood.wav",0;
+goto lol;
+}
+if(@matou==2){
+soundeffectall "Double_Kill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Double Kill! ",9;
+}
+if(@matou==3){
+	if(Class==24){
+		mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Head Shoot Caraii !!! ",9;
+		soundeffectall "headshot.wav",0;
+	}
+else{
+soundeffectall "Triple_Kill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Triple Kill! ",9;
+}
+}
+if(@matou==4){
+soundeffectall "Killing_Spree.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Killing Spree! ",9;
+}
+if(@matou==5){
+soundeffectall "MegaKill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Mega Kill! ",9;
+}
+if(@matou==6){
+soundeffectall "UltraKill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Ultra Kill! ",9;
+}
+if(@matou==7){
+soundeffectall "Combowhore.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Combow Hore! ",9;
+}
+if(@matou==8){
+soundeffectall "monster_kill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Monster Kill! ",9;
+}
+if(@matou==9){
+soundeffectall "WhickedSick.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Whicked Sick ",9;
+}
+if(@matou==10){
+soundeffectall "Unstoppable.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Unstopable! ",9;
+}
+if(@matou==11){
+soundeffectall "Dominating.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Dominating! ",9;
+}
+if(@matou==12){
+soundeffectall "GodLike.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! God Liked! ",9;
+}
+if(@matou==13){
+soundeffectall "HolyShit.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! HolyShit! ",9;
+}
+if(@matou==14){
+soundeffectall "grandkill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Grand Kill! ",9;
+}
+if(@matou==15){
+soundeffectall "masterkill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Master Kill! ",9;
+}
+if(@matou==16){
+soundeffectall "yeahbaby.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Yeahh Baby Yeahhh !! ",9;
+}
+if(@matou==17){
+soundeffectall "hahaha.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! MWAHAHAHAHAHA ! ",9;
+}
+if(@matou==18){
+soundeffectall "yupi.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Tan tantantantan ! ",9;
+}
+if(@matou==19){
+soundeffectall "blackshot.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Black Shoot! ",9;
+}
+if(@matou==20){
+soundeffectall "bullseye.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Bulls Eye! ",9;
+}
+if(@matou==21){
+soundeffectall "HUMILIATION.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Humiliation! ",9;
+}
+if(@matou==22){
+soundeffectall "insane.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! WOOWWW!! ",9;
+}
+if(@matou==23){
+soundeffectall "lol.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Humiliation! ",9;
+}
+if(@matou==24){
+soundeffectall "excellent.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Excellent! ",9;
+}
+if(@matou==25){
+soundeffectall "1shot_multi_kill.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! Multi Kill! ",9;
+}
+if(@matou>=26){
+soundeffectall "yehaa.wav",0;
+mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! YEEEHHAAAA! Matei um Poring hahahaha ! ",9;
+}
+lol:
+set $@matou,@matou;
+if(@matou==1) mapannounce @map$,""+strcharinfo(0)+"  matou  "+rid2name(killedrid)+"! First Blood! ",9;
+
+} 
+//Saída
+cellpvp,170,169,4	script	Juiz#PvP1::Juiz#PvP	899,{
+dispbottom "Você sairá em 10 segundos.";
+addtimer 10000,"Juiz#PvP::OnSairpvp";
+end;
+OnSairpvp:
+warp "prontera.gat",155,191;
+}
+ 
+//MAP FLAG
+
+
+
+
+//Sala de Eventos
+pvp_y_1-1	mapflag	nosave
+pvp_y_1-1	mapflag	noteleport
+pvp_y_1-1	mapflag	nowarpto
+pvp_y_1-1	mapflag	nowarp
+pvp_y_1-1	mapflag	nomemo
+pvp_y_1-1	mapflag	gvg	off
+pvp_y_1-1	mapflag	pvp	on
+pvp_y_1-1	mapflag	nopenalty
+pvp_y_1-1	mapflag	nobranch
+pvp_y_1-1	mapflag	pvp_noguild
+pvp_y_1-1	mapflag	noloot
+pvp_y_1-1	mapflag	noexp
+pvp_y_1-1	mapflag	novending
+ 
+// PvP No-Rank
+pvp_n_2-5	mapflag	nosave
+pvp_n_2-5	mapflag	noteleport
+pvp_n_2-5	mapflag	nowarpto
+pvp_n_2-5	mapflag	nowarp
+pvp_n_2-5	mapflag	nomemo
+pvp_n_2-5	mapflag	gvg	off
+pvp_n_2-5	mapflag	pvp	on
+pvp_n_2-5	mapflag	nopenalty
+pvp_n_2-5	mapflag	nobranch
+pvp_n_2-5	mapflag	pvp_noguild
+pvp_n_2-5	mapflag	noloot
+pvp_n_2-5	mapflag	noexp
+pvp_n_2-5	mapflag	novending
+ 
+ 
+// GvG
+pvp_n_5-5	mapflag	nosave
+pvp_n_5-5	mapflag	noteleport
+pvp_n_5-5	mapflag	nowarpto
+pvp_n_5-5	mapflag	nowarp
+pvp_n_5-5	mapflag	nomemo
+pvp_n_5-5	mapflag	nopenalty
+pvp_n_5-5	mapflag	nobranch
+pvp_n_5-5	mapflag	noloot
+pvp_n_5-5	mapflag	noexp
+pvp_n_5-5	mapflag	novending
+ 
+// GvG No-Rank
+guild_vs3	mapflag	nosave
+guild_vs3	mapflag	noteleport
+guild_vs3	mapflag	nowarpto
+guild_vs3	mapflag	nowarp
+guild_vs3	mapflag	nomemo
+guild_vs3	mapflag	nopenalty
+guild_vs3	mapflag	nobranch
+guild_vs3	mapflag	noloot
+guild_vs3	mapflag	noexp
+guild_vs3	mapflag	novending
+guild_vs3	mapflag	gvg	off
+guild_vs3	mapflag	pvp	on
+
+// Baby
+guild_vs2	mapflag	nosave
+guild_vs2	mapflag	noteleport
+guild_vs2	mapflag	nowarpto
+guild_vs2	mapflag	nowarp
+guild_vs2	mapflag	nomemo
+guild_vs2	mapflag	gvg	on
+guild_vs2	mapflag	nopenalty
+guild_vs2	mapflag	nobranch
+guild_vs2	mapflag	pvp_noguild
+guild_vs2	mapflag	noloot
+guild_vs2	mapflag	noexp
+guild_vs2	mapflag	novending
+ 
+// Playes 1x1
+pvp_n_5-5	mapflag	pvp	off
+pvp_n_5-5	mapflag	gvg	off
+pvp_n_5-5	mapflag	gvg	on
+cellpvp	mapflag	nosave
+cellpvp	mapflag	noteleport
+cellpvp	mapflag	nowarpto
+cellpvp	mapflag	nowarp
+cellpvp	mapflag	nomemo
+cellpvp	mapflag	gvg	off
+cellpvp	mapflag	pvp	on
+cellpvp	mapflag	nopenalty
+cellpvp	mapflag	nobranch
+cellpvp	mapflag	pvp_noguild
+cellpvp	mapflag	noloot
+cellpvp	mapflag	noexp
+cellpvp	mapflag	novending

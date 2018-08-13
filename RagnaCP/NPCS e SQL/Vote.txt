@@ -1,0 +1,53 @@
+mapname,x,y,0	script	Npcname	SpriteID,{
+
+	setarray @vote_item[0],			512, 513; // Item ID
+	setarray @vote_item_count[0],	1  , 1; // Item Count wich will be given
+	setarray @vote_cost[0],			1  , 2; // Cost in Vote Points
+	set @min_vote, 0; // minimum count on Vote Points to see the Item List
+	set @npcname$,"[^ff0000Npcname^000000]";
+
+	query_sql ("SELECT `point` FROM `vote_point` WHERE `account_id` = '"+getcharid(3)+"'", @vote);
+
+	mes @npcname$;
+	mes "You have ^ff0000"+@vote+"^000000 Vote Points!";
+	if( @vote < @min_vote ) {
+		mes "^ff0000You will need "+@min_vote+" or more Vote Points to trade them with me!^000000";
+		close;
+	}
+	if (select("Trade my Points!","Cancel~") == 2) 
+		close;
+
+	next;
+	mes "[^ff0000List^000000]";
+	mes "^0000ffItem^000000 = ^00aa00Cost^000000";
+	for( set .@i, 0; .@i < getarraysize(@vote_item); set .@i, .@i + 1 ) {
+		mes "^0000ff"+@vote_item_count[.@i]+"x "+getitemname(@vote_item[.@i])+"^000000 = ^00aa00"+@vote_cost[.@i]+"^000000";
+		if( .@i < 1 )
+			set .@menu$, getitemname(@vote_item[.@i]);
+		else
+			set .@menu$, .@menu$+":"+getitemname(@vote_item[.@i]);
+	}
+
+	next;
+	select(.@menu$);
+	set @choice, @menu - 1;
+
+	mes @npcname$;
+	if( @vote_cost[@choice] > @vote ) {
+		mes "^ff0000You dont have enought Vote Point for "+@vote_item_count[@choice]+"x '"+getitemname(@vote_item[@choice])+"' :/^000000";
+		close;
+	}
+	mes "Are u realy sure to trade "+@vote_item_count[@choice]+"x '^ff0000"+getitemname(@vote_item[@choice])+"^000000' for ^00aa00"+@vote_cost[@choice]+"^000000 Vote Points?";
+	if(select("No! Cancel!:Yes, Trade me!") == 1 ) {
+		mes "^ff0000Trade was canceled~^000000";
+		close;
+	}
+
+	set .@new, @vote - @vote_cost[@choice];
+	if( .@new < 0 ) // safty first..
+		set .@new, 0;
+	query_sql("UPDATE `vote_point` SET `point` = '"+.@new+"' WHERE `account_id` = '"+getcharid(3)+"'");
+	getitem @vote_item[@choice], @vote_item_count[@choice];
+	mes "^00aa00Trade was Successfull ^_^ Hope to see u again =)!^000000";
+	close;
+}

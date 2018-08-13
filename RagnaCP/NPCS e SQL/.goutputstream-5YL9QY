@@ -1,0 +1,81 @@
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+////								   ////
+////     ___________        __________	      ___________          ////
+////    /           \      /          \      /           \         ////
+////   |__   _____   \    /   ______   \     |	   ____	   \       ////
+////	\ |  |\  |   |\	  |  |\     |  |\    |    |\  |    |\	   ////
+////	 \|  | \_|   | \  |  | \____|  | \   |	  | \_|____| |     ////
+////	  |  | | |   |  \ |  | |    |  |  |  |	  |  | \____\|     ////
+////	  |  | | |   |  | |  | |    |  |  |  |	  |  |		   ////
+////	  |  | | |   |  | |  | |    |  |  |  |	  |  |  ____       ////
+////      |  | |_|   |  | |  | |____|  |  |  |    |  |_|   |\      ////
+////    __|          /\ | |            |  |  |             | |     ////
+////    |           /  \/ \            /  |   \           / \|     ////
+////    |__________/   /   \__________/   /    \_________/   /     ////
+////     \         \  /     \         \  /      \        \  /      ////
+////      \_________\/       \_________\/        \________\/       ////
+////                                                               ////
+////                    Doctrine Dark Presents                     ////
+////								   ////
+////								   ////
+////								   ////
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+prontera.gat,135,180,5	script	Player Killer	729,{
+
+if(#playerkiller == 1)goto L_Safado;
+
+
+query_sql "SELECT `kills` FROM `pvp` WHERE `char_id`="+@CID+"",@kills;
+			if ( @kills > 999 ) goto L_1;
+query_sql "SELECT `kills` FROM `pvp` WHERE `char_id`="+@CID+"",@kills;
+			if ( @kills < 999 ) goto L_2;
+
+
+
+L_1:
+if(getcharid(2) >= 1) { mes @name$; mes "Eu só posso ajudá-lo quando você sair do seu clã."; close;}
+mes "[ Player Killer ~ ]";
+mes "Olá senhor(a) "+strcharinfo(0)+",";
+next;
+mes "[ Player Killer ~ ]";
+mes "Olá, só os melhores e mais sanguinarios tem acesso a esse npc.";
+next;
+mes "[ Player Killer ~ ]";
+mes "Hum... Pelo visto Você é bem conhecido no PvP do Servidor xD.";
+mes " ";
+mes "Agora você será Chamado de [PK]";
+next;
+query_sql "UPDATE `char` set `name` = '[PK] "+strcharinfo(0)+"' WHERE `name` = '"+strcharinfo(0)+"'";
+query_sql "UPDATE `pvp` set `kills` = `kills` -1 WHERE `char_id`="+@CID+"",@esc$;
+mes "[ Player Killer ~ ]";
+mes "Prontinho! Agora é só você re-logar e já estará com a identificação! ^^";
+set #playerkiller, 1;
+query_sql "SELECT `kills` FROM `pvp` WHERE `char_id`="+@CID+"",@points;
+query_sql "SELECT `name` FROM `pvp` WHERE `char_id`="+@CID+"",@name$;
+query_sql "UPDATE `pvp` set `kills` = `kills` - 1000 WHERE `char_id`="+@CID+"",@esc$;
+close;
+end;
+
+L_2:
+mes "[ Player Killer ~ ]";
+mes "Você não matou 1000 Players!";
+mes "Quem Está mais perto de se tornar um Player Killer é :";
+query_sql "SELECT name, kills, deaths FROM pvp ORDER BY kills DESC LIMIT 10",@name$,@kills,@deaths;
+mes " ";
+for(set @i,0;@i<=0;set @i,@i+1) {
+mes "[^800080"+(@i+1)+"^000000] Nome: [^0000FF"+@name$[@i]+"^000000] Matou: [^FFA200"+@kills[@i]+"^000000] Morreu: [^FF0000"+@deaths[@i]+"^000000]";
+}
+
+mes " ";
+next;
+mes "[ Player Killer ~ ]";
+mes "Volte quando matar 1000 ou mais Players!";
+close;
+
+L_Safado:
+mes "[ Player Killer ~ ]";
+mes "Você ja usou esse npc uma vez!";
+close;
+}

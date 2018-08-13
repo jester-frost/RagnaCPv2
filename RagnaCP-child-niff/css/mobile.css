@@ -1,0 +1,236 @@
+@media (min-width: 768px) and (max-width:1215px) {
+	.limit {
+		width:100%;
+	}
+	.conteudo,
+	.top-content {
+		width: calc(100% - 50px)!important;
+	}
+	
+}
+@media (max-width:1000px) {
+	.tab-item {
+		display: block;
+	}
+}
+
+@media (max-width:767px) {
+	.ipt {
+		-ms-box-sizing: content-box;
+		-moz-box-sizing: content-box;
+		-webkit-box-sizing: content-box;
+		box-sizing: content-box;
+		margin: 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	body {
+		height: auto;
+	}
+	.limit {
+		width:100%;
+	}
+	.screen { 
+		position: static;
+	}
+	.conteudo,
+	.top-content {
+		width: calc(100% - 50px)!important;
+	}
+	.conteudo form label .label-content,
+	.conteudo form label .ipt {
+		    width: calc(100% - 40px);
+		    text-align: left;
+		    box-sizing: border-box;
+		    margin: 0 20px 10px;
+		    padding: 12px;
+    		font-size: 1em;
+	}
+	.menu li a {
+		font-size: 1.6em;
+	}
+	.left .menu li a {
+		font-size: 1em;
+	}
+	.cadastro .btn, .generic-form .btn,
+	.email input[type="submit"] {
+	    width: 100%;
+	    font-size: 1.6em;
+	    padding: 22px;
+	    margin:0;
+		-ms-box-sizing: content-box;
+		-moz-box-sizing: content-box;
+		-webkit-box-sizing: content-box;
+		box-sizing: content-box;
+		margin: 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.tab-item {
+		display: block;
+	}
+
+	.tab-content table {
+		display: block;
+		position: relative;
+		width: 100%;
+	    overflow: hidden;
+	}
+
+	.tab-content table thead,
+	.tab-content table tbody,
+	.tab-content table th,
+	.tab-content table td,
+	.tab-content table tr {
+		display: block;
+	}
+	/* Tabela funcionando como um bloco.
+	 */
+	.tab-content table td,
+	.tab-content table th {
+		height: auto;
+    	line-height: 30px;
+	}
+	/* Defino um tamanho para as células.
+	 */
+	.tab-content table thead {
+		float: left;
+	}
+	/* A "mágica" é feita aqui, o thead é “flotado” para esquerda.
+	 */
+	.tab-content table tbody {
+		width: auto;
+		position: relative;
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+		white-space: nowrap;
+	}
+	/* Assim como definimos que o tbody terá um scroll horizontal quando não comportar todo o conteúdo. Além disso, é importante colocar -webkit-overflow-scrolling: touch para pleno funcionamento em alguns dispositivos touch.
+	 */
+	.tab-content table tbody tr {
+	   display: inline-block;
+	}
+	.tab-content table tbody tr:nth-child(even) {
+	   	background:#EFEFEF;
+	}
+
+	.menu-principal ul {
+		padding: 0;
+	    padding-top: 10px!important;
+	}
+
+	.tab-content table tbody tr td div {
+		text-align: left;
+		padding: 0 30px;
+	}
+	.conteudo article {
+		width:calc(100% - 20px);
+	}
+	.conteudo aside {
+	    width: 80%!important;
+	}
+	.conteudo aside .box {
+	    margin: 20px;
+	    overflow: hidden;
+	}
+	/* Menu-left escondido*/
+	.left {
+		position: fixed;
+		z-index: 999999;
+		top:0;
+		transform: translateX(-108%);
+		transition: all 0.4s ease;
+	}
+	.left.active {
+		transform: translateX(-8%);
+		transition: all 0.4s ease;
+	}
+	.span-left{
+		display: block;
+		position: fixed;
+		bottom:0;
+		width:40px;
+		height: 40px;
+		background: #fff url('images/mmenu.png') no-repeat top center;
+		background-size:cover;
+		cursor: pointer;
+		z-index:999999;
+		border:3px solid #dfdfdf;
+
+	}
+	/*menu - right escondido */
+	.right {
+		position: fixed;
+		z-index: 999999;
+		top:0;
+		transform: translateX(80%);
+		transition: all 0.4s ease;
+	}
+	.right.active {
+		transform: translateX(-86%);
+		transition: all 0.4s ease;
+	}
+	.disapear {
+		width:0!important;
+		margin:0!important;
+		overflow: hidden!important;
+		padding:0!important;
+	}
+	.span-right{
+		position: fixed;
+		right: 0px;
+		bottom:0;
+		width:40px;
+		height: 40px;
+		background: #fff url('images/mmenu.png') no-repeat top center;
+		background-size:cover;
+		cursor: pointer;
+		z-index:999999;
+		border:3px solid #dfdfdf;
+
+	}
+	.span-right-fade {
+		display: none;
+	}
+	.server-status,
+	.login {
+		float:none;
+	    margin: 0 auto 20px;
+	    overflow: hidden;
+	}
+	.char-zeny-transfer li > div {
+	    display: inline-block;
+	}
+	.char-zeny-transfer li {
+	    list-style: none;
+	    margin: 0 0 40px 0;
+	    display: block;
+	}
+	.char-zeny-transfer form {
+	    display: block!important;
+	    margin: 10px;
+	}
+	.char-zeny-transfer li form label{
+		overflow: hidden!important;
+		    display: flex;
+	}
+	.char-zeny-transfer li form label .ipt {
+		margin:15px 0 15px 0;
+	}
+	.char-zeny-transfer .btn {
+		    width: 100%;
+    box-sizing: border-box;
+	}
+	.char-zeny-transfer .ipt {
+	    width: 100%!important;
+	    font-size: 12px!important;
+	    padding: 5px 10px!important;
+	    float: none;
+	}
+}

@@ -1,0 +1,74 @@
+morocc,0,0,0	script	Arena#PCKill2	111,{
+
+OnNPCKillEvent:
+getmapxy(@map$,@x,@y,0);
+if(killedrid == 1038 ) goto MvP;
+if(killedrid == 1039 ) goto MvP;
+if(killedrid == 1046 ) goto MvP;
+if(killedrid == 1059 ) goto MvP;
+if(killedrid == 1086 ) goto MvP;
+if(killedrid == 1087 ) goto MvP;
+if(killedrid == 1112 ) goto MvP;
+if(killedrid == 1115 ) goto MvP;
+if(killedrid == 1147 ) goto MvP;
+if(killedrid == 1150 ) goto MvP;
+if(killedrid == 1157 ) goto MvP;
+if(killedrid == 1159 ) goto MvP;
+if(killedrid == 1190 ) goto MvP;
+if(killedrid == 1251 ) goto MvP;
+if(killedrid == 1252 ) goto MvP;
+if(killedrid == 1272 ) goto MvP;
+if(killedrid == 1312 ) goto MvP;
+if(killedrid == 1373 ) goto MvP;
+if(killedrid == 1399 ) goto MvP;
+if(killedrid == 1418 ) goto MvP;
+if(killedrid == 1492 ) goto MvP;
+if(killedrid == 1502 ) goto MvP;
+if(killedrid == 1511 ) goto MvP;
+if(killedrid == 1583 ) goto MvP;
+if(killedrid == 1623 ) goto MvP;
+if(killedrid == 1630 ) goto MvP;
+if(killedrid == 1685 ) goto MvP;
+if(killedrid == 1688 ) goto MvP;
+if(killedrid == 1708 ) goto MvP;
+if(killedrid == 1719 ) goto MvP;
+if(killedrid == 1734 ) goto MvP;
+if(killedrid == 1751 ) goto MvP;
+if(killedrid == 1768 ) goto MvP;
+if(killedrid == 1779 ) goto MvP;
+if(killedrid == 1785 ) goto MvP;
+if(killedrid == 1832 ) goto MvP;
+if(killedrid == 1871 ) goto MvP;
+if(killedrid == 1874 ) goto MvP;
+if(killedrid == 1885 ) goto MvP;
+if(killedrid == 1917 ) goto MvP;
+if(killedrid == 1980 ) goto MvP;
+if(killedrid == 2022 ) goto MvP;
+if(killedrid == 2068 ) goto MvP;
+end;
+
+MvP:
+set @CID,getcharid(0);
+set @name$,"";
+set @points,0;
+query_sql "SELECT `pontos_mvp` FROM `rank_mvp` WHERE `char_id`="+@CID+"",@points;
+query_sql "SELECT `char_name` FROM `rank_mvp` WHERE `char_id`="+@CID+"",@name$;
+if ( @name$ == "" ) { query_sql "INSERT INTO `rank_mvp` (`char_id`,`char_name`,`pontos_mvp`) VALUES ("+@CID+",'"+strcharinfo(0)+"',1)",@esc$; end; }
+query_sql "UPDATE `rank_mvp` SET `pontos_mvp` = `pontos_mvp` + 1 WHERE `char_id`="+@CID+"",@esc$;
+set @points,@points+1;
+end;
+}
+
+prontera.gat,138,205,4	script	Ranking MVP::rp	857,{
+query_sql "SELECT char_name, pontos_mvp FROM rank_mvp ORDER BY pontos_mvp DESC LIMIT 10",@char_name$,@pontos_mvp;
+mes "Pos.  Nome:  Matou: ";
+mes " ";
+for(set @i,0;@i<=9;set @i,@i+1) {
+mes "["+(@i+1)+"] Nome: ["+@char_name$[@i]+"] [MVPs: "+@pontos_mvp[@i]+"]";
+}
+close;
+
+OnInit: 
+waitingroom "[ Ranking MVP ]",0; 
+end;
+}

@@ -3,6 +3,14 @@
 include_once 'includes/functions.php';
 require "includes/config.php";
 require "includes/dPagSeguro-master/dPagSeguro.inc.php";
+if( $sandbox ){
+    $url = "https://sandbox.pagseguro.uol.com.br";
+}else{
+    $url = "https://pagseguro.uol.com.br";
+}
+header("access-control-allow-origin: ".$url."");
+header("Content-Type: text/html; charset=UTF-8",true);
+date_default_timezone_set('America/Sao_Paulo');
     if( !empty( $_POST ) and isset( $_POST["valor"] ) ){
         $acc_id = str_replace($letters, "", $_SESSION['usuario']->account_id);
         $valor = str_replace($letters, "", $_POST["valor"]);
@@ -28,6 +36,8 @@ require "includes/dPagSeguro-master/dPagSeguro.inc.php";
         );
         $ps = new dPagSeguro($Email, $Token);
         $goURL = $ps->newPagamento($pedido, $produtos);
+        print_r($goURL);
+
         if($goURL){
             header("Location: {$goURL}");
             die();

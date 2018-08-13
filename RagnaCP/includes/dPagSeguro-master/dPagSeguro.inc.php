@@ -1,18 +1,5 @@
 <?php
 require_once dirname(__FILE__).'/dBrowser2.inc.php';
-
-
-$sandbox = true;
-if( $sandbox ){
-	$url1 = 'https://sandbox.pagseguro.uol.com.br';
-	$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
-	$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
-}else{
-	$url1 = 'https://pagseguro.uol.com.br';
-	$url2 = 'https://ws.pagseguro.uol.com.br';
-	$url3 = 'https://stc.pagseguro.uol.com.br';
-}
-
 // Documentação PagSeguro:
 //		https://pagseguro.uol.com.br/v2/guia-de-integracao/visao-geral.html
 
@@ -165,7 +152,16 @@ class dPagSeguro{
 		if($this->settings['receiverEmail']){
 			$b->addPost('receiverEmail', $this->settings['receiverEmail']);
 		}
-		
+		$sandbox = false;
+		if( $sandbox ){
+			$url1 = 'https://sandbox.pagseguro.uol.com.br';
+			$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
+			$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
+		}else{
+			$url1 = 'https://pagseguro.uol.com.br';
+			$url2 = 'https://ws.pagseguro.uol.com.br';
+			$url3 = 'https://stc.pagseguro.uol.com.br';
+		}
 		$b->addPost('maxAge',   array_key_exists('maxAge',  $pedido)?$pedido['maxAge'] :60*60);
 		$b->addPost('maxUses',  array_key_exists('maxUses', $pedido)?$pedido['maxUses']:100);
 		$b->go($url2."/v2/checkout");
@@ -215,7 +211,16 @@ class dPagSeguro{
 			}
 			return false;
 		}
-		
+		$sandbox = false;
+		if( $sandbox ){
+			$url1 = 'https://sandbox.pagseguro.uol.com.br';
+			$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
+			$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
+		}else{
+			$url1 = 'https://pagseguro.uol.com.br';
+			$url2 = 'https://ws.pagseguro.uol.com.br';
+			$url3 = 'https://stc.pagseguro.uol.com.br';
+		}
 		$goUrl = $url1."/v2/checkout/payment.html?code=".$response['code'];
 		if($callback){
 			call_user_func($callback, $goUrl, $response['code'], $response['date']);
@@ -234,6 +239,16 @@ class dPagSeguro{
 		if($type == 'transaction'){
 			$b = new dBrowser2;
 			$b->debug = $this->debug;
+			$sandbox = false;
+			if( $sandbox ){
+				$url1 = 'https://sandbox.pagseguro.uol.com.br';
+				$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
+				$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
+			}else{
+				$url1 = 'https://pagseguro.uol.com.br';
+				$url2 = 'https://ws.pagseguro.uol.com.br';
+				$url3 = 'https://stc.pagseguro.uol.com.br';
+			}
 			$b->go($url2."/v2/transactions/notifications/{$code}?email={$this->settings['email']}&token={$this->settings['token']}");
 			$body     = $b->getBody();
 			$response = $this->_parseXML($body);
@@ -253,6 +268,16 @@ class dPagSeguro{
 		$this->_clearErrors();
 		$b = new dBrowser2;
 		$b->debug = $this->debug;
+		$sandbox = false;
+		if( $sandbox ){
+			$url1 = 'https://sandbox.pagseguro.uol.com.br';
+			$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
+			$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
+		}else{
+			$url1 = 'https://pagseguro.uol.com.br';
+			$url2 = 'https://ws.pagseguro.uol.com.br';
+			$url3 = 'https://stc.pagseguro.uol.com.br';
+		}
 		$b->go($url2."/v2/transactions/{$code}?email={$this->settings['email']}&token={$this->settings['token']}");
 		$body     = $b->getBody();
 		$response = $this->_parseXML($body);
@@ -294,7 +319,16 @@ class dPagSeguro{
 		$finalDate   .= ($finalDate == date('Y-m-d'))?
 			"T".date('H:i', strtotime("-30 minutes")):
 			"T23:59";
-		
+		$sandbox = false;
+		if( $sandbox ){
+			$url1 = 'https://sandbox.pagseguro.uol.com.br';
+			$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
+			$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
+		}else{
+			$url1 = 'https://pagseguro.uol.com.br';
+			$url2 = 'https://ws.pagseguro.uol.com.br';
+			$url3 = 'https://stc.pagseguro.uol.com.br';
+		}
 		$b = new dBrowser2;
 		$b->debug = $this->debug;
 		$b->go(
@@ -347,7 +381,16 @@ class dPagSeguro{
 		$finalDate   .= ($finalDate == date('Y-m-d'))?
 			"T".date('H:i', strtotime("-30 minutes")):
 			"T23:59";
-		
+		$sandbox = false;
+		if( $sandbox ){
+			$url1 = 'https://sandbox.pagseguro.uol.com.br';
+			$url2 = 'https://ws.sandbox.pagseguro.uol.com.br';
+			$url3 = 'https://stc.sandbox.pagseguro.uol.com.br';
+		}else{
+			$url1 = 'https://pagseguro.uol.com.br';
+			$url2 = 'https://ws.pagseguro.uol.com.br';
+			$url3 = 'https://stc.pagseguro.uol.com.br';
+		}
 		$b = new dBrowser2;
 		$b->debug = $this->debug;
 		$b->go(

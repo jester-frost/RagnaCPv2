@@ -757,7 +757,7 @@
 		   if ($userid != "" && $user_pass != "") {
 				/* Mandando variaveis para um array associativo (dicionario igual do python) */
 				$cadastrar=array(':userid'=>$userid, ':user_pass'=>$user_pass,':email'=>$email, ':birthdate'=>$date);
-				$add_player_query = $con->prepare("INSERT INTO `login`(userid,user_pass,email,birthdate) VALUES(:userid, :user_pass, :sex, :email, :birthdate) ");
+				$add_player_query = $con->prepare("INSERT INTO `login`(userid,user_pass,email,birthdate) VALUES(:userid, :user_pass, :email, :birthdate) ");
 				$add_player_query->execute($cadastrar);
 				$msg = "Usuario Cadastrado com Sucesso !";
 		   	}else {
@@ -1141,5 +1141,4 @@
 		}
 		return $msg;
 	}
-
  ?>

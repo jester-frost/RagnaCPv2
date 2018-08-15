@@ -6,6 +6,7 @@
         $account_id = str_replace($letters, "", $_POST[""]);
         $userid = LimparTexto($letters, $_POST["userid"]);
         $user_pass = str_replace($letters, "", $_POST["user_pass"]);
+        $sex = str_replace($letters, "", $_POST["sex"]);
         $confirm_user_pass = str_replace($letters, "", $_POST["confirm_user_pass"]);
         $email = str_replace($letters, "", $_POST["email"]);
         $date = str_replace($letters, "", $_POST["birthdate"]);
@@ -16,10 +17,10 @@
 ?>
 <section class="conteudo limit">
     <aside class="left">
-    	<?php include( get_template_directory() . '/includes/menu-left.php' ); ?>
+        <?php include( get_template_directory() . '/includes/menu-left.php' ); ?>
     </aside>
     <article>
-		<div class="box">
+        <div class="box">
             <?php while ( have_posts() ) : the_post();?>
                 <h3 class="box-title"><?php the_title(); ?></h3>
                 <div class="spacer">
@@ -39,6 +40,14 @@
                     <label>
                         <span class="label-content">E-mail :</span>
                         <input name="email" class="ipt" type="email" required="required" value="" placeholder="fulano@provedor.com.br">
+                    </label>
+                    <label>
+                        <span class="label-content">Genero :</span>
+                        <select class="ipt" name="sex" id="sexo" required="required">
+                            <option value="">Selecione</option>
+                            <option value="M">Masculino</option>
+                            <option value="F">Feminino</option>
+                        </select>
                     </label>
                     <label class="date">
                         <span class='label-content'>Data Nascimento :</span>

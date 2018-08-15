@@ -744,7 +744,7 @@
 	// Cadastrar Function
 	/*====================================================*/
 
-	function registrar($con, $userid, $user_pass, $confirm_user_pass, $email, $date, $letters){
+	function registrar($con, $userid, $user_pass, $confirm_user_pass, $email, $sex, $date, $letters){
 		$dados=array(':userid'=>$userid);
 		$search_player_query = $con->prepare("SELECT * FROM login WHERE userid=:userid");
 		$search_player_query->execute($dados);
@@ -756,8 +756,8 @@
 		    $user_pass=str_replace(array($letters), "", $user_pass);
 		   if ($userid != "" && $user_pass != "") {
 				/* Mandando variaveis para um array associativo (dicionario igual do python) */
-				$cadastrar=array(':userid'=>$userid, ':user_pass'=>$user_pass,':email'=>$email, ':birthdate'=>$date);
-				$add_player_query = $con->prepare("INSERT INTO `login`(userid,user_pass,email,birthdate) VALUES(:userid, :user_pass, :email, :birthdate) ");
+				$cadastrar=array(':userid'=>$userid, ':user_pass'=>$user_pass, ':sex'=>$sex, ':email'=>$email, ':birthdate'=>$date);
+				$add_player_query = $con->prepare("INSERT INTO `login`(userid,user_pass,email,sex,birthdate) VALUES(:userid, :user_pass, :email, :sex, :birthdate) ");
 				$add_player_query->execute($cadastrar);
 				$msg = "Usuario Cadastrado com Sucesso !";
 		   	}else {
@@ -775,8 +775,9 @@
 
 
 	function account_gender($con, $account_id){
-		$account_query = $con->prepare("SELECT account_id, userid, user_pass, sex, email FROM `login` WHERE account_id = $account_id");
-		$account_query->execute();
+		$dados=array(':account_id'=>$account_id);
+		$account_query = $con->prepare("SELECT account_id, userid, user_pass, sex, email FROM `login` WHERE account_id = :account_id");
+		$account_query->execute($dados);
 		$account_info = $account_query->fetchAll(PDO::FETCH_OBJ);
 		foreach ($account_info as $info) {
 			$sex = ($info->sex);
@@ -789,7 +790,19 @@
 		$char_query = $con->prepare("SELECT char_id, hair, account_id, name, sex, class, base_level, job_level FROM `char` WHERE char_id = $char_id");
 		$char_query->execute();
 		$chars = $char_query->fetchAll(PDO::FETCH_OBJ);
+
 		foreach ($chars as $c) {
+			/* 
+		        Iae Mongol olha ai você se recusando a fazer as coisas do jeito certo de novo ...
+		        você é um mongoloide, afinal isso implica em uma serie de problemas de segurança e evita correções de bugs, seu mongol _|_ 
+		    */
+	        $sex = "";
+	        if( ! $c->sex ){
+	            $sex = account_gender($con, $account_id);
+	        }else{
+	            $sex = $c->sex;
+	        }
+
 			$account_id =  $c->account_id;
 			if ( ($c->sex == "F") && ( $c->hair == 36 ) ):
                 $fix = "fix-f-36";

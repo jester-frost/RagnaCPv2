@@ -812,9 +812,9 @@
 			echo "<div class='info'>
 				<div class='pvp-char'>
 					<div class='head'>
-						<img src='". get_bloginfo(template_url)  ."/images/cabelos/". $c->sex ."/cabelo-". ($c->hair+1) .".gif ' class='". $fix ."'/>
+						<img src='". get_bloginfo(template_url)  ."/images/cabelos/". $sex ."/cabelo-". ($c->hair+1) .".gif ' class='". $fix ."'/>
 					</div>
-					<img src='". get_bloginfo(template_url)  ."/images/classes/". $c->sex ."/". ($c->class) .".png '/> 
+					<img src='". get_bloginfo(template_url)  ."/images/classes/". $sex ."/". ($c->class) .".png '/> 
 				</div>";
 			echo "<p>" . ($job[$c->class]) . "</p>";
 			echo "<p>Level: <small>" . ($c->base_level) . "</small></p></div>";

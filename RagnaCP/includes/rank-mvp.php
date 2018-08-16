@@ -2,36 +2,38 @@
     include('config.php');
     $chars = topmvp($con);
 ?>
+
 <table  id="conteudo" class="mvp-table">
-	<thead>
-	    <tr class="ranking">
-	        <th>Pos</th>
-	        <th>
-	            <div align="center">Nome do jogador </div>
-	        </th>
-	        <th>
-	            <div align="center">Level</div>
-	        </th>
-	        <th>
-	            <div align="center">Classe</div>
-	        </th>
+    <thead>
+        <tr class="ranking">
+            <th>Pos</th>
+            <th>
+                <div align="center">Nome do jogador </div>
+            </th>
+            <th>
+                <div align="center">Level</div>
+            </th>
+            <th>
+                <div align="center">Classe</div>
+            </th>
             <th>
                 <div align="center">MVP's</div>
             </th>
-	        <th>
-	            <div align="center">Status</div>
-	        </th>
-	    </tr>
-	</thead>
-	<tbody>
+            <th>
+                <div align="center">Status</div>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
     <?php 
         include('jobs.php');
         $i = 0;
-        foreach ($chars as $c) :
-        $i = $i+1;
-		
-        if($c->online == 0) { $onlines = "<font color='red' face='Verdana'> OFFLINE </font>";}
-        if($c->online == 1) { $onlines = "<font color='green' face='Verdana'> ONLINE </font>";}
+        if( $chars ):
+            foreach ($chars as $c) :
+            $i = $i+1;
+            
+            if($c->online == 0) { $onlines = "<font color='red' face='Verdana'> OFFLINE </font>";}
+            if($c->online == 1) { $onlines = "<font color='green' face='Verdana'> ONLINE </font>";}
     ?>
     <tr>
         <td>
@@ -78,6 +80,11 @@
                 </div>
             </td>
         </tr>
-    <?php endforeach; ?>
+    <?php
+    endforeach;
+    else:
+        echo "Sem Caçadores de MVPs no momento... trágico...";
+    endif;
+    ?>
     </tbody>
 </table>

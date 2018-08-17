@@ -1,5 +1,4 @@
 <?php
-/* Template Name: [ chargen ] */
 /**
 * @fileoverview index.php, Dispatcher
 * @author Vincent Thibault (alias KeyWorld - Twitter: @robrowser)

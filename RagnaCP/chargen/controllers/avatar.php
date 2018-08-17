@@ -118,7 +118,7 @@ class Avatar_Controller extends Controller {
 	{
 		// Load Class and set parameters
 		$chargen                 =  new CharacterRender();
-		$chargen->action         =  CharacterRender::ACTION_IDLE;
+		$chargen->action         =  CharacterRender::ACTION_READYFIGHT;
 		$chargen->direction      =  CharacterRender::DIRECTION_SOUTH;
 		$chargen->body_animation =  0;
 		$chargen->doridori       =  0;

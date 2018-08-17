@@ -62,7 +62,7 @@ class CharacterHead_Controller extends Controller {
 			SELECT
 				char.hair, char.hair_color,
 				char.head_top, char.head_mid, char.head_bottom,
-				login.sex
+				char.sex
 			FROM `char`
 			LEFT JOIN `login` ON login.account_id = char.account_id
 			WHERE char.name = ?

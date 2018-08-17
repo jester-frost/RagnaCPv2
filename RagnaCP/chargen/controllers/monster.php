@@ -58,7 +58,7 @@ class Monster_Controller extends Controller {
 		$gen                 = new MonsterRender();
 		$gen->action         = MonsterRender::ACTION_IDLE;         // See constantes in
 		$gen->direction      = MonsterRender::DIRECTION_SOUTHEAST; // class.RORender.php
-		$gen->body_animation = 0;
+		$gen->body_animation = 1;
 		$gen->class          = $mobid;
 		//$gen->accessory      = 10013; // Pet accessory
 

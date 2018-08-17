@@ -67,7 +67,7 @@ class Avatar_Controller extends Controller {
 				char.head_top, char.head_mid, char.head_bottom,
 				char.robe, char.weapon, char.shield,
 				char.online, char.base_level, char.job_level,
-				login.sex,
+				char.sex,
 				guild.emblem_data
 			FROM `char`
 			LEFT JOIN `login` ON login.account_id = char.account_id

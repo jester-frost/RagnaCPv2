@@ -83,5 +83,6 @@ return array(
 	4190 => "\xbd\xb4\xc6\xdb\xb3\xeb\xba\xf1\xbd\xba\xc6\xf7\xb8\xb5", 4191 => "\xbd\xb4\xc6\xdb\xb3\xeb\xba\xf1\xbd\xba\xc6\xf7\xb8\xb5", // Super_Baby_E
 
 	4211 => "kagerou", //Job_Kagerou	4211
-	4212 => "oboro"    //Job_Oboro	4212
+	4212 => "oboro",    //Job_Oboro	4212
+	4218 => "วับน"    //Job_Doram	4218
 );

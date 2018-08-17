@@ -700,7 +700,7 @@
 	}
 	function resetar_cabelo($con, $char_id){
         $valor=array(':char_id'=>$char_id);
-		$player_query = $con->prepare("UPDATE `char` SET `hair_color` = '0', `hair` = '0', `clothes_color` = '0' WHERE `char_id`=:char_id");
+		$player_query = $con->prepare("UPDATE `char` SET `hair_color` = '1', `hair` = '1', `clothes_color` = '1' WHERE `char_id`=:char_id");
 		$player_query->execute($valor);
 		$msg = "Aparência do personagem foi resetada !";
 		return $msg;
@@ -792,32 +792,11 @@
 		$chars = $char_query->fetchAll(PDO::FETCH_OBJ);
 
 		foreach ($chars as $c) {
-			/* 
-		        Iae Mongol olha ai você se recusando a fazer as coisas do jeito certo de novo ...
-		        você é um mongoloide, afinal isso implica em uma serie de problemas de segurança e evita correções de bugs, seu mongol _|_ 
-		    */
-	        $sex = "";
-	        if( ! $c->sex ){
-	            $sex = account_gender($con, $account_id);
-	        }else{
-	            $sex = $c->sex;
-	        }
-
 			$account_id =  $c->account_id;
-			if ( ($c->sex == "F") && ( $c->hair == 36 ) ):
-                $fix = "fix-f-36";
-            else:
-            	$fix = "";
-            endif;
 			echo "<div class='info'>
 				<div class='pvp-char'>
-					<div class='head'>
-						<img src='". get_bloginfo(template_url)  ."/images/cabelos/". $sex ."/cabelo-". ($c->hair+1) .".gif ' class='". $fix ."'/>
-					</div>
-					<img src='". get_bloginfo(template_url)  ."/images/classes/". $sex ."/". ($c->class) .".png '/> 
+					<img src='". get_template_directory_uri()  ."/chargen/avatar/". $c->name ."'/> 
 				</div>";
-			echo "<p>" . ($job[$c->class]) . "</p>";
-			echo "<p>Level: <small>" . ($c->base_level) . "</small></p></div>";
 		}
 	}
                                             

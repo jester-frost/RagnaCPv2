@@ -463,7 +463,7 @@ background: #5B9EE7; */
     color:#6F6F6F;
 }
 .carousel-inner ul li .char {
-    margin:61px auto 0;
+    margin: 15px auto 0;
 }
 .carousel-inner ul li .char small {
     color: #E34444;
@@ -1315,40 +1315,14 @@ img.guild-emblem{
 .my-char,
 .pvp-char {
     text-align: center;
-    width:65px;
+    width:auto;
     margin-top: 20px;
+}
+.my-char {
+    text-align: left;
 }
 .pvp-char {
     margin: 0 auto;
-}
-.pvp-char .head,
-.estilo .head {
-    height: 24px;
-    width:36px;
-    margin:0 auto;
-    position: relative;
-    margin: 0 auto -6px auto;
-}
-.pvp-char .head img,
-.estilo .head img {
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin:auto;
-    top:0;
-}
-
-.pvp-char .head img[data-sex*='F'].fix-36,
-.estilo .head img[data-sex*='F'].fix-36 {
-    top: -20px!important;
-}
-
-.my-char img:first-child{
-    margin: 0 auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
 }
 .my-char img,
 .pvp-char img,{

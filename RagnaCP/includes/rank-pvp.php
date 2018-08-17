@@ -9,12 +9,11 @@
             <?php foreach ($dados as $dado ) :?>
                 <li>
                     <div>
-                        <h2 class='char-name'><?php echo $dado->name;?></h2>
+                        <span class="char clearfix"><?php $info = char_info($con, $dado->char_id);?></span>
                         <div class="posicao">
                             <span>Matou: <?php echo $dado->kills;?></span>
                             <span>Morreu: <?php echo $dado->deaths;?></span>
                         </div>
-                        <span class="char clearfix"><?php $info = char_info($con, $dado->char_id);?></span>
                     </div>
                 </li>
             <?php endforeach;?>

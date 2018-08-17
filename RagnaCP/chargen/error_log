@@ -1,0 +1,155 @@
+[18-Apr-2016 20:04:10 UTC] PHP Notice:  Undefined property: CharacterRender::$hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 148
+[18-Apr-2016 20:04:10 UTC] PHP Notice:  Undefined property: CharacterRender::$hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 148
+[18-Apr-2016 20:04:11 UTC] PHP Notice:  Undefined property: CharacterRender::$hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 148
+[18-Apr-2016 20:09:52 UTC] PHP Notice:  Undefined property: CharacterRender::$hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 128
+[18-Apr-2016 20:09:52 UTC] PHP Notice:  Undefined property: CharacterRender::$hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 128
+[18-Apr-2016 20:09:52 UTC] PHP Notice:  Undefined property: CharacterRender::$hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 128
+[18-Apr-2016 20:14:54 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 131
+[18-Apr-2016 20:15:23 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 131
+[18-Apr-2016 20:15:23 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 131
+[18-Apr-2016 20:17:44 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:17:44 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:17:44 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:22:51 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:22:51 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:22:52 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:29:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:29:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:29:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:31:23 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:31:23 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:31:23 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:31:40 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:31:40 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:31:40 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:32:30 UTC] PHP Notice:  Trying to get property of non-object in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 128
+[18-Apr-2016 20:32:30 UTC] PHP Notice:  Trying to get property of non-object in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 128
+[18-Apr-2016 20:32:30 UTC] PHP Notice:  Trying to get property of non-object in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 128
+[18-Apr-2016 20:40:22 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 127
+[18-Apr-2016 20:40:22 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 127
+[18-Apr-2016 20:40:27 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 127
+[18-Apr-2016 20:40:49 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 127
+[18-Apr-2016 20:40:49 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 127
+[18-Apr-2016 20:40:49 UTC] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING) in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 127
+[18-Apr-2016 20:49:02 UTC] PHP Notice:  Undefined index: hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:49:02 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:49:02 UTC] PHP Notice:  Undefined index: hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:49:02 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[18-Apr-2016 20:49:02 UTC] PHP Notice:  Undefined index: hair in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 80
+[18-Apr-2016 20:49:02 UTC] PHP Notice:  Undefined variable: hair_style in /home/eyhkbldg/public_html/ROChargenPHP/controllers/avatar.php on line 130
+[19-Apr-2016 21:56:40 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:56:41 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:57:25 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:57:26 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:57:50 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:57:51 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:58:03 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:58:03 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:58:03 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:58:29 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:58:30 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:58:36 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:59:01 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:59:01 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[19-Apr-2016 21:59:01 UTC] PHP Parse error:  syntax error, unexpected '其内其内_农风' (T_STRING), expecting ')' in /home/eyhkbldg/public_html/chargen/db/pals.php on line 32
+[20-Apr-2016 02:01:00 UTC] PHP Warning:  imagecreatefromjpeg(/home/eyhkbldg/public_html/chargen/cache/signature/data/background02.jpg): failed to open stream: No such file or directory in /home/eyhkbldg/public_html/chargen/controllers/signature.php on line 131
+[20-Apr-2016 02:01:00 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/eyhkbldg/public_html/chargen/controllers/signature.php on line 132
+[20-Apr-2016 16:38:39 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:39 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:39 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:39 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:38:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:09 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:09 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:09 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:09 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagepng(): gd-png error: no colors in palette in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 125
+[20-Apr-2016 16:41:58 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagepng(): gd-png error: no colors in palette in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 125
+[20-Apr-2016 16:41:58 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Notice:  Undefined variable: player in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 123
+[20-Apr-2016 16:41:58 UTC] PHP Warning:  imagepng(): gd-png error: no colors in palette in /home/eyhkbldg/public_html/chargen/controllers/character.php on line 125
+[20-Apr-2016 16:52:40 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[17-Jun-2016 19:05:59 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[06-Jul-2016 03:42:13 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[12-Jul-2016 19:14:47 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[12-Jul-2016 19:14:47 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=25822 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[14-Jul-2016 02:32:36 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[14-Jul-2016 02:32:46 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[26-Jul-2016 06:08:31 UTC] PHP Warning:  unlink(/home/eyhkbldg/public_html/chargen/cache//character/Orion.png): No such file or directory in /home/eyhkbldg/public_html/chargen/core/class.Cache.php on line 31
+[26-Jul-2016 06:08:31 UTC] PHP Warning:  unlink(/home/eyhkbldg/public_html/chargen/cache//character/Orion.png): No such file or directory in /home/eyhkbldg/public_html/chargen/core/class.Cache.php on line 31
+[19-Aug-2016 23:59:03 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[14-Sep-2016 17:27:48 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[14-Sep-2016 17:27:48 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=6423 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[14-Sep-2016 17:35:20 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[14-Sep-2016 17:35:20 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=9448 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[20-Sep-2016 06:10:26 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[20-Sep-2016 06:10:26 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28419 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[20-Sep-2016 06:22:38 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[20-Sep-2016 06:22:38 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=31689 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[20-Oct-2016 04:28:22 UTC] PHP Warning:  unlink(/home/eyhkbldg/public_html/chargen/cache//character/N o c o m e n t s.png): No such file or directory in /home/eyhkbldg/public_html/chargen/core/class.Cache.php on line 31
+[20-Oct-2016 22:13:37 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[20-Oct-2016 22:21:39 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[21-Oct-2016 21:54:53 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[23-Oct-2016 23:04:39 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[23-Oct-2016 23:07:55 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[26-Oct-2016 01:37:02 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[26-Oct-2016 01:37:12 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[26-Oct-2016 01:37:49 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[26-Oct-2016 01:37:49 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[26-Oct-2016 01:48:04 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[08-Nov-2016 11:35:51 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[08-Nov-2016 11:35:51 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[16-Nov-2016 18:32:04 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[16-Nov-2016 18:58:56 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[16-Nov-2016 20:04:46 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[16-Nov-2016 20:04:46 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=18841 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[17-Nov-2016 02:42:38 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[17-Nov-2016 02:42:38 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Nov-2016 21:38:41 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Nov-2016 21:38:41 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=20722 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Nov-2016 21:38:42 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Nov-2016 21:38:42 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=20733 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Nov-2016 21:38:44 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Nov-2016 21:38:44 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=20721 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[16-Dec-2016 04:41:28 UTC] PHP Warning:  unlink(/home/eyhkbldg/public_html/chargen/cache//character/Actinomyces Israelii.png): No such file or directory in /home/eyhkbldg/public_html/chargen/core/class.Cache.php on line 31
+[16-Dec-2016 04:41:28 UTC] PHP Warning:  unlink(/home/eyhkbldg/public_html/chargen/cache//character/Kathryne Keyron.png): No such file or directory in /home/eyhkbldg/public_html/chargen/core/class.Cache.php on line 31
+[16-Dec-2016 04:41:28 UTC] PHP Warning:  unlink(/home/eyhkbldg/public_html/chargen/cache//character/Dont you want me baby.png): No such file or directory in /home/eyhkbldg/public_html/chargen/core/class.Cache.php on line 31
+[16-Jan-2017 14:48:59 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Feb-2017 16:49:16 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[19-Feb-2017 20:12:52 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[01-Mar-2017 00:15:40 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[01-Mar-2017 02:15:22 UTC] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81
+[01-Mar-2017 02:15:22 UTC] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=5511 in /home/eyhkbldg/public_html/chargen/core/class.Controller.php on line 81

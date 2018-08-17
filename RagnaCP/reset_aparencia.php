@@ -75,30 +75,7 @@ get_header();
                                     <h4>Aparência de  <strong><?php echo $c->name; ?></strong> </h4>
                                     <div>
                                         <section class="my-char">
-                                        
-                                        <?php 
-                                            /* 
-                                                Caso algum mongolóide use uma versão muito antiga de emulador,
-                                                e se recuse a atualizar ... sim você é um mongoloide, afinal isso implica em uma serie de problemas de segurança e evita correções de bugs, seu mongol _|_ 
-                                            */
-                                                $sex = "";
-                                                if(! $c->sex ){
-                                                    $sex = $_SESSION['usuario']->sex;
-                                                }else{
-                                                    $sex = $c->sex;
-                                                }
-                                            
-                                            // Ajuste na imagem de cabelo feminino 36
-                                            if ( ( $c->hair == 36 ) && ( $sex == "F" ) ){
-                                                $fix = "fix-36";
-                                            }else{
-                                                $fix = "";
-                                            }
-                                        ?>
-                                            <span class="head">
-                                                <img src="<?php bloginfo(template_url) ?>/images/cabelos/<?php echo $sex; ?>/cabelo-<?php echo ($c->hair+1); ?>.gif" class="<?php echo $fix; ?>" alt=""/>
-                                            </span>
-                                            <img src="<?php bloginfo(template_url) ?>/images/classes/<?php echo $sex; ?>/<?php echo $c->class; ?>.png" alt=""/>
+                                            <img src='<?php echo get_template_directory_uri(); ?>/chargen/avatar/<?php echo $c->name; ?>'/> 
                                         </section>
                                         <table>
                                             <thead>

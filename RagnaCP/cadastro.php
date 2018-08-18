@@ -10,7 +10,7 @@
         $confirm_user_pass = str_replace($letters, "", $_POST["confirm_user_pass"]);
         $email = str_replace($letters, "", $_POST["email"]);
         $date = str_replace($letters, "", $_POST["birthdate"]);
-        $dados = registrar($con, $userid, $user_pass, $confirm_user_pass, $email, $date, $letters);
+        $dados = registrar($con, $userid, $user_pass, $confirm_user_pass, $email, $sex, $date, $letters);
     }
     $resumo = get_the_excerpt();
     get_header();

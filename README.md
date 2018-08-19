@@ -14,12 +14,7 @@ Os temas deverão ficar na pasta themes dentro de wordpress/wp-content
 	
 # Colabore
 Se deseja nos apoiar com desenvolvimeno desse projeto faça uma doação.
-<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
-<input type="hidden" name="currency" value="BRL" />
-<input type="hidden" name="receiverEmail" value="marcos@visie.com.br" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-azul.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
+<a rel="donate" href="https://pag.ae/bhC5mN6"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-azul.gif" alt=""></a>
 	
 # licença
 

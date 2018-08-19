@@ -700,7 +700,16 @@
 	}
 	function resetar_cabelo($con, $char_id){
         $valor=array(':char_id'=>$char_id);
-		$player_query = $con->prepare("UPDATE `char` SET `hair_color` = '1', `hair` = '1', `clothes_color` = '1' WHERE `char_id`=:char_id");
+
+        $search_char_query = $con->prepare("SELECT * FROM `char` WHERE char_id=:char_id");
+		$search_char_query->execute($valor);
+		$char = $search_char_query->fetch(PDO::FETCH_OBJ);
+        if( $char->class == 4218 || $char->class ==  4220 ){
+        	$hair = 31;
+        }else{
+        	$hair = 0;
+        }
+		$player_query = $con->prepare("UPDATE `char` SET `hair_color` = '1', `hair` = '".$hair."', `clothes_color` = '1' WHERE `char_id`=:char_id");
 		$player_query->execute($valor);
 		$msg = "Aparência do personagem foi resetada !";
 		return $msg;
@@ -710,7 +719,6 @@
         $valor=array(':char_id'=>$char_id);
 		$player_query = $con->prepare("UPDATE `char` SET `weapon` = '0', `shield` = '0', `robe` = '0', `head_top` = '0', `head_mid` = '0', `head_bottom` = '0' WHERE `char_id`=:char_id");
 		$equip_query = $con->prepare("UPDATE `inventory` SET `equip` = '0' WHERE `char_id`=:char_id");
-
 		$player_query->execute($valor);
 		$equip_query->execute($valor);
 		$msg = "Equipamentos do personagem foram removidos !";

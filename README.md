@@ -11,6 +11,11 @@ Os temas deverão ficar na pasta themes dentro de wordpress/wp-content
     WordPress >= 4.7.11
 	CUrl habilitado ( Para o PagSeguro )
 	SimpleXML habilitado ( Para o PagSeguro )
+	
+# Colabore
+Se deseja nos apoiar com desenvolvimeno desse projeto faça uma doação.<br>
+<a rel="donate" href="https://pag.ae/bhC5mN6"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-azul.gif" alt=""></a>
+	
 # licença
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Tema RagnaCP</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="ragnacrashers.com.br" property="cc:attributionName" rel="cc:attributionURL">Marcos Gonçalves de Lima</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição 4.0 Internacional</a>.<br />Baseado no trabalho disponível em <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jester-frost/RagnaCP/" rel="dct:source">https://github.com/jester-frost/RagnaCP/</a>.<br />Podem estar disponíveis autorizações adicionais às concedidas no âmbito desta licença enviando email para: <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:marcos@visie.com.br" rel="cc:morePermissions">marcos@visie.com.br</a>

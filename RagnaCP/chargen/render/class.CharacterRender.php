@@ -106,7 +106,8 @@ class CharacterRender extends RORender
 		$this->renderImage( $img, array(
 			"path" => "data/sprite/ÀÌÆÑÆ®/¼Õ¼ö·¹3",
 			"pos"  => (object)array( 'x' => -35, 'y' => 0)
-		));*/
+		));
+		*/
 
 		// Draw body, get head position
 		$pos = $this->renderImage( $img, array(

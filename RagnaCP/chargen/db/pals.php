@@ -155,7 +155,8 @@ return array(
 	4190 => "슈퍼노비스",    // Super Novice extend ?
 	4191 => "슈퍼노비스",
 
+
 	4211 => "kagerou", //Job_Kagerou	4211
 	4212 => "oboro",    //Job_Oboro	4212
-	4218 => "한복"    //Job_Doram	4218
+	4218 => "summoner"    //Job_Doram	4218
 );

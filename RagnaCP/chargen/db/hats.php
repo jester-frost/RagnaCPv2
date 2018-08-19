@@ -6,6 +6,3681 @@
  * @version 1.0.0
  */
 
+// Fail to find 'EVILMARCHER_HAT'
+// Fail to find 'DOKKEBI_MASK'
+// Fail to find 'HONEYBEE_HAT'
+// Fail to find 'FANCY_PHANTOM_MAS'
+// Fail to find 'PUPPY_GRASS'
+// Fail to find 'DEVIL_WHISPER'
+// Fail to find 'SKULL_CAP'
+// Fail to find 'EVIL_MASK'
+// Fail to find 'LITTLE_FHAT'
+// Fail to find 'LOVE_GUARD'
+// Fail to find 'WITCHS_HAT'
+// Fail to find 'LOVER_IN_MOUTH'
+// Fail to find 'CAMPUS_FESTIVAL'
+// Fail to find 'TAINI_CAP'
+// Fail to find 'BUTTERFLY_HAIRPIN'
+// Fail to find 'ASGARD_BLESS'
+// Fail to find 'GALAXY_CIRCLET'
+// Fail to find 'MALANGDO_HAT'
+// Fail to find 'MINI_TREE'
+// Fail to find 'KING_PRAWN_HAT'
+// Fail to find 'GENERAL_HELMET'
+// Fail to find 'SINSUNCHO_HAT'
+// Fail to find 'BONE_HAT'
+// Fail to find 'HEART_WING_HAIRBAND'
+// Fail to find 'LOVE_PIECE'
+// Fail to find 'ST_PAT_HAT'
+// Fail to find 'NUT_DONUT_MOUTH'
+// Fail to find 'STRETCHED_NOSE'
+// Fail to find 'ANCIENT_GOLD_ADORNMENT'
+// Fail to find 'LUCKY_HAT'
+// Fail to find 'BLACK_ANGEL_WING'
+// Fail to find 'BLUE_ANGEL_WING'
+// Fail to find 'CYAN_ANGEL_WING'
+// Fail to find 'GOLD_ANGEL_WING'
+// Fail to find 'GREEN_ANGEL_WING'
+// Fail to find 'PURPLE_ANGEL_WING'
+// Fail to find 'RED_ANGEL_WING'
+// Fail to find 'WHITE_ANGEL_WING'
+// Fail to find 'ARCHANGELING_PIN'
+// Fail to find 'DROPS_PIN'
+// Fail to find 'MARIN_PIN'
+// Fail to find 'POPORING_PIN'
+// Fail to find 'ANIMATED_ANGELING_HAT'
+// Fail to find 'ANIMATED_DROPS_HAT'
+// Fail to find 'ANIMATED_MARIN_HAT'
+// Fail to find 'ANIMATED_POPORING_HAT'
+// Fail to find 'BANDAID'
+// Fail to find 'BLACK_BANDAID'
+// Fail to find 'BLUE_BANDAID'
+// Fail to find 'CYAN_BANDAID'
+// Fail to find 'GOLD_BANDAID'
+// Fail to find 'GREEN_BANDAID'
+// Fail to find 'PURPLE_BANDAID'
+// Fail to find 'RED_BANDAID'
+// Fail to find 'WHITE_BANDAID'
+// Fail to find 'ASTRONAUT_HELMET'
+// Fail to find 'BLACK_ASTRONAUT_HELMET'
+// Fail to find 'CYAN_ASTRONAUT_HELMET'
+// Fail to find 'GOLD_ASTRONAUT_HELMET'
+// Fail to find 'GREEN_ASTRONAUT_HELMET'
+// Fail to find 'PURPLE_ASTRONAUT_HELMET'
+// Fail to find 'RED_ASTRONAUT_HELMET'
+// Fail to find 'WHITE_ASTRONAUT_HELMET'
+// Fail to find 'BLACK_AYAM'
+// Fail to find 'BLUE_AYAM'
+// Fail to find 'CYAN_AYAM'
+// Fail to find 'GOLD_AYAM'
+// Fail to find 'GREEN_AYAM'
+// Fail to find 'PURPLE_AYAM'
+// Fail to find 'WHITE_AYAM'
+// Fail to find 'AYOTHAYA_KING_S_HAT'
+// Fail to find 'BLACK_AYOTHAYA_KING_S_HAT'
+// Fail to find 'BLUE_AYOTHAYA_KING_S_HAT'
+// Fail to find 'CYAN_AYOTHAYA_KING_S_HAT'
+// Fail to find 'GOLD_AYOTHAYA_KING_S_HAT'
+// Fail to find 'GREEN_AYOTHAYA_KING_S_HAT'
+// Fail to find 'PURPLE_AYOTHAYA_KING_S_HAT'
+// Fail to find 'RED_AYOTHAYA_KING_S_HAT'
+// Fail to find 'WHITE_AYOTHAYA_KING_S_HAT'
+// Fail to find 'BLACK_BALLOON_HAT'
+// Fail to find 'BLUE_CAT_EARS'
+// Fail to find 'CYAN_CAT_EARS'
+// Fail to find 'GOLD_CAT_EARS'
+// Fail to find 'GREEN_CAT_EARS'
+// Fail to find 'PURPLE_CAT_EARS'
+// Fail to find 'RED_CAT_EARS'
+// Fail to find 'WHITE_CAT_EARS'
+// Fail to find 'BANDANA_MERAH_PUTIH'
+// Fail to find 'BLACK_BANDANA_MERAH_PUTIH'
+// Fail to find 'BLUE_BANDANA_MERAH_PUTIH'
+// Fail to find 'CYAN_BANDANA_MERAH_PUTIH'
+// Fail to find 'GOLD_BANDANA_MERAH_PUTIH'
+// Fail to find 'GREEN_BANDANA_MERAH_PUTIH'
+// Fail to find 'PURPLE_BANDANA_MERAH_PUTIH'
+// Fail to find 'WHITE_BANDANA_MERAH_PUTIH'
+// Fail to find 'BLACK_BASEBALL_CAP'
+// Fail to find 'CYAN_BASEBALL_CAP'
+// Fail to find 'GREEN_BASEBALL_CAP'
+// Fail to find 'PURPLE_BASEBALL_CAP'
+// Fail to find 'RED_BASEBALL_CAP'
+// Fail to find 'WHITE_BASEBALL_CAP'
+// Fail to find 'BLACK_BEANIE'
+// Fail to find 'BLUE_BEANIE'
+// Fail to find 'CYAN_BEANIE'
+// Fail to find 'GOLD_BEANIE'
+// Fail to find 'GREEN_BEANIE'
+// Fail to find 'PURPLE_BEANIE'
+// Fail to find 'RED_BEANIE'
+// Fail to find 'BLACK_BELL_RIBBON'
+// Fail to find 'BLUE_BELL_RIBBON'
+// Fail to find 'CYAN_BELL_RIBBON'
+// Fail to find 'GOLD_BELL_RIBBON'
+// Fail to find 'GREEN_BELL_RIBBON'
+// Fail to find 'PURPLE_BELL_RIBBON'
+// Fail to find 'WHITE_BELL_RIBBON'
+// Fail to find 'PLUNGER_HAT'
+// Fail to find 'RED_CANDLE'
+// Fail to find 'BLACK_HARUHI'
+// Fail to find 'BLUE_HARUHI'
+// Fail to find 'CYAN_HARUHI'
+// Fail to find 'GOLD_HARUHI'
+// Fail to find 'GREEN_HARUHI'
+// Fail to find 'HARUHI'
+// Fail to find 'PURPLE_HARUHI'
+// Fail to find 'RED_HARUHI'
+// Fail to find 'WHITE_HARUHI'
+// Fail to find 'BLACK_WANDERING_MINSTREL_HAT'
+// Fail to find 'BLUE_WANDERING_MINSTREL_HAT'
+// Fail to find 'CYAN_WANDERING_MINSTREL_HAT'
+// Fail to find 'GOLD_WANDERING_MINSTREL_HAT'
+// Fail to find 'PURPLE_WANDERING_MINSTREL_HAT'
+// Fail to find 'RED_WANDERING_MINSTREL_HAT'
+// Fail to find 'WHITE_WANDERING_MINSTREL_HAT'
+// Fail to find 'BLACK_FISH'
+// Fail to find 'CYAN_FISH'
+// Fail to find 'GOLD_FISH'
+// Fail to find 'GREEN_FISH'
+// Fail to find 'PURPLE_FISH'
+// Fail to find 'RED_FISH'
+// Fail to find 'WHITE_FISH'
+// Fail to find 'BLACK_HAIRBAND'
+// Fail to find 'CYAN_HAIRBAND'
+// Fail to find 'GOLD_HAIRBAND'
+// Fail to find 'GREEN_HAIRBAND'
+// Fail to find 'PURPLE_HAIRBAND'
+// Fail to find 'RED_HAIRBAND'
+// Fail to find 'WHITE_HAIRBAND'
+// Fail to find 'BLACK_BONE_HELM'
+// Fail to find 'BLUE_BONE_HELM'
+// Fail to find 'CYAN_BONE_HELM'
+// Fail to find 'GOLD_BONE_HELM'
+// Fail to find 'GREEN_BONE_HELM'
+// Fail to find 'PURPLE_BONE_HELM'
+// Fail to find 'RED_BONE_HELM'
+// Fail to find 'WHITE_BONE_HELM'
+// Fail to find 'BLACK_BONGUN_HAT'
+// Fail to find 'CYAN_BONGUN_HAT'
+// Fail to find 'GOLD_BONGUN_HAT'
+// Fail to find 'GREEN_BONGUN_HAT'
+// Fail to find 'PURPLE_BONGUN_HAT'
+// Fail to find 'RED_BONGUN_HAT'
+// Fail to find 'WHITE_BONGUN_HAT'
+// Fail to find 'BLACK_BOYS_CAP'
+// Fail to find 'BLUE_BOYS_CAP'
+// Fail to find 'CYAN_BOYS_CAP'
+// Fail to find 'GOLD_BOYS_CAP'
+// Fail to find 'GREEN_BOYS_CAP'
+// Fail to find 'PURPLE_BOYS_CAP'
+// Fail to find 'RED_BOYS_CAP'
+// Fail to find 'WHITE_BOYS_CAP'
+// Fail to find 'BLACK_BULLOCK_HELM'
+// Fail to find 'BLUE_BULLOCK_HELM'
+// Fail to find 'CYAN_BULLOCK_HELM'
+// Fail to find 'GOLD_BULLOCK_HELM'
+// Fail to find 'GREEN_BULLOCK_HELM'
+// Fail to find 'PURPLE_BULLOCK_HELM'
+// Fail to find 'RED_BULLOCK_HELM'
+// Fail to find 'WHITE_BULLOCK_HELM'
+// Fail to find 'BLACK_BUNNY_BAND'
+// Fail to find 'BLUE_BUNNY_BAND'
+// Fail to find 'CYAN_BUNNY_BAND'
+// Fail to find 'GOLD_BUNNY_BAND'
+// Fail to find 'GREEN_BUNNY_BAND'
+// Fail to find 'PURPLE_BUNNY_BAND'
+// Fail to find 'BLACK_CROW_HAT'
+// Fail to find 'BLUE_CROW_HAT'
+// Fail to find 'CROW_HAT'
+// Fail to find 'GOLD_CROW_HAT'
+// Fail to find 'GREEN_CROW_HAT'
+// Fail to find 'PURPLE_CROW_HAT'
+// Fail to find 'RED_CROW_HAT'
+// Fail to find 'WHITE_CROW_HAT'
+// Fail to find 'BLACK_CAP'
+// Fail to find 'BLUE_CAP'
+// Fail to find 'CYAN_CAP'
+// Fail to find 'GOLD_CAP'
+// Fail to find 'GREEN_CAP'
+// Fail to find 'PURPLE_CAP'
+// Fail to find 'RED_CAP'
+// Fail to find 'WHITE_CAP'
+// Fail to find 'BLACK_CAPTAIN_HAT'
+// Fail to find 'BLUE_CAPTAIN_HAT'
+// Fail to find 'CYAN_CAPTAIN_HAT'
+// Fail to find 'GOLD_CAPTAIN_HAT'
+// Fail to find 'GREEN_CAPTAIN_HAT'
+// Fail to find 'PURPLE_CAPTAIN_HAT'
+// Fail to find 'RED_CAPTAIN_HAT'
+// Fail to find 'WHITE_CAPTAIN_HAT'
+// Fail to find 'BLACK_CHULLOS'
+// Fail to find 'BLUE_CHULLOS'
+// Fail to find 'CYAN_CHULLOS'
+// Fail to find 'GOLD_CHULLOS'
+// Fail to find 'GREEN_CHULLOS'
+// Fail to find 'PURPLE_CHULLOS'
+// Fail to find 'WHITE_CHULLOS'
+// Fail to find 'BLACK_CLOSE_HELMET'
+// Fail to find 'CYAN_CLOSE_HELMET'
+// Fail to find 'GOLD_CLOSE_HELMET'
+// Fail to find 'GREEN_CLOSE_HELMET'
+// Fail to find 'PURPLE_CLOSE_HELMET'
+// Fail to find 'RED_CLOSE_HELMET'
+// Fail to find 'WHITE_CLOSE_HELMET'
+// Fail to find 'BLACK_COOKIE_HAT'
+// Fail to find 'BLUE_COOKIE_HAT'
+// Fail to find 'CYAN_COOKIE_HAT'
+// Fail to find 'GOLD_COOKIE_HAT'
+// Fail to find 'GREEN_COOKIE_HAT'
+// Fail to find 'PURPLE_COOKIE_HAT'
+// Fail to find 'WHITE_COOKIE_HAT'
+// Fail to find 'BLACK_COPPOLA'
+// Fail to find 'BLUE_COPPOLA'
+// Fail to find 'CYAN_COPPOLA'
+// Fail to find 'GOLD_COPPOLA'
+// Fail to find 'GREEN_COPPOLA'
+// Fail to find 'PURPLE_COPPOLA'
+// Fail to find 'RED_COPPOLA'
+// Fail to find 'WHITE_COPPOLA'
+// Fail to find 'BRONZE_CORONET'
+// Fail to find 'GOLD_CORONET'
+// Fail to find 'SILVER_CORONET'
+// Fail to find 'BLACK_CORSAIR'
+// Fail to find 'CYAN_CORSAIR'
+// Fail to find 'GOLD_CORSAIR'
+// Fail to find 'GREEN_CORSAIR'
+// Fail to find 'PURPLE_CORSAIR'
+// Fail to find 'RED_CORSAIR'
+// Fail to find 'WHITE_CORSAIR'
+// Fail to find 'BLACK_CUTIE_BANDANA'
+// Fail to find 'BLUE_CUTIE_BANDANA'
+// Fail to find 'CUTIE_BANDANA'
+// Fail to find 'CYAN_CUTIE_BANDANA'
+// Fail to find 'GOLD_CUTIE_BANDANA'
+// Fail to find 'GREEN_CUTIE_BANDANA'
+// Fail to find 'PURPLE_CUTIE_BANDANA'
+// Fail to find 'RED_CUTIE_BANDANA'
+// Fail to find 'BLUE_DARK_BASHILRIUM'
+// Fail to find 'CYAN_DARK_BASHILRIUM'
+// Fail to find 'GOLD_DARK_BASHILRIUM'
+// Fail to find 'GREEN_DARK_BASHILRIUM'
+// Fail to find 'PURPLE_DARK_BASHILRIUM'
+// Fail to find 'RED_DARK_BASHILRIUM'
+// Fail to find 'WHITE_DARK_BASHILRIUM'
+// Fail to find 'DARK_BLUE_VALKYRIE_HELM'
+// Fail to find 'DARK_BROWN_VALKYRIE_HELM'
+// Fail to find 'DARK_CYAN_VALKYRIE_HELM'
+// Fail to find 'DARK_GOLD_VALKYRIE_HELM'
+// Fail to find 'DARK_GREEN_VALKYRIE_HELM'
+// Fail to find 'DARK_ORANGE_VALKYRIE_HELM'
+// Fail to find 'DARK_PINK_VALKYRIE_HELM'
+// Fail to find 'DARK_PURPLE_VALKYRIE_HELM'
+// Fail to find 'DARK_RED_VALKYRIE_HELM'
+// Fail to find 'DARK_SILVER_VALKYRIE_HELM'
+// Fail to find 'BLACK_DECORATIVE_GEOGRAPHER'
+// Fail to find 'BLUE_DECORATIVE_GEOGRAPHER'
+// Fail to find 'CYAN_DECORATIVE_GEOGRAPHER'
+// Fail to find 'GOLD_DECORATIVE_GEOGRAPHER'
+// Fail to find 'PURPLE_DECORATIVE_GEOGRAPHER'
+// Fail to find 'RED_DECORATIVE_GEOGRAPHER'
+// Fail to find 'WHITE_DECORATIVE_GEOGRAPHER'
+// Fail to find 'BLUE_DEVILING_HAT'
+// Fail to find 'CYAN_DEVILING_HAT'
+// Fail to find 'GOLD_DEVILING_HAT'
+// Fail to find 'GREEN_DEVILING_HAT'
+// Fail to find 'PURPLE_DEVILING_HAT'
+// Fail to find 'RED_DEVILING_HAT'
+// Fail to find 'WHITE_DEVILING_HAT'
+// Fail to find 'BLUE_DEVIRUCHI_HAT'
+// Fail to find 'CYAN_DEVIRUCHI_HAT'
+// Fail to find 'GOLD_DEVIRUCHI_HAT'
+// Fail to find 'GREEN_DEVIRUCHI_HAT'
+// Fail to find 'PURPLE_DEVIRUCHI_HAT'
+// Fail to find 'RED_DEVIRUCHI_HAT'
+// Fail to find 'WHITE_DEVIRUCHI_HAT'
+// Fail to find 'BLACK_DIADEM'
+// Fail to find 'BLUE_DIADEM'
+// Fail to find 'CYAN_DIADEM'
+// Fail to find 'DIADEM'
+// Fail to find 'GREEN_DIADEM'
+// Fail to find 'PURPLE_DIADEM'
+// Fail to find 'RED_DIADEM'
+// Fail to find 'WHITE_DIADEM'
+// Fail to find 'BLACK_MERMAN_KING_HELM'
+// Fail to find 'BLUE_MERMAN_KING_HELM'
+// Fail to find 'CYAN_MERMAN_KING_HELM'
+// Fail to find 'GOLD_MERMAN_KING_HELM'
+// Fail to find 'GREEN_MERMAN_KING_HELM'
+// Fail to find 'PURPLE_MERMAN_KING_HELM'
+// Fail to find 'RED_MERMAN_KING_HELM'
+// Fail to find 'WHITE_MERMAN_KING_HELM'
+// Fail to find 'BLACK_DROOPING_CAT'
+// Fail to find 'BLUE_DROOPING_CAT'
+// Fail to find 'CYAN_DROOPING_CAT'
+// Fail to find 'GOLD_DROOPING_CAT'
+// Fail to find 'GREEN_DROOPING_CAT'
+// Fail to find 'PURPLE_DROOPING_CAT'
+// Fail to find 'RED_DROOPING_CAT'
+// Fail to find 'WHITE_DROOPING_CAT'
+// Fail to find 'BLACK_DROOPING_LIF'
+// Fail to find 'BLUE_DROOPING_LIF'
+// Fail to find 'CYAN_DROOPING_LIF'
+// Fail to find 'GOLD_DROOPING_LIF'
+// Fail to find 'PURPLE_DROOPING_LIF'
+// Fail to find 'RED_DROOPING_LIF'
+// Fail to find 'WHITE_DROOPING_LIF'
+// Fail to find 'BLACK_EGG_SHELL'
+// Fail to find 'BLUE_EGG_SHELL'
+// Fail to find 'CYAN_EGG_SHELL'
+// Fail to find 'GOLD_EGG_SHELL'
+// Fail to find 'GREEN_EGG_SHELL'
+// Fail to find 'PURPLE_EGG_SHELL'
+// Fail to find 'RED_EGG_SHELL'
+// Fail to find 'WHITE_EGG_SHELL'
+// Fail to find 'BLACK_ELEPHANT_HAT'
+// Fail to find 'CYAN_ELEPHANT_HAT'
+// Fail to find 'GOLD_ELEPHANT_HAT'
+// Fail to find 'GREEN_ELEPHANT_HAT'
+// Fail to find 'PURPLE_ELEPHANT_HAT'
+// Fail to find 'RED_ELEPHANT_HAT'
+// Fail to find 'WHITE_ELEPHANT_HAT'
+// Fail to find 'BLACK_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'CYAN_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'ENCHANTED_MAGICAL_HAT'
+// Fail to find 'GOLD_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'GREEN_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'PURPLE_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'RED_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'WHITE_ENCHANTED_MAGICAL_HAT'
+// Fail to find 'BLUE_EVIL_WING'
+// Fail to find 'CYAN_EVIL_WING'
+// Fail to find 'GOLD_EVIL_WING'
+// Fail to find 'GREEN_EVIL_WING'
+// Fail to find 'PURPLE_EVIL_WING'
+// Fail to find 'RED_EVIL_WING'
+// Fail to find 'WHITE_EVIL_WING'
+// Fail to find 'BLACK_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'BLUE_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'CYAN_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'GOLD_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'GREEN_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'PURPLE_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'RED_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'WHITE_EVOLVED_MAJESTIC_GOAT'
+// Fail to find 'BLACK_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'BLUE_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'CYAN_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'GOLD_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'GREEN_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'PURPLE_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'WHITE_EVOLVED_RABBITS_HEADBAND'
+// Fail to find 'BLACK_EXECUTIONER_HOOD'
+// Fail to find 'BLUE_EXECUTIONER_HOOD'
+// Fail to find 'CYAN_EXECUTIONER_HOOD'
+// Fail to find 'GOLD_EXECUTIONER_HOOD'
+// Fail to find 'GREEN_EXECUTIONER_HOOD'
+// Fail to find 'RED_EXECUTIONER_HOOD'
+// Fail to find 'WHITE_EXECUTIONER_HOOD'
+// Fail to find 'BLACK_FASHION_SUNGLASSES'
+// Fail to find 'BLUE_FASHION_SUNGLASSES'
+// Fail to find 'CYAN_FASHION_SUNGLASSES'
+// Fail to find 'GOLD_FASHION_SUNGLASSES'
+// Fail to find 'GREEN_FASHION_SUNGLASSES'
+// Fail to find 'PURPLE_FASHION_SUNGLASSES'
+// Fail to find 'WHITE_FASHION_SUNGLASSES'
+// Fail to find 'BLACK_FISH_HEAD_HAT'
+// Fail to find 'CYAN_FISH_HEAD_HAT'
+// Fail to find 'GOLD_FISH_HEAD_HAT'
+// Fail to find 'GREEN_FISH_HEAD_HAT'
+// Fail to find 'PURPLE_FISH_HEAD_HAT'
+// Fail to find 'RED_FISH_HEAD_HAT'
+// Fail to find 'WHITE_FISH_HEAD_HAT'
+// Fail to find 'BLACK_FLOWER_HAIRPIN'
+// Fail to find 'BLUE_FLOWER_HAIRPIN'
+// Fail to find 'CYAN_FLOWER_HAIRPIN'
+// Fail to find 'GOLD_FLOWER_HAIRPIN'
+// Fail to find 'GREEN_FLOWER_HAIRPIN'
+// Fail to find 'PURPLE_FLOWER_HAIRPIN'
+// Fail to find 'WHITE_FLOWER_HAIRPIN'
+// Fail to find 'BLACK_FREYA_HAT'
+// Fail to find 'BLUE_FREYA_HAT'
+// Fail to find 'CYAN_FREYA_HAT'
+// Fail to find 'FREYA_HAT'
+// Fail to find 'GOLD_FREYA_HAT'
+// Fail to find 'GREEN_FREYA_HAT'
+// Fail to find 'PURPLE_FREYA_HAT'
+// Fail to find 'WHITE_FREYA_HAT'
+// Fail to find 'BLACK_GHOST_BANDANA'
+// Fail to find 'BLUE_GHOST_BANDANA'
+// Fail to find 'CYAN_GHOST_BANDANA'
+// Fail to find 'GOLD_GHOST_BANDANA'
+// Fail to find 'GREEN_GHOST_BANDANA'
+// Fail to find 'PURPLE_GHOST_BANDANA'
+// Fail to find 'RED_GHOST_BANDANA'
+// Fail to find 'BLACK_GOIBNE_HELM'
+// Fail to find 'CYAN_GOIBNE_HELM'
+// Fail to find 'GOLD_GOIBNE_HELM'
+// Fail to find 'GREEN_GOIBNE_HELM'
+// Fail to find 'PURPLE_GOIBNE_HELM'
+// Fail to find 'RED_GOIBNE_HELM'
+// Fail to find 'WHITE_GOIBNE_HELM'
+// Fail to find 'BLACK_CROWN'
+// Fail to find 'BLUE_CROWN'
+// Fail to find 'BROWN_CROWN'
+// Fail to find 'CYAN_CROWN'
+// Fail to find 'GOLD_CROWN'
+// Fail to find 'GREEN_CROWN'
+// Fail to find 'ORANGE_CROWN'
+// Fail to find 'PINK_CROWN'
+// Fail to find 'PURPLE_CROWN'
+// Fail to find 'RED_CROWN'
+// Fail to find 'SILVER_CROWN'
+// Fail to find 'WHITE_CROWN'
+// Fail to find 'GOLDEN_CROWN'
+// Fail to find 'BLACK_GOLDEN_GEAR'
+// Fail to find 'BLUE_GOLDEN_GEAR'
+// Fail to find 'CYAN_GOLDEN_GEAR'
+// Fail to find 'GOLD_GOLDEN_GEAR'
+// Fail to find 'GREEN_GOLDEN_GEAR'
+// Fail to find 'PURPLE_GOLDEN_GEAR'
+// Fail to find 'RED_GOLDEN_GEAR'
+// Fail to find 'WHITE_GOLDEN_GEAR'
+// Fail to find 'BLACK_FEELER'
+// Fail to find 'BLUE_FEELER'
+// Fail to find 'CYAN_FEELER'
+// Fail to find 'GOLD_FEELER'
+// Fail to find 'PURPLE_FEELER'
+// Fail to find 'RED_FEELER'
+// Fail to find 'WHITE_FEELER'
+// Fail to find 'BRONZE_HALO'
+// Fail to find 'GOLD_HALO'
+// Fail to find 'SILVER_HALO'
+// Fail to find 'BLACK_GARM_HAT'
+// Fail to find 'BLOODY_GARM_HAT'
+// Fail to find 'BLUE_GARM_HAT'
+// Fail to find 'CYAN_GARM_HAT'
+// Fail to find 'DARK_GARM_HAT'
+// Fail to find 'GARM_HAT'
+// Fail to find 'GOLD_GARM_HAT'
+// Fail to find 'GREEN_GARM_HAT'
+// Fail to find 'PURPLE_GARM_HAT'
+// Fail to find 'RED_GARM_HAT'
+// Fail to find 'SUNSHINE_GARM_HAT'
+// Fail to find 'WHITE_GARM_HAT'
+// Fail to find 'BLACK_HAT'
+// Fail to find 'BLUE_HAT'
+// Fail to find 'CYAN_HAT'
+// Fail to find 'GOLD_HAT'
+// Fail to find 'GREEN_HAT'
+// Fail to find 'PURPLE_HAT'
+// Fail to find 'RED_HAT'
+// Fail to find 'WHITE_HAT'
+// Fail to find 'CYAN_HELM_OF_ANGEL'
+// Fail to find 'GOLD_HELM_OF_ANGEL'
+// Fail to find 'PURPLE_HELM_OF_ANGEL'
+// Fail to find 'RED_HELM_OF_ANGEL'
+// Fail to find 'GREEN_HELM_OF_ANGEL'
+// Fail to find 'BLACK_HELM_OF_ANGEL'
+// Fail to find 'BLUE_HELM_OF_ANGEL'
+// Fail to find 'BLUE_HELM_OF_BAAL'
+// Fail to find 'CYAN_HELM_OF_BAAL'
+// Fail to find 'GOLD_HELM_OF_BAAL'
+// Fail to find 'GREEN_HELM_OF_BAAL'
+// Fail to find 'HELM_OF_BAAL'
+// Fail to find 'PURPLE_HELM_OF_BAAL'
+// Fail to find 'RED_HELM_OF_BAAL'
+// Fail to find 'WHITE_HELM_OF_BAAL'
+// Fail to find 'BLACK_HOKAGE_HAT'
+// Fail to find 'BLUE_HOKAGE_HAT'
+// Fail to find 'CYAN_HOKAGE_HAT'
+// Fail to find 'GOLD_HOKAGE_HAT'
+// Fail to find 'GREEN_HOKAGE_HAT'
+// Fail to find 'HOKAGE_HAT'
+// Fail to find 'PURPLE_HOKAGE_HAT'
+// Fail to find 'RED_HOKAGE_HAT'
+// Fail to find 'WHITE_HOKAGE_HAT'
+// Fail to find 'BLACK_HOLY_MARCHER_HAT'
+// Fail to find 'CYAN_HOLY_MARCHER_HAT'
+// Fail to find 'GOLD_HOLY_MARCHER_HAT'
+// Fail to find 'GREEN_HOLY_MARCHER_HAT'
+// Fail to find 'HOLY_MARCHER_HAT'
+// Fail to find 'PURPLE_HOLY_MARCHER_HAT'
+// Fail to find 'RED_HOLY_MARCHER_HAT'
+// Fail to find 'WHITE_HOLY_MARCHER_HAT'
+// Fail to find 'BLACK_HOOD_OF_DEATH'
+// Fail to find 'BLUE_HOOD_OF_DEATH'
+// Fail to find 'CYAN_HOOD_OF_DEATH'
+// Fail to find 'GOLD_HOOD_OF_DEATH'
+// Fail to find 'GREEN_HOOD_OF_DEATH'
+// Fail to find 'HOOD_OF_DEATH'
+// Fail to find 'PURPLE_HOOD_OF_DEATH'
+// Fail to find 'RED_HOOD_OF_DEATH'
+// Fail to find 'WHITE_HOOD_OF_DEATH'
+// Fail to find 'BLACK_DETECTIVE_CAP'
+// Fail to find 'BLUE_DETECTIVE_CAP'
+// Fail to find 'CYAN_DETECTIVE_CAP'
+// Fail to find 'GOLD_DETECTIVE_CAP'
+// Fail to find 'GREEN_DETECTIVE_CAP'
+// Fail to find 'PURPLE_DETECTIVE_CAP'
+// Fail to find 'RED_DETECTIVE_CAP'
+// Fail to find 'WHITE_DETECTIVE_CAP'
+// Fail to find 'BLACK_HUNTER_CAP'
+// Fail to find 'BLUE_HUNTER_CAP'
+// Fail to find 'CYAN_HUNTER_CAP'
+// Fail to find 'GOLD_HUNTER_CAP'
+// Fail to find 'GREEN_HUNTER_CAP'
+// Fail to find 'PURPLE_HUNTER_CAP'
+// Fail to find 'RED_HUNTER_CAP'
+// Fail to find 'WHITE_HUNTER_CAP'
+// Fail to find 'BLACK_INCUBUS_HORN'
+// Fail to find 'BLUE_INCUBUS_HORN'
+// Fail to find 'CYAN_INCUBUS_HORN'
+// Fail to find 'GOLD_INCUBUS_HORN'
+// Fail to find 'GREEN_INCUBUS_HORN'
+// Fail to find 'PURPLE_INCUBUS_HORN'
+// Fail to find 'RED_INCUBUS_HORN'
+// Fail to find 'WHITE_INCUBUS_HORN'
+// Fail to find 'BLACK_INDIAN_HEADBAND'
+// Fail to find 'CYAN_INDIAN_HEADBAND'
+// Fail to find 'GOLD_INDIAN_HEADBAND'
+// Fail to find 'GREEN_INDIAN_HEADBAND'
+// Fail to find 'PURPLE_INDIAN_HEADBAND'
+// Fail to find 'RED_INDIAN_HEADBAND'
+// Fail to find 'WHITE_INDIAN_HEADBAND'
+// Fail to find 'BLACK_JACK_BE_DANDY'
+// Fail to find 'BLUE_JACK_BE_DANDY'
+// Fail to find 'CYAN_JACK_BE_DANDY'
+// Fail to find 'GOLD_JACK_BE_DANDY'
+// Fail to find 'GREEN_JACK_BE_DANDY'
+// Fail to find 'PURPLE_JACK_BE_DANDY'
+// Fail to find 'RED_JACK_BE_DANDY'
+// Fail to find 'BLACK_JEWEL_CROWN'
+// Fail to find 'BLUE_JEWEL_CROWN'
+// Fail to find 'CYAN_JEWEL_CROWN'
+// Fail to find 'GOLD_JEWEL_CROWN'
+// Fail to find 'GREEN_JEWEL_CROWN'
+// Fail to find 'PURPLE_JEWEL_CROWN'
+// Fail to find 'WHITE_JEWEL_CROWN'
+// Fail to find 'FRENCH_JOKER_JESTER'
+// Fail to find 'ITALIA_JOKER_JESTER'
+// Fail to find 'RASTAFARAI_JOKER_JESTER'
+// Fail to find 'BLUE_JUDGE_CAP'
+// Fail to find 'CYAN_JUDGE_CAP'
+// Fail to find 'GOLD_JUDGE_CAP'
+// Fail to find 'GREEN_JUDGE_CAP'
+// Fail to find 'JUDGE_CAP'
+// Fail to find 'PURPLE_JUDGE_CAP'
+// Fail to find 'RED_JUDGE_CAP'
+// Fail to find 'WHITE_JUDGE_CAP'
+// Fail to find 'BLACK_KAWAII_RIBBON'
+// Fail to find 'BLUE_KAWAII_RIBBON'
+// Fail to find 'CYAN_KAWAII_RIBBON'
+// Fail to find 'GOLD_KAWAII_RIBBON'
+// Fail to find 'GREEN_KAWAII_RIBBON'
+// Fail to find 'PURPLE_KAWAII_RIBBON'
+// Fail to find 'WHITE_KAWAII_RIBBON'
+// Fail to find 'BLACK_KITSUNE_MASK'
+// Fail to find 'BLUE_KITSUNE_MASK'
+// Fail to find 'CYAN_KITSUNE_MASK'
+// Fail to find 'GOLD_KITSUNE_MASK'
+// Fail to find 'GREEN_KITSUNE_MASK'
+// Fail to find 'PURPLE_KITSUNE_MASK'
+// Fail to find 'WHITE_KITSUNE_MASK'
+// Fail to find 'BLACK_LARGE_HIBISCUS'
+// Fail to find 'BLUE_LARGE_HIBISCUS'
+// Fail to find 'CYAN_LARGE_HIBISCUS'
+// Fail to find 'GOLD_LARGE_HIBISCUS'
+// Fail to find 'GREEN_LARGE_HIBISCUS'
+// Fail to find 'LARGE_HIBISCUS'
+// Fail to find 'PURPLE_LARGE_HIBISCUS'
+// Fail to find 'WHITE_LARGE_HIBISCUS'
+// Fail to find 'BLACK_LAUREL_CROWN'
+// Fail to find 'BLUE_LAUREL_CROWN'
+// Fail to find 'CYAN_LAUREL_CROWN'
+// Fail to find 'GOLD_LAUREL_CROWN'
+// Fail to find 'GREEN_LAUREL_CROWN'
+// Fail to find 'PURPLE_LAUREL_CROWN'
+// Fail to find 'WHITE_LAUREL_CROWN'
+// Fail to find 'BLACK_LITTLE_ANGEL_DOLL'
+// Fail to find 'CYAN_LITTLE_ANGEL_DOLL'
+// Fail to find 'GOLD_LITTLE_ANGEL_DOLL'
+// Fail to find 'GREEN_LITTLE_ANGEL_DOLL'
+// Fail to find 'PURPLE_LITTLE_ANGEL_DOLL'
+// Fail to find 'RED_LITTLE_ANGEL_DOLL'
+// Fail to find 'WHITE_LITTLE_ANGEL_DOLL'
+// Fail to find 'BLACK_LORD_KAHO_HORN'
+// Fail to find 'BLUE_LORD_KAHO_HORN'
+// Fail to find 'CYAN_LORD_KAHO_HORN'
+// Fail to find 'GOLD_LORD_KAHO_HORN'
+// Fail to find 'GREEN_LORD_KAHO_HORN'
+// Fail to find 'PURPLE_LORD_KAHO_HORN'
+// Fail to find 'RED_LORD_KAHO_HORN'
+// Fail to find 'WHITE_LORD_KAHO_HORN'
+// Fail to find 'BLACK_LOTUS'
+// Fail to find 'BLUE_LOTUS'
+// Fail to find 'CYAN_LOTUS'
+// Fail to find 'GOLD_LOTUS'
+// Fail to find 'GREEN_LOTUS'
+// Fail to find 'PURPLE_LOTUS'
+// Fail to find 'RED_LOTUS'
+// Fail to find 'WHITE_LOTUS'
+// Fail to find 'BLACK_LOVE_HAT'
+// Fail to find 'BLUE_LOVE_HAT'
+// Fail to find 'CYAN_LOVE_HAT'
+// Fail to find 'GOLD_LOVE_HAT'
+// Fail to find 'GREEN_LOVE_HAT'
+// Fail to find 'PURPLE_LOVE_HAT'
+// Fail to find 'RED_LOVE_HAT'
+// Fail to find 'WHITE_LOVE_HAT'
+// Fail to find 'BLACK_MAGE_HAT'
+// Fail to find 'BLUE_MAGE_HAT'
+// Fail to find 'CYAN_MAGE_HAT'
+// Fail to find 'GOLD_MAGE_HAT'
+// Fail to find 'PURPLE_MAGE_HAT'
+// Fail to find 'RED_MAGE_HAT'
+// Fail to find 'WHITE_MAGE_HAT'
+// Fail to find 'BLACK_MAGIC_EYES'
+// Fail to find 'BLUE_MAGIC_EYES'
+// Fail to find 'CYAN_MAGIC_EYES'
+// Fail to find 'GOLD_MAGIC_EYES'
+// Fail to find 'GREEN_MAGIC_EYES'
+// Fail to find 'PURPLE_MAGIC_EYES'
+// Fail to find 'RED_MAGIC_EYES'
+// Fail to find 'WHITE_MAGIC_EYES'
+// Fail to find 'BLUE_MAGICIAN_HAT'
+// Fail to find 'CYAN_MAGICIAN_HAT'
+// Fail to find 'GOLD_MAGICIAN_HAT'
+// Fail to find 'GREEN_MAGICIAN_HAT'
+// Fail to find 'PURPLE_MAGICIAN_HAT'
+// Fail to find 'RED_MAGICIAN_HAT'
+// Fail to find 'WHITE_MAGICIAN_HAT'
+// Fail to find 'BLACK_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'BLUE_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'CYAN_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'GOLD_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'GREEN_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'PURPLE_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'RED_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'WHITE_MAIDEN_S_TWIN_RIBBON'
+// Fail to find 'BLACK_MAJESTIC_GOAT'
+// Fail to find 'BLUE_MAJESTIC_GOAT'
+// Fail to find 'CYAN_MAJESTIC_GOAT'
+// Fail to find 'GOLD_MAJESTIC_GOAT'
+// Fail to find 'GREEN_MAJESTIC_GOAT'
+// Fail to find 'PURPLE_MAJESTIC_GOAT'
+// Fail to find 'RED_MAJESTIC_GOAT'
+// Fail to find 'WHITE_MAJESTIC_GOAT'
+// Fail to find 'BLACK_MARDUK_HAT'
+// Fail to find 'BLUE_MARDUK_HAT'
+// Fail to find 'CYAN_MARDUK_HAT'
+// Fail to find 'GOLD_MARDUK_HAT'
+// Fail to find 'GREEN_MARDUK_HAT'
+// Fail to find 'MARDUK_HAT'
+// Fail to find 'PURPLE_MARDUK_HAT'
+// Fail to find 'RED_MARDUK_HAT'
+// Fail to find 'WHITE_MARDUK_HAT'
+// Fail to find 'BLACK_MARIJUANA_BERET'
+// Fail to find 'BLUE_MARIJUANA_BERET'
+// Fail to find 'CYAN_MARIJUANA_BERET'
+// Fail to find 'GOLD_MARIJUANA_BERET'
+// Fail to find 'GREEN_MARIJUANA_BERET'
+// Fail to find 'PINK_MARIJUANA_BERET'
+// Fail to find 'RED_MARIJUANA_BERET'
+// Fail to find 'WHITE_MARIJUANA_BERET'
+// Fail to find 'BLACK_MARIONETTE_DOLL'
+// Fail to find 'CYAN_MARIONETTE_DOLL'
+// Fail to find 'GOLD_MARIONETTE_DOLL'
+// Fail to find 'GREEN_MARIONETTE_DOLL'
+// Fail to find 'PURPLE_MARIONETTE_DOLL'
+// Fail to find 'RED_MARIONETTE_DOLL'
+// Fail to find 'WHITE_MARIONETTE_DOLL'
+// Fail to find 'GOLDEN_MODEL_TRAINING_HAT'
+// Fail to find 'GRANNY_MODEL_TRAINING_HAT'
+// Fail to find 'BLACK_MONK_HOOD'
+// Fail to find 'BLUE_MONK_HOOD'
+// Fail to find 'CYAN_MONK_HOOD'
+// Fail to find 'GOLD_MONK_HOOD'
+// Fail to find 'GREEN_MONK_HOOD'
+// Fail to find 'MONK_HOOD'
+// Fail to find 'PURPLE_MONK_HOOD'
+// Fail to find 'RED_MONK_HOOD'
+// Fail to find 'BLACK_MORPHEUS_HOOD'
+// Fail to find 'CYAN_MORPHEUS_HOOD'
+// Fail to find 'GOLD_MORPHEUS_HOOD'
+// Fail to find 'GREEN_MORPHEUS_HOOD'
+// Fail to find 'PURPLE_MORPHEUS_HOOD'
+// Fail to find 'RED_MORPHEUS_HOOD'
+// Fail to find 'WHITE_MORPHEUS_HOOD'
+// Fail to find 'BLACK_MORRIGANE_HELM'
+// Fail to find 'BLUE_MORRIGANE_HELM'
+// Fail to find 'CYAN_MORRIGANE_HELM'
+// Fail to find 'GOLD_MORRIGANE_HELM'
+// Fail to find 'GREEN_MORRIGANE_HELM'
+// Fail to find 'RED_MORRIGANE_HELM'
+// Fail to find 'WHITE_MORRIGANE_HELM'
+// Fail to find 'BLACK_MUNAK_HAT'
+// Fail to find 'BLUE_MUNAK_HAT'
+// Fail to find 'CYAN_MUNAK_HAT'
+// Fail to find 'GOLD_MUNAK_HAT'
+// Fail to find 'GREEN_MUNAK_HAT'
+// Fail to find 'PURPLE_MUNAK_HAT'
+// Fail to find 'WHITE_MUNAK_HAT'
+// Fail to find 'BLACK_NEKO_MIMI'
+// Fail to find 'BLUE_NEKO_MIMI'
+// Fail to find 'CYAN_NEKO_MIMI'
+// Fail to find 'GOLD_NEKO_MIMI'
+// Fail to find 'GREEN_NEKO_MIMI'
+// Fail to find 'PURPLE_NEKO_MIMI'
+// Fail to find 'RED_NEKO_MIMI'
+// Fail to find 'WHITE_NEKO_MIMI'
+// Fail to find 'NEW_BASEBALL_CAP'
+// Fail to find 'NEW_BLACK_BASEBALL_CAP'
+// Fail to find 'NEW_BLUE_BASEBALL_CAP'
+// Fail to find 'NEW_CYAN_BASEBALL_CAP'
+// Fail to find 'NEW_GOLD_BASEBALL_CAP'
+// Fail to find 'NEW_GREEN_BASEBALL_CAP'
+// Fail to find 'NEW_PURPLE_BASEBALL_CAP'
+// Fail to find 'NEW_RED_BASEBALL_CAP'
+// Fail to find 'NEW_WHITE_BASEBALL_CAP'
+// Fail to find 'NEW_BLACK_HELM'
+// Fail to find 'NEW_BLUE_HELM'
+// Fail to find 'NEW_CYAN_HELM'
+// Fail to find 'NEW_GOLD_HELM'
+// Fail to find 'NEW_GREEN_HELM'
+// Fail to find 'NEW_PINK_HELM'
+// Fail to find 'NEW_PURPLE_HELM'
+// Fail to find 'NEW_RED_HELM'
+// Fail to find 'NEW_BLACK_VALKYRIE_HELM'
+// Fail to find 'NEW_BLUE_VALKYRIE_HELM'
+// Fail to find 'NEW_BROWN_VALKYRIE_HELM'
+// Fail to find 'NEW_CYAN_VALKYRIE_HELM'
+// Fail to find 'NEW_GOLD_VALKYRIE_HELM'
+// Fail to find 'NEW_GREEN_VALKYRIE_HELM'
+// Fail to find 'NEW_ORANGE_VALKYRIE_HELM'
+// Fail to find 'NEW_PINK_VALKYRIE_HELM'
+// Fail to find 'NEW_PURPLE_VALKYRIE_HELM'
+// Fail to find 'NEW_RED_VALKYRIE_HELM'
+// Fail to find 'NEW_SILVER_VALKYRIE_HELM'
+// Fail to find 'NEW_WHITE_VALKYRIE_HELM'
+// Fail to find 'BLACK_NOTE_HEADPHONES'
+// Fail to find 'CYAN_NOTE_HEADPHONES'
+// Fail to find 'GOLD_NOTE_HEADPHONES'
+// Fail to find 'GREEN_NOTE_HEADPHONES'
+// Fail to find 'PURPLE_NOTE_HEADPHONES'
+// Fail to find 'RED_NOTE_HEADPHONES'
+// Fail to find 'WHITE_NOTE_HEADPHONES'
+// Fail to find 'BLACK_NUTSHELL'
+// Fail to find 'BLUE_NUTSHELL'
+// Fail to find 'CYAN_NUTSHELL'
+// Fail to find 'GOLD_NUTSHELL'
+// Fail to find 'GREEN_NUTSHELL'
+// Fail to find 'PURPLE_NUTSHELL'
+// Fail to find 'WHITE_NUTSHELL'
+// Fail to find 'BLACK_ORCHID_HAIRBAND'
+// Fail to find 'BLUE_ORCHID_HAIRBAND'
+// Fail to find 'CYAN_ORCHID_HAIRBAND'
+// Fail to find 'GOLD_ORCHID_HAIRBAND'
+// Fail to find 'GREEN_ORCHID_HAIRBAND'
+// Fail to find 'ORCHID_HAIRBAND'
+// Fail to find 'RED_ORCHID_HAIRBAND'
+// Fail to find 'WHITE_ORCHID_HAIRBAND'
+// Fail to find 'BLACK_ORCISH_HELM'
+// Fail to find 'BLUE_ORCISH_HELM'
+// Fail to find 'CYAN_ORCISH_HELM'
+// Fail to find 'GOLD_ORCISH_HELM'
+// Fail to find 'GREEN_ORCISH_HELM'
+// Fail to find 'ORCISH_HELM'
+// Fail to find 'PURPLE_ORCISH_HELM'
+// Fail to find 'RED_ORCISH_HELM'
+// Fail to find 'WHITE_ORCISH_HELM'
+// Fail to find 'BLACK_PARCEL_HAT'
+// Fail to find 'CYAN_PARCEL_HAT'
+// Fail to find 'GOLD_PARCEL_HAT'
+// Fail to find 'GREEN_PARCEL_HAT'
+// Fail to find 'PURPLE_PARCEL_HAT'
+// Fail to find 'RED_PARCEL_HAT'
+// Fail to find 'WHITE_PARCEL_HAT'
+// Fail to find 'BLACK_PARTY_HAT'
+// Fail to find 'BLUE_PARTY_HAT'
+// Fail to find 'CYAN_PARTY_HAT'
+// Fail to find 'GOLD_PARTY_HAT'
+// Fail to find 'GREEN_PARTY_HAT'
+// Fail to find 'PURPLE_PARTY_HAT'
+// Fail to find 'WHITE_PARTY_HAT'
+// Fail to find 'BLACK_PHOENIX_CROWN'
+// Fail to find 'CYAN_PHOENIX_CROWN'
+// Fail to find 'GOLD_PHOENIX_CROWN'
+// Fail to find 'GREEN_PHOENIX_CROWN'
+// Fail to find 'PURPLE_PHOENIX_CROWN'
+// Fail to find 'RED_PHOENIX_CROWN'
+// Fail to find 'WHITE_PHOENIX_CROWN'
+// Fail to find 'BLACK_PIRATE_HAT'
+// Fail to find 'BLUE_PIRATE_HAT'
+// Fail to find 'CYAN_PIRATE_HAT'
+// Fail to find 'GOLD_PIRATE_HAT'
+// Fail to find 'GREEN_PIRATE_HAT'
+// Fail to find 'PURPLE_PIRATE_HAT'
+// Fail to find 'RED_PIRATE_HAT'
+// Fail to find 'WHITE_PIRATE_HAT'
+// Fail to find 'BLACK_POCHI_HAT'
+// Fail to find 'BLUE_POCHI_HAT'
+// Fail to find 'CYAN_POCHI_HAT'
+// Fail to find 'GOLD_POCHI_HAT'
+// Fail to find 'GREEN_POCHI_HAT'
+// Fail to find 'PINK_POCHI_HAT'
+// Fail to find 'PURPLE_POCHI_HAT'
+// Fail to find 'RED_POCHI_HAT'
+// Fail to find 'WHITE_POCHI_HAT'
+// Fail to find 'DROPS_HAT'
+// Fail to find 'MARIN_HAT'
+// Fail to find 'BLACK_PUPPY_HEADBAND'
+// Fail to find 'BLUE_PUPPY_HEADBAND'
+// Fail to find 'CYAN_PUPPY_HEADBAND'
+// Fail to find 'GOLD_PUPPY_HEADBAND'
+// Fail to find 'GREEN_PUPPY_HEADBAND'
+// Fail to find 'PURPLE_PUPPY_HEADBAND'
+// Fail to find 'RED_PUPPY_HEADBAND'
+// Fail to find 'BLACK_PUPPY_LOVE'
+// Fail to find 'BLUE_PUPPY_LOVE'
+// Fail to find 'CYAN_PUPPY_LOVE'
+// Fail to find 'GOLD_PUPPY_LOVE'
+// Fail to find 'GREEN_PUPPY_LOVE'
+// Fail to find 'PURPLE_PUPPY_LOVE'
+// Fail to find 'WHITE_PUPPY_LOVE'
+// Fail to find 'BLACK_RAINBOW_EGGSHELL'
+// Fail to find 'CYAN_RAINBOW_EGGSHELL'
+// Fail to find 'GOLD_RAINBOW_EGGSHELL'
+// Fail to find 'GREEN_RAINBOW_EGGSHELL'
+// Fail to find 'PURPLE_RAINBOW_EGGSHELL'
+// Fail to find 'RED_RAINBOW_EGGSHELL'
+// Fail to find 'WHITE_RAINBOW_EGGSHELL'
+// Fail to find 'BLACK_BANDANA'
+// Fail to find 'BLUE_BANDANA'
+// Fail to find 'CYAN_BANDANA'
+// Fail to find 'GOLD_BANDANA'
+// Fail to find 'GREEN_BANDANA'
+// Fail to find 'PURPLE_BANDANA'
+// Fail to find 'RED_BANDANA'
+// Fail to find 'WHITE_BANDANA'
+// Fail to find 'BLACK_BONNET'
+// Fail to find 'BLUE_BONNET'
+// Fail to find 'CYAN_BONNET'
+// Fail to find 'GOLD_BONNET'
+// Fail to find 'GREEN_BONNET'
+// Fail to find 'PURPLE_BONNET'
+// Fail to find 'WHITE_BONNET'
+// Fail to find 'BLACK_TAILED_RIBBON'
+// Fail to find 'BLUE_TAILED_RIBBON'
+// Fail to find 'CYAN_TAILED_RIBBON'
+// Fail to find 'GOLD_TAILED_RIBBON'
+// Fail to find 'GREEN_TAILED_RIBBON'
+// Fail to find 'PURPLE_TAILED_RIBBON'
+// Fail to find 'WHITE_TAILED_RIBBON'
+// Fail to find 'BLACK_HOT_BLOODED_HEADBAND'
+// Fail to find 'BLUE_HOT_BLOODED_HEADBAND'
+// Fail to find 'CYAN_HOT_BLOODED_HEADBAND'
+// Fail to find 'GOLD_HOT_BLOODED_HEADBAND'
+// Fail to find 'GREEN_HOT_BLOODED_HEADBAND'
+// Fail to find 'PURPLE_HOT_BLOODED_HEADBAND'
+// Fail to find 'RED_HOT_BLOODED_HEADBAND'
+// Fail to find 'GOD_HELM'
+// Fail to find 'REVERSE_BLACK_BOYS_CAP'
+// Fail to find 'REVERSE_BLUE_BOYS_CAP'
+// Fail to find 'REVERSE_BOYS_CAP'
+// Fail to find 'REVERSE_CYAN_BOYS_CAP'
+// Fail to find 'REVERSE_GOLD_BOYS_CAP'
+// Fail to find 'REVERSE_GREEN_BOYS_CAP'
+// Fail to find 'REVERSE_PURPLE_BOYS_CAP'
+// Fail to find 'REVERSE_RED_BOYS_CAP'
+// Fail to find 'REVERSE_WHITE_BOYS_CAP'
+// Fail to find 'BLACK_RIDEWORD_HAT'
+// Fail to find 'CYAN_RIDEWORD_HAT'
+// Fail to find 'GOLD_RIDEWORD_HAT'
+// Fail to find 'GREEN_RIDEWORD_HAT'
+// Fail to find 'PURPLE_RIDEWORD_HAT'
+// Fail to find 'RED_RIDEWORD_HAT'
+// Fail to find 'WHITE_RIDEWORD_HAT'
+// Fail to find 'BLACK_SAFETY_HELMET'
+// Fail to find 'BLUE_SAFETY_HELMET'
+// Fail to find 'CYAN_SAFETY_HELMET'
+// Fail to find 'GOLD_SAFETY_HELMET'
+// Fail to find 'GREEN_SAFETY_HELMET'
+// Fail to find 'PURPLE_SAFETY_HELMET'
+// Fail to find 'RED_SAFETY_HELMET'
+// Fail to find 'WHITE_SAFETY_HELMET'
+// Fail to find 'BLACK_SAKKAT'
+// Fail to find 'BLUE_SAKKAT'
+// Fail to find 'CYAN_SAKKAT'
+// Fail to find 'GOLD_SAKKAT'
+// Fail to find 'GREEN_SAKKAT'
+// Fail to find 'PURPLE_SAKKAT'
+// Fail to find 'RED_SAKKAT'
+// Fail to find 'WHITE_SAKKAT'
+// Fail to find 'BLACK_SAKKAT_BAMBOO'
+// Fail to find 'BLUE_SAKKAT_BAMBOO'
+// Fail to find 'CYAN_SAKKAT_BAMBOO'
+// Fail to find 'GOLD_SAKKAT_BAMBOO'
+// Fail to find 'PURPLE_SAKKAT_BAMBOO'
+// Fail to find 'RED_SAKKAT_BAMBOO'
+// Fail to find 'SAKKAT_BAMBOO'
+// Fail to find 'WHITE_SAKKAT_BAMBOO'
+// Fail to find 'BLACK_SANTA_HAT'
+// Fail to find 'BLUE_SANTA_HAT'
+// Fail to find 'CYAN_SANTA_HAT'
+// Fail to find 'GOLD_SANTA_HAT'
+// Fail to find 'GREEN_SANTA_HAT'
+// Fail to find 'PURPLE_SANTA_HAT'
+// Fail to find 'WHITE_SANTA_HAT'
+// Fail to find 'BLACK_SEA_OTTER_HAT'
+// Fail to find 'CYAN_SEA_OTTER_HAT'
+// Fail to find 'GOLD_SEA_OTTER_HAT'
+// Fail to find 'GREEN_SEA_OTTER_HAT'
+// Fail to find 'PURPLE_SEA_OTTER_HAT'
+// Fail to find 'RED_SEA_OTTER_HAT'
+// Fail to find 'WHITE_SEA_OTTER_HAT'
+// Fail to find 'BLACK_SELENDANG'
+// Fail to find 'BLUE_SELENDANG'
+// Fail to find 'CYAN_SELENDANG'
+// Fail to find 'GOLD_SELENDANG'
+// Fail to find 'GREEN_SELENDANG'
+// Fail to find 'PURPLE_SELENDANG'
+// Fail to find 'RED_SELENDANG'
+// Fail to find 'BLUE_SHIN_TILT_HAT'
+// Fail to find 'CYAN_SHIN_TILT_HAT'
+// Fail to find 'GOLD_SHIN_TILT_HAT'
+// Fail to find 'GREEN_SHIN_TILT_HAT'
+// Fail to find 'PURPLE_SHIN_TILT_HAT'
+// Fail to find 'RED_SHIN_TILT_HAT'
+// Fail to find 'SHIN_TILT_HAT'
+// Fail to find 'WHITE_SHIN_TILT_HAT'
+// Fail to find 'BLACK_SHIP_CAPTAIN_HAT'
+// Fail to find 'BLUE_SHIP_CAPTAIN_HAT'
+// Fail to find 'CYAN_SHIP_CAPTAIN_HAT'
+// Fail to find 'GOLD_SHIP_CAPTAIN_HAT'
+// Fail to find 'GREEN_SHIP_CAPTAIN_HAT'
+// Fail to find 'PURPLE_SHIP_CAPTAIN_HAT'
+// Fail to find 'SHIP_CAPTAIN_HAT'
+// Fail to find 'WHITE_SHIP_CAPTAIN_HAT'
+// Fail to find 'BLACK_SMOKIE_LEAF'
+// Fail to find 'BLUE_SMOKIE_LEAF'
+// Fail to find 'CYAN_SMOKIE_LEAF'
+// Fail to find 'GOLD_SMOKIE_LEAF'
+// Fail to find 'PURPLE_SMOKIE_LEAF'
+// Fail to find 'RED_SMOKIE_LEAF'
+// Fail to find 'WHITE_SMOKIE_LEAF'
+// Fail to find 'BLACK_SONGKOK'
+// Fail to find 'BLUE_SONGKOK'
+// Fail to find 'CYAN_SONGKOK'
+// Fail to find 'GOLD_SONGKOK'
+// Fail to find 'GREEN_SONGKOK'
+// Fail to find 'PURPLE_SONGKOK'
+// Fail to find 'RED_SONGKOK'
+// Fail to find 'SONGKOK'
+// Fail to find 'WHITE_SONGKOK'
+// Fail to find 'BLACK_SPHINX_HAT'
+// Fail to find 'BLUE_SPHINX_HAT'
+// Fail to find 'CYAN_SPHINX_HAT'
+// Fail to find 'GOLD_SPHINX_HAT'
+// Fail to find 'PURPLE_SPHINX_HAT'
+// Fail to find 'RED_SPHINX_HAT'
+// Fail to find 'WHITE_SPHINX_HAT'
+// Fail to find 'BLACK_SPORE_HAT'
+// Fail to find 'BLUE_SPORE_HAT'
+// Fail to find 'CYAN_SPORE_HAT'
+// Fail to find 'GOLD_SPORE_HAT'
+// Fail to find 'GREEN_SPORE_HAT'
+// Fail to find 'PURPLE_SPORE_HAT'
+// Fail to find 'WHITE_SPORE_HAT'
+// Fail to find 'BLACK_STRIPED_HAIRBAND'
+// Fail to find 'BLUE_STRIPED_HAIRBAND'
+// Fail to find 'CYAN_STRIPED_HAIRBAND'
+// Fail to find 'GOLD_STRIPED_HAIRBAND'
+// Fail to find 'GREEN_STRIPED_HAIRBAND'
+// Fail to find 'PURPLE_STRIPED_HAIRBAND'
+// Fail to find 'WHITE_STRIPED_HAIRBAND'
+// Fail to find 'BLACK_SUCCUBUS_HORN'
+// Fail to find 'BLUE_SUCCUBUS_HORN'
+// Fail to find 'CYAN_SUCCUBUS_HORN'
+// Fail to find 'GOLD_SUCCUBUS_HORN'
+// Fail to find 'GREEN_SUCCUBUS_HORN'
+// Fail to find 'PURPLE_SUCCUBUS_HORN'
+// Fail to find 'RED_SUCCUBUS_HORN'
+// Fail to find 'WHITE_SUCCUBUS_HORN'
+// Fail to find 'BLACK_SUNFLOWER_HAIRPIN'
+// Fail to find 'BLUE_SUNFLOWER_HAIRPIN'
+// Fail to find 'CYAN_SUNFLOWER_HAIRPIN'
+// Fail to find 'GREEN_SUNFLOWER_HAIRPIN'
+// Fail to find 'PURPLE_SUNFLOWER_HAIRPIN'
+// Fail to find 'RED_SUNFLOWER_HAIRPIN'
+// Fail to find 'WHITE_SUNFLOWER_HAIRPIN'
+// Fail to find 'BLACK_RED_TIRAYA_BONNET'
+// Fail to find 'BLACK_TIRAYA_BONNET'
+// Fail to find 'BLUE_TIRAYA_BONNET'
+// Fail to find 'CYAN_TIRAYA_BONNET'
+// Fail to find 'GOLD_TIRAYA_BONNET'
+// Fail to find 'GREEN_TIRAYA_BONNET'
+// Fail to find 'PURPLE_TIRAYA_BONNET'
+// Fail to find 'RASTAFARAI_TIRAYA_BONNET'
+// Fail to find 'RED_TIRAYA_BONNET'
+// Fail to find 'TIRAYA_BONNET'
+// Fail to find 'WHITE_TIRAYA_BONNET'
+// Fail to find 'BLACK_TRAVELER_HAT'
+// Fail to find 'BLUE_TRAVELER_HAT'
+// Fail to find 'CYAN_TRAVELER_HAT'
+// Fail to find 'GOLD_TRAVELER_HAT'
+// Fail to find 'GREEN_TRAVELER_HAT'
+// Fail to find 'PURPLE_TRAVELER_HAT'
+// Fail to find 'RED_TRAVELER_HAT'
+// Fail to find 'TRAVELER_HAT'
+// Fail to find 'WHITE_TRAVELER_HAT'
+// Fail to find 'BLACK_TURBAN'
+// Fail to find 'CYAN_TURBAN'
+// Fail to find 'GOLD_TURBAN'
+// Fail to find 'GREEN_TURBAN'
+// Fail to find 'PURPLE_TURBAN'
+// Fail to find 'RED_TURBAN'
+// Fail to find 'WHITE_TURBAN'
+// Fail to find 'BLACK_TWIN_POMPOM'
+// Fail to find 'BLUE_TWIN_POMPOM'
+// Fail to find 'CYAN_TWIN_POMPOM'
+// Fail to find 'GREEN_TWIN_POMPOM'
+// Fail to find 'PINK_TWIN_POMPOM'
+// Fail to find 'PURPLE_TWIN_POMPOM'
+// Fail to find 'RED_TWIN_POMPOM'
+// Fail to find 'WHITE_TWIN_POMPOM'
+// Fail to find 'BLACK_ULLE_CAP'
+// Fail to find 'BLUE_ULLE_CAP'
+// Fail to find 'CYAN_ULLE_CAP'
+// Fail to find 'GOLD_ULLE_CAP'
+// Fail to find 'GREEN_ULLE_CAP'
+// Fail to find 'PURPLE_ULLE_CAP'
+// Fail to find 'RED_ULLE_CAP'
+// Fail to find 'WHITE_ULLE_CAP'
+// Fail to find 'BLACK_USAGI'
+// Fail to find 'BLUE_USAGI'
+// Fail to find 'CYAN_USAGI'
+// Fail to find 'GOLD_USAGI'
+// Fail to find 'RED_USAGI'
+// Fail to find 'PURPLE_USAGI'
+// Fail to find 'WHITE_USAGI'
+// Fail to find 'GREEN_USAGI'
+// Fail to find 'BLACK_VALKYRIE_HELM'
+// Fail to find 'BLUE_VALKYRIE_HELM'
+// Fail to find 'BROWN_VALKYRIE_HELM'
+// Fail to find 'CYAN_VALKYRIE_HELM'
+// Fail to find 'GOLD_VALKYRIE_HELM'
+// Fail to find 'GREEN_VALKYRIE_HELM'
+// Fail to find 'ORANGE_VALKYRIE_HELM'
+// Fail to find 'PINK_VALKYRIE_HELM'
+// Fail to find 'PURPLE_VALKYRIE_HELM'
+// Fail to find 'RED_VALKYRIE_HELM'
+// Fail to find 'SILVER_VALKYRIE_HELM'
+// Fail to find 'WHITE_VALKYRIE_HELM'
+// Fail to find 'BLACK_VALKYRJA_HELM'
+// Fail to find 'CYAN_VALKYRJA_HELM'
+// Fail to find 'GOLD_VALKYRJA_HELM'
+// Fail to find 'GREEN_VALKYRJA_HELM'
+// Fail to find 'PURPLE_VALKYRJA_HELM'
+// Fail to find 'RED_VALKYRJA_HELM'
+// Fail to find 'WHITE_VALKYRJA_HELM'
+// Fail to find 'BLACK_VICTORY_HAIRBAND'
+// Fail to find 'BLUE_VICTORY_HAIRBAND'
+// Fail to find 'CYAN_VICTORY_HAIRBAND'
+// Fail to find 'GOLD_VICTORY_HAIRBAND'
+// Fail to find 'GREEN_VICTORY_HAIRBAND'
+// Fail to find 'PURPLE_VICTORY_HAIRBAND'
+// Fail to find 'RASTAFARAI_VICTORY_HAIRBAND'
+// Fail to find 'VICTORY_HAIRBAND'
+// Fail to find 'WHITE_VICTORY_HAIRBAND'
+// Fail to find 'BLACK_NOBLE_HAT'
+// Fail to find 'BLUE_NOBLE_HAT'
+// Fail to find 'BROWN_NOBLE_HAT'
+// Fail to find 'CYAN_NOBLE_HAT'
+// Fail to find 'GREEN_NOBLE_HAT'
+// Fail to find 'PURPLE_NOBLE_HAT'
+// Fail to find 'WHITE_NOBLE_HAT'
+// Fail to find 'BLACK_WARPRA_S_HAT'
+// Fail to find 'BLUE_WARPRA_S_HAT'
+// Fail to find 'CYAN_WARPRA_S_HAT'
+// Fail to find 'GOLD_WARPRA_S_HAT'
+// Fail to find 'GREEN_WARPRA_S_HAT'
+// Fail to find 'ORANGE_WARPRA_S_HAT'
+// Fail to find 'PINK_WARPRA_S_HAT'
+// Fail to find 'PURPLE_WARPRA_S_HAT'
+// Fail to find 'RED_WARPRA_S_HAT'
+// Fail to find 'SILVER_WARPRA_S_HAT'
+// Fail to find 'WARPRA_S_HAT'
+// Fail to find 'WHITE_WARPRA_S_HAT'
+// Fail to find 'BLACK_WATER_LILY_CROWN'
+// Fail to find 'BLUE_WATER_LILY_CROWN'
+// Fail to find 'CYAN_WATER_LILY_CROWN'
+// Fail to find 'GOLD_WATER_LILY_CROWN'
+// Fail to find 'GREEN_WATER_LILY_CROWN'
+// Fail to find 'PURPLE_WATER_LILY_CROWN'
+// Fail to find 'WHITE_WATER_LILY_CROWN'
+// Fail to find 'FRENCH_WIG'
+// Fail to find 'ITALIA_WIG'
+// Fail to find 'RASTAFARAI_WIG'
+// Fail to find 'BLACK_WINTER_HAT'
+// Fail to find 'CYAN_WINTER_HAT'
+// Fail to find 'GOLD_WINTER_HAT'
+// Fail to find 'GREEN_WINTER_HAT'
+// Fail to find 'PURPLE_WINTER_HAT'
+// Fail to find 'RED_WINTER_HAT'
+// Fail to find 'WHITE_WINTER_HAT'
+// Fail to find 'BLUE_WIZARD_HAT'
+// Fail to find 'CYAN_WIZARD_HAT'
+// Fail to find 'GOLD_WIZARD_HAT'
+// Fail to find 'GREEN_WIZARD_HAT'
+// Fail to find 'PURPLE_WIZARD_HAT'
+// Fail to find 'RED_WIZARD_HAT'
+// Fail to find 'WHITE_WIZARD_HAT'
+// Fail to find 'BLACK_LINK_HAT'
+// Fail to find 'BLUE_LINK_HAT'
+// Fail to find 'LINK_HAT'
+// Fail to find 'RED_LINK_HAT'
+// Fail to find 'BLACK_MENUSYA'
+// Fail to find 'BROWN_MENUSYA'
+// Fail to find 'CYAN_MENUSYA'
+// Fail to find 'GREEN_MENUSYA'
+// Fail to find 'MENUSYA'
+// Fail to find 'PURPLE_MENUSYA'
+// Fail to find 'RED_MENUSYA'
+// Fail to find 'WHITE_MENUSYA'
+// Fail to find 'BLACK_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'BLUE_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'CYAN_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'EVIL_SNAKE_LORD_HAT'
+// Fail to find 'GOLD_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'GREEN_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'PURPLE_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'RED_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'WHITE_EVIL_SNAKE_LORD_HAT'
+// Fail to find 'BLACK_DROOPING_LEAF_CAT'
+// Fail to find 'BLUE_DROOPING_LEAF_CAT'
+// Fail to find 'CYAN_DROOPING_LEAF_CAT'
+// Fail to find 'DROOPING_LEAF_CAT'
+// Fail to find 'GOLD_DROOPING_LEAF_CAT'
+// Fail to find 'PURPLE_DROOPING_LEAF_CAT'
+// Fail to find 'RED_DROOPING_LEAF_CAT'
+// Fail to find 'WHITE_DROOPING_LEAF_CAT'
+// Fail to find 'BLUE_DARK_LORD_HELM'
+// Fail to find 'CYAN_DARK_LORD_HELM'
+// Fail to find 'DARK_LORD_HELM'
+// Fail to find 'GOLD_DARK_LORD_HELM'
+// Fail to find 'GREEN_DARK_LORD_HELM'
+// Fail to find 'PURPLE_DARK_LORD_HELM'
+// Fail to find 'RED_DARK_LORD_HELM'
+// Fail to find 'WHITE_DARK_LORD_HELM'
+// Fail to find 'BLACK_ORC_HERO_HEADDRESS'
+// Fail to find 'BLUE_ORC_HERO_HEADDRESS'
+// Fail to find 'CYAN_ORC_HERO_HEADDRESS'
+// Fail to find 'GOLD_ORC_HERO_HEADDRESS'
+// Fail to find 'GREEN_ORC_HERO_HEADDRESS'
+// Fail to find 'ORC_HERO_HEADDRESS'
+// Fail to find 'PURPLE_ORC_HERO_HEADDRESS'
+// Fail to find 'RED_ORC_HERO_HEADDRESS'
+// Fail to find 'WHITE_ORC_HERO_HEADDRESS'
+// Fail to find 'BLACK_VIKING_HELM'
+// Fail to find 'BLUE_VIKING_HELM'
+// Fail to find 'CYAN_VIKING_HELM'
+// Fail to find 'GOLD_VIKING_HELM'
+// Fail to find 'GREEN_VIKING_HELM'
+// Fail to find 'PURPLE_VIKING_HELM'
+// Fail to find 'RED_VIKING_HELM'
+// Fail to find 'VIKING_HELM'
+// Fail to find 'WHITE_VIKING_HELM'
+// Fail to find 'BLACK_USAKORING_HAT'
+// Fail to find 'BLUE_USAKORING_HAT'
+// Fail to find 'CYAN_USAKORING_HAT'
+// Fail to find 'GOLD_USAKORING_HAT'
+// Fail to find 'GREEN_USAKORING_HAT'
+// Fail to find 'PURPLE_USAKORING_HAT'
+// Fail to find 'RED_USAKORING_HAT'
+// Fail to find 'USAKORING_HAT'
+// Fail to find 'WHITE_USAKORING_HAT'
+// Fail to find 'BLACK_FREY_HAT'
+// Fail to find 'BLUE_FREY_HAT'
+// Fail to find 'BROWN_FREY_HAT'
+// Fail to find 'CYAN_FREY_HAT'
+// Fail to find 'FREY_HAT'
+// Fail to find 'PURPLE_FREY_HAT'
+// Fail to find 'RED_FREY_HAT'
+// Fail to find 'WHITE_FREY_HAT'
+// Fail to find 'BLACK_PINWHEEL_HAT'
+// Fail to find 'BLUE_PINWHEEL_HAT'
+// Fail to find 'CYAN_PINWHEEL_HAT'
+// Fail to find 'GOLD_PINWHEEL_HAT'
+// Fail to find 'GREEN_PINWHEEL_HAT'
+// Fail to find 'PINWHEEL_HAT'
+// Fail to find 'PURPLE_PINWHEEL_HAT'
+// Fail to find 'WHITE_PINWHEEL_HAT'
+// Fail to find 'BLACK_HOLIDAYS_HAT'
+// Fail to find 'CYAN_HOLIDAYS_HAT'
+// Fail to find 'GOLD_HOLIDAYS_HAT'
+// Fail to find 'GREEN_HOLIDAYS_HAT'
+// Fail to find 'HOLIDAYS_HAT'
+// Fail to find 'PURPLE_HOLIDAYS_HAT'
+// Fail to find 'RED_HOLIDAYS_HAT'
+// Fail to find 'WHITE_HOLIDAYS_HAT'
+// Fail to find 'BLACK_FEATHER_BERET'
+// Fail to find 'BROWN_FEATHER_BERET'
+// Fail to find 'GOLD_FEATHER_BERET'
+// Fail to find 'GREEN_FEATHER_BERET'
+// Fail to find 'LIGHT_BLUE_FEATHER_BERET'
+// Fail to find 'ORANGE_FEATHER_BERET'
+// Fail to find 'PINK_FEATHER_BERET'
+// Fail to find 'PURPLE_FEATHER_BERET'
+// Fail to find 'RED_FEATHER_BERET'
+// Fail to find 'SILVER_FEATHER_BERET'
+// Fail to find 'WHITE_FEATHER_BERET'
+// Fail to find 'GOLDEN_APPLE_O_ARCHER'
+// Fail to find 'GRANNY_APPLE_O_ARCHER'
+// Fail to find 'BLACK_PH_D_HAT'
+// Fail to find 'BLUE_PH_D_HAT'
+// Fail to find 'CYAN_PH_D_HAT'
+// Fail to find 'GOLD_PH_D_HAT'
+// Fail to find 'GREEN_PH_D_HAT'
+// Fail to find 'PURPLE_PH_D_HAT'
+// Fail to find 'RED_PH_D_HAT'
+// Fail to find 'WHITE_PH_D_HAT'
+// Fail to find 'BLACK_WANDERING_WOLF_HAT'
+// Fail to find 'BROWN_WANDERING_WOLF_HAT'
+// Fail to find 'CYAN_WANDERING_WOLF_HAT'
+// Fail to find 'GREEN_WANDERING_WOLF_HAT'
+// Fail to find 'PURPLE_WANDERING_WOLF_HAT'
+// Fail to find 'RED_WANDERING_WOLF_HAT'
+// Fail to find 'WANDERING_WOLF_HAT'
+// Fail to find 'WHITE_WANDERING_WOLF_HAT'
+// Fail to find 'BLACK_SNAKE_HEAD_HAT'
+// Fail to find 'BLUE_SNAKE_HEAD_HAT'
+// Fail to find 'BROWN_SNAKE_HEAD_HAT'
+// Fail to find 'CYAN_SNAKE_HEAD_HAT'
+// Fail to find 'PURPLE_SNAKE_HEAD_HAT'
+// Fail to find 'RED_SNAKE_HEAD_HAT'
+// Fail to find 'SNAKE_HEAD_HAT'
+// Fail to find 'WHITE_SNAKE_HEAD_HAT'
+// Fail to find 'BLACK_LOVE_DADDY_HAT'
+// Fail to find 'BLUE_LOVE_DADDY_HAT'
+// Fail to find 'CYAN_LOVE_DADDY_HAT'
+// Fail to find 'GOLD_LOVE_DADDY_HAT'
+// Fail to find 'GREEN_LOVE_DADDY_HAT'
+// Fail to find 'LOVE_DADDY_HAT'
+// Fail to find 'PURPLE_LOVE_DADDY_HAT'
+// Fail to find 'RED_LOVE_DADDY_HAT'
+// Fail to find 'WHITE_LOVE_DADDY_HAT'
+// Fail to find 'BLACK_LEAF_TIARA'
+// Fail to find 'BLUE_LEAF_TIARA'
+// Fail to find 'BROWN_LEAF_TIARA'
+// Fail to find 'CYAN_LEAF_TIARA'
+// Fail to find 'LEAF_TIARA'
+// Fail to find 'PURPLE_LEAF_TIARA'
+// Fail to find 'RED_LEAF_TIARA'
+// Fail to find 'WHITE_LEAF_TIARA'
+// Fail to find 'BLACK_DRAGON_HELM_'
+// Fail to find 'BLUE_DRAGON_HELM_'
+// Fail to find 'CYAN_DRAGON_HELM_'
+// Fail to find 'DRAGON_HELM_'
+// Fail to find 'GOLD_DRAGON_HELM_'
+// Fail to find 'GREEN_DRAGON_HELM_'
+// Fail to find 'PURPLE_DRAGON_HELM_'
+// Fail to find 'RED_DRAGON_HELM_'
+// Fail to find 'WHITE_DRAGON_HELM_'
+// Fail to find 'BLACK_DARK_KNIGHT_MASK'
+// Fail to find 'CYAN_DARK_KNIGHT_MASK'
+// Fail to find 'DARK_KNIGHT_MASK'
+// Fail to find 'GOLD_DARK_KNIGHT_MASK'
+// Fail to find 'GREEN_DARK_KNIGHT_MASK'
+// Fail to find 'PURPLE_DARK_KNIGHT_MASK'
+// Fail to find 'RED_DARK_KNIGHT_MASK'
+// Fail to find 'WHITE_DARK_KNIGHT_MASK'
+// Fail to find 'BLUE_DARK_RANDGRIS_HELM'
+// Fail to find 'BROWN_DARK_RANDGRIS_HELM'
+// Fail to find 'CYAN_DARK_RANDGRIS_HELM'
+// Fail to find 'DARK_RANDGRIS_HELM'
+// Fail to find 'GREEN_DARK_RANDGRIS_HELM'
+// Fail to find 'PURPLE_DARK_RANDGRIS_HELM'
+// Fail to find 'RED_DARK_RANDGRIS_HELM'
+// Fail to find 'WHITE_DARK_RANDGRIS_HELM'
+// Fail to find 'BLACK_CROWN_PARROTS'
+// Fail to find 'BROWN_CROWN_PARROTS'
+// Fail to find 'CROWN_PARROTS'
+// Fail to find 'CYAN_CROWN_PARROTS'
+// Fail to find 'GREEN_CROWN_PARROTS'
+// Fail to find 'PURPLE_CROWN_PARROTS'
+// Fail to find 'RED_CROWN_PARROTS'
+// Fail to find 'WHITE_CROWN_PARROTS'
+// Fail to find 'BLACK_LEGIONNAIRE_HAT'
+// Fail to find 'BLUE_LEGIONNAIRE_HAT'
+// Fail to find 'CYAN_LEGIONNAIRE_HAT'
+// Fail to find 'GOLD_LEGIONNAIRE_HAT'
+// Fail to find 'GREEN_LEGIONNAIRE_HAT'
+// Fail to find 'LEGIONNAIRE_HAT'
+// Fail to find 'PURPLE_LEGIONNAIRE_HAT'
+// Fail to find 'WHITE_LEGIONNAIRE_HAT'
+// Fail to find 'BLACK_FLYING_EVIL_WING'
+// Fail to find 'BLUE_FLYING_EVIL_WING'
+// Fail to find 'CYAN_FLYING_EVIL_WING'
+// Fail to find 'FLYING_EVIL_WING'
+// Fail to find 'GOLD_FLYING_EVIL_WING'
+// Fail to find 'GREEN_FLYING_EVIL_WING'
+// Fail to find 'PURPLE_FLYING_EVIL_WING'
+// Fail to find 'RED_FLYING_EVIL_WING'
+// Fail to find 'WHITE_FLYING_EVIL_WING'
+// Fail to find 'BLACK_HELM_OF_ABYSS'
+// Fail to find 'BLUE_HELM_OF_ABYSS'
+// Fail to find 'BROWN_HELM_OF_ABYSS'
+// Fail to find 'CYAN_HELM_OF_ABYSS'
+// Fail to find 'GREEN_HELM_OF_ABYSS'
+// Fail to find 'HELM_OF_ABYSS'
+// Fail to find 'PURPLE_HELM_OF_ABYSS'
+// Fail to find 'RED_HELM_OF_ABYSS'
+// Fail to find 'WHITE_HELM_OF_ABYSS'
+// Fail to find 'BLACK_AQUARIUS_DIADEM'
+// Fail to find 'CYAN_AQUARIUS_DIADEM'
+// Fail to find 'GOLD_AQUARIUS_DIADEM'
+// Fail to find 'GREEN_AQUARIUS_DIADEM'
+// Fail to find 'PURPLE_AQUARIUS_DIADEM'
+// Fail to find 'RED_AQUARIUS_DIADEM'
+// Fail to find 'WHITE_AQUARIUS_DIADEM'
+// Fail to find 'BLACK_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'BLUE_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'CYAN_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'GOLD_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'GREEN_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'LOUYANG_NEWYEAR_HAT'
+// Fail to find 'PURPLE_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'WHITE_LOUYANG_NEWYEAR_HAT'
+// Fail to find 'BISHOP_HAT'
+// Fail to find 'BLACK_BISHOP_HAT'
+// Fail to find 'CYAN_BISHOP_HAT'
+// Fail to find 'GOLD_BISHOP_HAT'
+// Fail to find 'GREEN_BISHOP_HAT'
+// Fail to find 'PURPLE_BISHOP_HAT'
+// Fail to find 'RED_BISHOP_HAT'
+// Fail to find 'WHITE_BISHOP_HAT'
+// Fail to find 'BLACK_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'BLUE_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'CYAN_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'GOLD_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'GREEN_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'PURPLE_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'RED_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'WHITE_ANIMATED_SMALL_RIBBONS'
+// Fail to find 'BLACK_PIRATE_S_PRIDE'
+// Fail to find 'BLUE_PIRATE_S_PRIDE'
+// Fail to find 'CYAN_PIRATE_S_PRIDE'
+// Fail to find 'GOLD_PIRATE_S_PRIDE'
+// Fail to find 'GREEN_PIRATE_S_PRIDE'
+// Fail to find 'PIRATE_S_PRIDE'
+// Fail to find 'PURPLE_PIRATE_S_PRIDE'
+// Fail to find 'WHITE_PIRATE_S_PRIDE'
+// Fail to find 'BLACK_STRANGE_HAT'
+// Fail to find 'BLUE_STRANGE_HAT'
+// Fail to find 'CYAN_STRANGE_HAT'
+// Fail to find 'GOLD_STRANGE_HAT'
+// Fail to find 'GREEN_STRANGE_HAT'
+// Fail to find 'PURPLE_STRANGE_HAT'
+// Fail to find 'RED_STRANGE_HAT'
+// Fail to find 'WHITE_STRANGE_HAT'
+// Fail to find 'BLACK_VALKYRIE_WINGS'
+// Fail to find 'BLUE_VALKYRIE_WINGS'
+// Fail to find 'CYAN_VALKYRIE_WINGS'
+// Fail to find 'GOLD_VALKYRIE_WINGS'
+// Fail to find 'GREEN_VALKYRIE_WINGS'
+// Fail to find 'PURPLE_VALKYRIE_WINGS'
+// Fail to find 'RED_VALKYRIE_WINGS'
+// Fail to find 'WHITE_VALKYRIE_WINGS'
+// Fail to find 'BLACK_FROG_KING_HAT'
+// Fail to find 'BLUE_FROG_KING_HAT'
+// Fail to find 'CYAN_FROG_KING_HAT'
+// Fail to find 'FROG_KING_HAT'
+// Fail to find 'GOLD_FROG_KING_HAT'
+// Fail to find 'PURPLE_FROG_KING_HAT'
+// Fail to find 'RED_FROG_KING_HAT'
+// Fail to find 'WHITE_FROG_KING_HAT'
+// Fail to find 'BABY_DRAGON_HAT'
+// Fail to find 'BLACK_BABY_DRAGON_HAT'
+// Fail to find 'BLUE_BABY_DRAGON_HAT'
+// Fail to find 'BROWN_BABY_DRAGON_HAT'
+// Fail to find 'CYAN_BABY_DRAGON_HAT'
+// Fail to find 'PURPLE_BABY_DRAGON_HAT'
+// Fail to find 'RED_BABY_DRAGON_HAT'
+// Fail to find 'WHITE_BABY_DRAGON_HAT'
+// Fail to find 'BLACK_SHOWER_CAP'
+// Fail to find 'BLUE_SHOWER_CAP'
+// Fail to find 'CYAN_SHOWER_CAP'
+// Fail to find 'GOLD_SHOWER_CAP'
+// Fail to find 'GREEN_SHOWER_CAP'
+// Fail to find 'PURPLE_SHOWER_CAP'
+// Fail to find 'WHITE_SHOWER_CAP'
+// Fail to find 'BLACK_TIARA_SAMAMBAIA'
+// Fail to find 'BLUE_TIARA_SAMAMBAIA'
+// Fail to find 'CYAN_TIARA_SAMAMBAIA'
+// Fail to find 'GOLD_TIARA_SAMAMBAIA'
+// Fail to find 'PURPLE_TIARA_SAMAMBAIA'
+// Fail to find 'RED_TIARA_SAMAMBAIA'
+// Fail to find 'TIARA_SAMAMBAIA'
+// Fail to find 'WHITE_TIARA_SAMAMBAIA'
+// Fail to find 'BLACK_FILIR_HAT'
+// Fail to find 'BROWN_FILIR_HAT'
+// Fail to find 'CYAN_FILIR_HAT'
+// Fail to find 'FILIR_HAT'
+// Fail to find 'GREEN_FILIR_HAT'
+// Fail to find 'PURPLE_FILIR_HAT'
+// Fail to find 'RED_FILIR_HAT'
+// Fail to find 'WHITE_FILIR_HAT'
+// Fail to find 'BLACK_AQUARIUS_CROWN'
+// Fail to find 'BROWN_AQUARIUS_CROWN'
+// Fail to find 'CYAN_AQUARIUS_CROWN'
+// Fail to find 'GREEN_AQUARIUS_CROWN'
+// Fail to find 'PURPLE_AQUARIUS_CROWN'
+// Fail to find 'RED_AQUARIUS_CROWN'
+// Fail to find 'WHITE_AQUARIUS_CROWN'
+// Fail to find 'BLACK_TUCANO_HAT'
+// Fail to find 'BROWN_TUCANO_HAT'
+// Fail to find 'CYAN_TUCANO_HAT'
+// Fail to find 'GOLD_TUCANO_HAT'
+// Fail to find 'GREEN_TUCANO_HAT'
+// Fail to find 'PINK_TUCANO_HAT'
+// Fail to find 'PURPLE_TUCANO_HAT'
+// Fail to find 'RED_TUCANO_HAT'
+// Fail to find 'TUCANO_HAT'
+// Fail to find 'BLACK_MAGNI_S_CAP'
+// Fail to find 'BLUE_MAGNI_S_CAP'
+// Fail to find 'CYAN_MAGNI_S_CAP'
+// Fail to find 'GOLD_MAGNI_S_CAP'
+// Fail to find 'GREEN_MAGNI_S_CAP'
+// Fail to find 'MAGNI_S_CAP'
+// Fail to find 'PURPLE_MAGNI_S_CAP'
+// Fail to find 'RED_MAGNI_S_CAP'
+// Fail to find 'WHITE_MAGNI_S_CAP'
+// Fail to find 'BLACK_SAKURA_MILK_TEA_HAT'
+// Fail to find 'BLUE_SAKURA_MILK_TEA_HAT'
+// Fail to find 'CYAN_SAKURA_MILK_TEA_HAT'
+// Fail to find 'GOLD_SAKURA_MILK_TEA_HAT'
+// Fail to find 'GREEN_SAKURA_MILK_TEA_HAT'
+// Fail to find 'PURPLE_SAKURA_MILK_TEA_HAT'
+// Fail to find 'RED_SAKURA_MILK_TEA_HAT'
+// Fail to find 'WHITE_SAKURA_MILK_TEA_HAT'
+// Fail to find 'BLACK_PISCES_DIADEM'
+// Fail to find 'CYAN_PISCES_DIADEM'
+// Fail to find 'GOLD_PISCES_DIADEM'
+// Fail to find 'GREEN_PISCES_DIADEM'
+// Fail to find 'PURPLE_PISCES_DIADEM'
+// Fail to find 'RED_PISCES_DIADEM'
+// Fail to find 'WHITE_PISCES_DIADEM'
+// Fail to find 'BLACK_PISCES_CROWN'
+// Fail to find 'CYAN_PISCES_CROWN'
+// Fail to find 'GOLD_PISCES_CROWN'
+// Fail to find 'GREEN_PISCES_CROWN'
+// Fail to find 'PURPLE_PISCES_CROWN'
+// Fail to find 'RED_PISCES_CROWN'
+// Fail to find 'WHITE_PISCES_CROWN'
+// Fail to find 'BLACK_DRAGON_S_HEAD'
+// Fail to find 'BLUE_DRAGON_S_HEAD'
+// Fail to find 'CYAN_DRAGON_S_HEAD'
+// Fail to find 'DRAGON_S_HEAD'
+// Fail to find 'GOLD_DRAGON_S_HEAD'
+// Fail to find 'GREEN_DRAGON_S_HEAD'
+// Fail to find 'PURPLE_DRAGON_S_HEAD'
+// Fail to find 'RED_DRAGON_S_HEAD'
+// Fail to find 'WHITE_DRAGON_S_HEAD'
+// Fail to find 'BLACK_LOVE_DAD_BANDANA'
+// Fail to find 'BLUE_LOVE_DAD_BANDANA'
+// Fail to find 'CYAN_LOVE_DAD_BANDANA'
+// Fail to find 'GREEN_LOVE_DAD_BANDANA'
+// Fail to find 'LOVE_DAD_BANDANA'
+// Fail to find 'PURPLE_LOVE_DAD_BANDANA'
+// Fail to find 'RED_LOVE_DAD_BANDANA'
+// Fail to find 'WHITE_LOVE_DAD_BANDANA'
+// Fail to find 'AMISTR_HAT'
+// Fail to find 'BLACK_AMISTR_HAT'
+// Fail to find 'BLUE_AMISTR_HAT'
+// Fail to find 'BROWN_AMISTR_HAT'
+// Fail to find 'CYAN_AMISTR_HAT'
+// Fail to find 'GOLD_AMISTR_HAT'
+// Fail to find 'GREEN_AMISTR_HAT'
+// Fail to find 'ORANGE_AMISTR_HAT'
+// Fail to find 'PINK_AMISTR_HAT'
+// Fail to find 'PURPLE_AMISTR_HAT'
+// Fail to find 'RED_AMISTR_HAT'
+// Fail to find 'SILVER_AMISTR_HAT'
+// Fail to find 'BLACK_PIAMETTE_HAIRBAND'
+// Fail to find 'BLUE_PIAMETTE_HAIRBAND'
+// Fail to find 'CYAN_PIAMETTE_HAIRBAND'
+// Fail to find 'GOLD_PIAMETTE_HAIRBAND'
+// Fail to find 'GREEN_PIAMETTE_HAIRBAND'
+// Fail to find 'PIAMETTE_HAIRBAND'
+// Fail to find 'PURPLE_PIAMETTE_HAIRBAND'
+// Fail to find 'RED_PIAMETTE_HAIRBAND'
+// Fail to find 'WHITE_PIAMETTE_HAIRBAND'
+// Fail to find 'BLACK_SNOW_CAP'
+// Fail to find 'BLUE_SNOW_CAP'
+// Fail to find 'CYAN_SNOW_CAP'
+// Fail to find 'GOLD_SNOW_CAP'
+// Fail to find 'GREEN_SNOW_CAP'
+// Fail to find 'PURPLE_SNOW_CAP'
+// Fail to find 'SNOW_CAP'
+// Fail to find 'WHITE_SNOW_CAP'
+// Fail to find 'BLACK_DECORATIVE_MUSHROOM'
+// Fail to find 'BLUE_DECORATIVE_MUSHROOM'
+// Fail to find 'CYAN_DECORATIVE_MUSHROOM'
+// Fail to find 'GOLD_DECORATIVE_MUSHROOM'
+// Fail to find 'GREEN_DECORATIVE_MUSHROOM'
+// Fail to find 'PURPLE_DECORATIVE_MUSHROOM'
+// Fail to find 'WHITE_DECORATIVE_MUSHROOM'
+// Fail to find 'BLACK_SUNDAY_HAT'
+// Fail to find 'BLUE_SUNDAY_HAT'
+// Fail to find 'CYAN_SUNDAY_HAT'
+// Fail to find 'GOLD_SUNDAY_HAT'
+// Fail to find 'GREEN_SUNDAY_HAT'
+// Fail to find 'PURPLE_SUNDAY_HAT'
+// Fail to find 'RED_SUNDAY_HAT'
+// Fail to find 'WHITE_SUNDAY_HAT'
+// Fail to find 'BLACK_TAURUS_DIADEM'
+// Fail to find 'BLUE_TAURUS_DIADEM'
+// Fail to find 'CYAN_TAURUS_DIADEM'
+// Fail to find 'GOLD_TAURUS_DIADEM'
+// Fail to find 'GREEN_TAURUS_DIADEM'
+// Fail to find 'PURPLE_TAURUS_DIADEM'
+// Fail to find 'RED_TAURUS_DIADEM'
+// Fail to find 'TAURUS_DIADEM'
+// Fail to find 'BLACK_TAURUS_CROWN'
+// Fail to find 'BLUE_TAURUS_CROWN'
+// Fail to find 'CYAN_TAURUS_CROWN'
+// Fail to find 'GOLD_TAURUS_CROWN'
+// Fail to find 'GREEN_TAURUS_CROWN'
+// Fail to find 'PURPLE_TAURUS_CROWN'
+// Fail to find 'RED_TAURUS_CROWN'
+// Fail to find 'TAURUS_CROWN'
+// Fail to find 'WHITE_TAURUS_CROWN'
+// Fail to find 'BLACK_SATANIC_BONE_HELM'
+// Fail to find 'BLUE_SATANIC_BONE_HELM'
+// Fail to find 'CYAN_SATANIC_BONE_HELM'
+// Fail to find 'GOLD_SATANIC_BONE_HELM'
+// Fail to find 'GREEN_SATANIC_BONE_HELM'
+// Fail to find 'PURPLE_SATANIC_BONE_HELM'
+// Fail to find 'RED_SATANIC_BONE_HELM'
+// Fail to find 'SATANIC_BONE_HELM'
+// Fail to find 'REMOVAL_HAT'
+// Fail to find 'BLACK_REMOVAL_HAT'
+// Fail to find 'BLUE_REMOVAL_HAT'
+// Fail to find 'CYAN_REMOVAL_HAT'
+// Fail to find 'GOLD_REMOVAL_HAT'
+// Fail to find 'GREEN_REMOVAL_HAT'
+// Fail to find 'PURPLE_REMOVAL_HAT'
+// Fail to find 'WHITE_REMOVAL_HAT'
+// Fail to find 'BLACK_EMPEROR_LAUREL_CROWN'
+// Fail to find 'BLUE_EMPEROR_LAUREL_CROWN'
+// Fail to find 'CYAN_EMPEROR_LAUREL_CROWN'
+// Fail to find 'EMPEROR_LAUREL_CROWN'
+// Fail to find 'GOLD_EMPEROR_LAUREL_CROWN'
+// Fail to find 'PURPLE_EMPEROR_LAUREL_CROWN'
+// Fail to find 'RED_EMPEROR_LAUREL_CROWN'
+// Fail to find 'WHITE_EMPEROR_LAUREL_CROWN'
+// Fail to find 'BLACK_BIG_KERCHIEF'
+// Fail to find 'BLUE_BIG_KERCHIEF'
+// Fail to find 'CYAN_BIG_KERCHIEF'
+// Fail to find 'GOLD_BIG_KERCHIEF'
+// Fail to find 'GREEN_BIG_KERCHIEF'
+// Fail to find 'BIG_KERCHIEF'
+// Fail to find 'PURPLE_BIG_KERCHIEF'
+// Fail to find 'WHITE_BIG_KERCHIEF'
+// Fail to find 'BLACK_MELUSINE_HAT'
+// Fail to find 'BLUE_MELUSINE_HAT'
+// Fail to find 'CYAN_MELUSINE_HAT'
+// Fail to find 'GOLD_MELUSINE_HAT'
+// Fail to find 'GREEN_MELUSINE_HAT'
+// Fail to find 'MELUSINE_HAT'
+// Fail to find 'RED_MELUSINE_HAT'
+// Fail to find 'WHITE_MELUSINE_HAT'
+// Fail to find 'BLACK_LEAF_CAT_HAT'
+// Fail to find 'BLUE_LEAF_CAT_HAT'
+// Fail to find 'CYAN_LEAF_CAT_HAT'
+// Fail to find 'GOLD_LEAF_CAT_HAT'
+// Fail to find 'PURPLE_LEAF_CAT_HAT'
+// Fail to find 'RED_LEAF_CAT_HAT'
+// Fail to find 'WHITE_LEAF_CAT_HAT'
+// Fail to find 'BLACK_RAGE_OF_LUSTER'
+// Fail to find 'BLUE_RAGE_OF_LUSTER'
+// Fail to find 'CYAN_RAGE_OF_LUSTER'
+// Fail to find 'GREEN_RAGE_OF_LUSTER'
+// Fail to find 'PURPLE_RAGE_OF_LUSTER'
+// Fail to find 'RAGE_OF_LUSTER'
+// Fail to find 'RED_RAGE_OF_LUSTER'
+// Fail to find 'WHITE_RAGE_OF_LUSTER'
+// Fail to find 'BLUE_WILD_ROSE_HAT'
+// Fail to find 'CYAN_WILD_ROSE_HAT'
+// Fail to find 'GOLD_WILD_ROSE_HAT'
+// Fail to find 'GREEN_WILD_ROSE_HAT'
+// Fail to find 'PURPLE_WILD_ROSE_HAT'
+// Fail to find 'RED_WILD_ROSE_HAT'
+// Fail to find 'WHITE_WILD_ROSE_HAT'
+// Fail to find 'BLACK_CROWN_OF_DECEIT'
+// Fail to find 'BLUE_CROWN_OF_DECEIT'
+// Fail to find 'CYAN_CROWN_OF_DECEIT'
+// Fail to find 'GOLD_CROWN_OF_DECEIT'
+// Fail to find 'GREEN_CROWN_OF_DECEIT'
+// Fail to find 'PURPLE_CROWN_OF_DECEIT'
+// Fail to find 'WHITE_CROWN_OF_DECEIT'
+// Fail to find 'BAPHOMET_HORN'
+// Fail to find 'BLACK_BAPHOMET_HORN'
+// Fail to find 'BLUE_BAPHOMET_HORN'
+// Fail to find 'CYAN_BAPHOMET_HORN'
+// Fail to find 'GOLD_BAPHOMET_HORN'
+// Fail to find 'GREEN_BAPHOMET_HORN'
+// Fail to find 'PURPLE_BAPHOMET_HORN'
+// Fail to find 'RED_BAPHOMET_HORN'
+// Fail to find 'WHITE_BAPHOMET_HORN'
+// Fail to find 'BLACK_SEAL_HAT'
+// Fail to find 'CYAN_SEAL_HAT'
+// Fail to find 'GOLD_SEAL_HAT'
+// Fail to find 'GREEN_SEAL_HAT'
+// Fail to find 'PURPLE_SEAL_HAT'
+// Fail to find 'RED_SEAL_HAT'
+// Fail to find 'SEAL_HAT'
+// Fail to find 'WHITE_SEAL_HAT'
+// Fail to find 'BLACK_NECROMANCER_HOOD'
+// Fail to find 'BLUE_NECROMANCER_HOOD'
+// Fail to find 'CYAN_NECROMANCER_HOOD'
+// Fail to find 'GOLD_NECROMANCER_HOOD'
+// Fail to find 'GREEN_NECROMANCER_HOOD'
+// Fail to find 'NECROMANCER_HOOD'
+// Fail to find 'PURPLE_NECROMANCER_HOOD'
+// Fail to find 'RED_NECROMANCER_HOOD'
+// Fail to find 'WHITE_NECROMANCER_HOOD'
+// Fail to find 'BLACK_DESERT_PRINCE'
+// Fail to find 'BLUE_DESERT_PRINCE'
+// Fail to find 'CYAN_DESERT_PRINCE'
+// Fail to find 'GOLD_DESERT_PRINCE'
+// Fail to find 'GREEN_DESERT_PRINCE'
+// Fail to find 'PURPLE_DESERT_PRINCE'
+// Fail to find 'WHITE_DESERT_PRINCE'
+// Fail to find 'BLACK_GRAND_PECO_HAIRBAND'
+// Fail to find 'BLUE_GRAND_PECO_HAIRBAND'
+// Fail to find 'CYAN_GRAND_PECO_HAIRBAND'
+// Fail to find 'GOLD_GRAND_PECO_HAIRBAND'
+// Fail to find 'GRAND_PECO_HAIRBAND'
+// Fail to find 'GREEN_GRAND_PECO_HAIRBAND'
+// Fail to find 'PURPLE_GRAND_PECO_HAIRBAND'
+// Fail to find 'WHITE_GRAND_PECO_HAIRBAND'
+// Fail to find 'BLACK_POLICE_HAT'
+// Fail to find 'BLUE_POLICE_HAT'
+// Fail to find 'CYAN_POLICE_HAT'
+// Fail to find 'GOLD_POLICE_HAT'
+// Fail to find 'GREEN_POLICE_HAT'
+// Fail to find 'POLICE_HAT'
+// Fail to find 'PURPLE_POLICE_HAT'
+// Fail to find 'RED_POLICE_HAT'
+// Fail to find 'WHITE_POLICE_HAT'
+// Fail to find 'BLACK_LEO_CROWN'
+// Fail to find 'BLUE_LEO_CROWN'
+// Fail to find 'CYAN_LEO_CROWN'
+// Fail to find 'GOLD_LEO_CROWN'
+// Fail to find 'PURPLE_LEO_CROWN'
+// Fail to find 'RED_LEO_CROWN'
+// Fail to find 'WHITE_LEO_CROWN'
+// Fail to find 'BLACK_LEO_DIADEM'
+// Fail to find 'BLUE_LEO_DIADEM'
+// Fail to find 'CYAN_LEO_DIADEM'
+// Fail to find 'GOLD_LEO_DIADEM'
+// Fail to find 'PURPLE_LEO_DIADEM'
+// Fail to find 'RED_LEO_DIADEM'
+// Fail to find 'WHITE_LEO_DIADEM'
+// Fail to find 'BLACK_CANCER_CROWN'
+// Fail to find 'BLUE_CANCER_CROWN'
+// Fail to find 'CYAN_CANCER_CROWN'
+// Fail to find 'GOLD_CANCER_CROWN'
+// Fail to find 'GREEN_CANCER_CROWN'
+// Fail to find 'PURPLE_CANCER_CROWN'
+// Fail to find 'WHITE_CANCER_CROWN'
+// Fail to find 'BLACK_CANCER_DIADEM'
+// Fail to find 'BLUE_CANCER_DIADEM'
+// Fail to find 'CYAN_CANCER_DIADEM'
+// Fail to find 'GOLD_CANCER_DIADEM'
+// Fail to find 'GREEN_CANCER_DIADEM'
+// Fail to find 'PURPLE_CANCER_DIADEM'
+// Fail to find 'WHITE_CANCER_DIADEM'
+// Fail to find 'BLACK_COWBOY_HAT'
+// Fail to find 'BLUE_COWBOY_HAT'
+// Fail to find 'CYAN_COWBOY_HAT'
+// Fail to find 'GOLD_COWBOY_HAT'
+// Fail to find 'GREEN_COWBOY_HAT'
+// Fail to find 'PURPLE_COWBOY_HAT'
+// Fail to find 'RED_COWBOY_HAT'
+// Fail to find 'WHITE_COWBOY_HAT'
+// Fail to find 'BLACK_DOKEBI_DOLL'
+// Fail to find 'BLUE_DOKEBI_DOLL'
+// Fail to find 'CYAN_DOKEBI_DOLL'
+// Fail to find 'DOKEBI_DOLL'
+// Fail to find 'GOLD_DOKEBI_DOLL'
+// Fail to find 'GREEN_DOKEBI_DOLL'
+// Fail to find 'PURPLE_DOKEBI_DOLL'
+// Fail to find 'RED_DOKEBI_DOLL'
+// Fail to find 'WHITE_DOKEBI_DOLL'
+// Fail to find 'BLACK_VIRGO_CROWN'
+// Fail to find 'CYAN_VIRGO_CROWN'
+// Fail to find 'GOLD_VIRGO_CROWN'
+// Fail to find 'GREEN_VIRGO_CROWN'
+// Fail to find 'PURPLE_VIRGO_CROWN'
+// Fail to find 'RED_VIRGO_CROWN'
+// Fail to find 'VIRGO_CROWN'
+// Fail to find 'WHITE_VIRGO_CROWN'
+// Fail to find 'BLACK_VIRGO_DIADEM'
+// Fail to find 'CYAN_VIRGO_DIADEM'
+// Fail to find 'GOLD_VIRGO_DIADEM'
+// Fail to find 'GREEN_VIRGO_DIADEM'
+// Fail to find 'PURPLE_VIRGO_DIADEM'
+// Fail to find 'RED_VIRGO_DIADEM'
+// Fail to find 'VIRGO_DIADEM'
+// Fail to find 'WHITE_VIRGO_DIADEM'
+// Fail to find 'BLACK_PEACOCK_FEATHER'
+// Fail to find 'BLUE_PEACOCK_FEATHER'
+// Fail to find 'CYAN_PEACOCK_FEATHER'
+// Fail to find 'GOLD_PEACOCK_FEATHER'
+// Fail to find 'GREEN_PEACOCK_FEATHER'
+// Fail to find 'PURPLE_PEACOCK_FEATHER'
+// Fail to find 'RED_PEACOCK_FEATHER'
+// Fail to find 'WHITE_PEACOCK_FEATHER'
+// Fail to find 'BLACK_LUNATIC_HAT'
+// Fail to find 'BLUE_LUNATIC_HAT'
+// Fail to find 'CYAN_LUNATIC_HAT'
+// Fail to find 'GOLD_LUNATIC_HAT'
+// Fail to find 'GREEN_LUNATIC_HAT'
+// Fail to find 'PURPLE_LUNATIC_HAT'
+// Fail to find 'RED_LUNATIC_HAT'
+// Fail to find 'BLACK_SAVAGE_BABE_HAT'
+// Fail to find 'BLUE_SAVAGE_BABE_HAT'
+// Fail to find 'CYAN_SAVAGE_BABE_HAT'
+// Fail to find 'GOLD_SAVAGE_BABE_HAT'
+// Fail to find 'GREEN_SAVAGE_BABE_HAT'
+// Fail to find 'PURPLE_SAVAGE_BABE_HAT'
+// Fail to find 'SAVAGE_BABE_HAT'
+// Fail to find 'WHITE_SAVAGE_BABE_HAT'
+// Fail to find 'BLACK_SHAMAN_COIF'
+// Fail to find 'BLUE_SHAMAN_COIF'
+// Fail to find 'CYAN_SHAMAN_COIF'
+// Fail to find 'GOLD_SHAMAN_COIF'
+// Fail to find 'GREEN_SHAMAN_COIF'
+// Fail to find 'PURPLE_SHAMAN_COIF'
+// Fail to find 'RED_SHAMAN_COIF'
+// Fail to find 'SHAMAN_COIF'
+// Fail to find 'WHITE_SHAMAN_COIF'
+// Fail to find 'ANUBIS_HAT'
+// Fail to find 'BLACK_ANUBIS_HAT'
+// Fail to find 'BLUE_ANUBIS_HAT'
+// Fail to find 'CYAN_ANUBIS_HAT'
+// Fail to find 'GOLD_ANUBIS_HAT'
+// Fail to find 'GREEN_ANUBIS_HAT'
+// Fail to find 'PURPLE_ANUBIS_HAT'
+// Fail to find 'RED_ANUBIS_HAT'
+// Fail to find 'WHITE_ANUBIS_HAT'
+// Fail to find 'ASTER_PIN'
+// Fail to find 'BLACK_ASTER_PIN'
+// Fail to find 'BLUE_ASTER_PIN'
+// Fail to find 'CYAN_ASTER_PIN'
+// Fail to find 'GOLD_ASTER_PIN'
+// Fail to find 'GREEN_ASTER_PIN'
+// Fail to find 'PURPLE_ASTER_PIN'
+// Fail to find 'WHITE_ASTER_PIN'
+// Fail to find 'BLACK_DEPORTE_DOLL'
+// Fail to find 'CYAN_DEPORTE_DOLL'
+// Fail to find 'DEPORTE_DOLL'
+// Fail to find 'GOLD_DEPORTE_DOLL'
+// Fail to find 'GREEN_DEPORTE_DOLL'
+// Fail to find 'PURPLE_DEPORTE_DOLL'
+// Fail to find 'RED_DEPORTE_DOLL'
+// Fail to find 'WHITE_DEPORTE_DOLL'
+// Fail to find 'BLACK_BOMB_PORING_HAT'
+// Fail to find 'BLUE_BOMB_PORING_HAT'
+// Fail to find 'BOMB_PORING_HAT'
+// Fail to find 'CYAN_BOMB_PORING_HAT'
+// Fail to find 'GOLD_BOMB_PORING_HAT'
+// Fail to find 'GREEN_BOMB_PORING_HAT'
+// Fail to find 'PURPLE_BOMB_PORING_HAT'
+// Fail to find 'RED_BOMB_PORING_HAT'
+// Fail to find 'WHITE_BOMB_PORING_HAT'
+// Fail to find 'BLACK_CHONCHON_POOPOO_HAT'
+// Fail to find 'BLUE_CHONCHON_POOPOO_HAT'
+// Fail to find 'CHONCHON_POOPOO_HAT'
+// Fail to find 'CYAN_CHONCHON_POOPOO_HAT'
+// Fail to find 'GOLD_CHONCHON_POOPOO_HAT'
+// Fail to find 'GREEN_CHONCHON_POOPOO_HAT'
+// Fail to find 'PURPLE_CHONCHON_POOPOO_HAT'
+// Fail to find 'RED_CHONCHON_POOPOO_HAT'
+// Fail to find 'WHITE_CHONCHON_POOPOO_HAT'
+// Fail to find 'BLACK_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'CAT_O_NINE_TAIL_HAT'
+// Fail to find 'CYAN_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'GOLD_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'GREEN_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'PURPLE_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'RED_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'WHITE_CAT_O_NINE_TAIL_HAT'
+// Fail to find 'BLACK_CUTE_FLOWER_BAND'
+// Fail to find 'BLUE_CUTE_FLOWER_BAND'
+// Fail to find 'CUTE_FLOWER_BAND'
+// Fail to find 'CYAN_CUTE_FLOWER_BAND'
+// Fail to find 'GOLD_CUTE_FLOWER_BAND'
+// Fail to find 'GREEN_CUTE_FLOWER_BAND'
+// Fail to find 'PURPLE_CUTE_FLOWER_BAND'
+// Fail to find 'RED_CUTE_FLOWER_BAND'
+// Fail to find 'WHITE_CUTE_FLOWER_BAND'
+// Fail to find 'BLACK_DEVIRUCHI_PIN'
+// Fail to find 'BLUE_DEVIRUCHI_PIN'
+// Fail to find 'CYAN_DEVIRUCHI_PIN'
+// Fail to find 'DEVIRUCHI_PIN'
+// Fail to find 'GOLD_DEVIRUCHI_PIN'
+// Fail to find 'GREEN_DEVIRUCHI_PIN'
+// Fail to find 'PURPLE_DEVIRUCHI_PIN'
+// Fail to find 'RED_DEVIRUCHI_PIN'
+// Fail to find 'WHITE_DEVIRUCHI_PIN'
+// Fail to find 'BLACK_DOMINO_CAP'
+// Fail to find 'BLUE_DOMINO_CAP'
+// Fail to find 'CYAN_DOMINO_CAP'
+// Fail to find 'DOMINO_CAP'
+// Fail to find 'GOLD_DOMINO_CAP'
+// Fail to find 'GREEN_DOMINO_CAP'
+// Fail to find 'PURPLE_DOMINO_CAP'
+// Fail to find 'RED_DOMINO_CAP'
+// Fail to find 'WHITE_DOMINO_CAP'
+// Fail to find 'BLACK_DOWRY'
+// Fail to find 'BLUE_DOWRY'
+// Fail to find 'CYAN_DOWRY'
+// Fail to find 'DOWRY'
+// Fail to find 'GOLD_DOWRY'
+// Fail to find 'GREEN_DOWRY'
+// Fail to find 'PURPLE_DOWRY'
+// Fail to find 'RED_DOWRY'
+// Fail to find 'WHITE_DOWRY'
+// Fail to find 'DROOPING_BACSOJIN'
+// Fail to find 'BLACK_DROOPING_BACSOJIN'
+// Fail to find 'BLUE_DROOPING_BACSOJIN'
+// Fail to find 'CYAN_DROOPING_BACSOJIN'
+// Fail to find 'GOLD_DROOPING_BACSOJIN'
+// Fail to find 'GREEN_DROOPING_BACSOJIN'
+// Fail to find 'PURPLE_DROOPING_BACSOJIN'
+// Fail to find 'RED_DROOPING_BACSOJIN'
+// Fail to find 'WHITE_DROOPING_BACSOJIN'
+// Fail to find 'CANDY_CANE'
+// Fail to find 'BLACK_DROOPING_BUNNY'
+// Fail to find 'BLUE_DROOPING_BUNNY'
+// Fail to find 'CYAN_DROOPING_BUNNY'
+// Fail to find 'GREEN_DROOPING_BUNNY'
+// Fail to find 'PURPLE_DROOPING_BUNNY'
+// Fail to find 'RED_DROOPING_BUNNY'
+// Fail to find 'WHITE_DROOPING_BUNNY'
+// Fail to find 'BLACK_KONEKO_HAT'
+// Fail to find 'BLUE_KONEKO_HAT'
+// Fail to find 'CYAN_KONEKO_HAT'
+// Fail to find 'GOLD_KONEKO_HAT'
+// Fail to find 'GREEN_KONEKO_HAT'
+// Fail to find 'PURPLE_KONEKO_HAT'
+// Fail to find 'RED_KONEKO_HAT'
+// Fail to find 'BLACK_W_DOLL_HAT'
+// Fail to find 'BLUE_W_DOLL_HAT'
+// Fail to find 'CYAN_W_DOLL_HAT'
+// Fail to find 'GREEN_W_DOLL_HAT'
+// Fail to find 'PURPLE_W_DOLL_HAT'
+// Fail to find 'RED_W_DOLL_HAT'
+// Fail to find 'WHITE_W_DOLL_HAT'
+// Fail to find 'W_DOLL_HAT'
+// Fail to find 'BLACK_DROOPING_CHOCO'
+// Fail to find 'BLUE_DROOPING_CHOCO'
+// Fail to find 'CYAN_DROOPING_CHOCO'
+// Fail to find 'DROOPING_CHOCO'
+// Fail to find 'GOLD_DROOPING_CHOCO'
+// Fail to find 'GREEN_DROOPING_CHOCO'
+// Fail to find 'PURPLE_DROOPING_CHOCO'
+// Fail to find 'RED_DROOPING_CHOCO'
+// Fail to find 'WHITE_DROOPING_CHOCO'
+// Fail to find 'BLACK_DROOPING_DELETER'
+// Fail to find 'BLUE_DROOPING_DELETER'
+// Fail to find 'CYAN_DROOPING_DELETER'
+// Fail to find 'DROOPING_DELETER'
+// Fail to find 'GOLD_DROOPING_DELETER'
+// Fail to find 'GREEN_DROOPING_DELETER'
+// Fail to find 'PURPLE_DROOPING_DELETER'
+// Fail to find 'RED_DROOPING_DELETER'
+// Fail to find 'WHITE_DROOPING_DELETER'
+// Fail to find 'DROOPING_MAYA'
+// Fail to find 'BLACK_DROOPING_MAYA'
+// Fail to find 'BLUE_DROOPING_MAYA'
+// Fail to find 'CYAN_DROOPING_MAYA'
+// Fail to find 'GOLD_DROOPING_MAYA'
+// Fail to find 'GREEN_DROOPING_MAYA'
+// Fail to find 'PURPLE_DROOPING_MAYA'
+// Fail to find 'WHITE_DROOPING_MAYA'
+// Fail to find 'BLACK_DROOPING_NINE_TAIL'
+// Fail to find 'BLUE_DROOPING_NINE_TAIL'
+// Fail to find 'CYAN_DROOPING_NINE_TAIL'
+// Fail to find 'GREEN_DROOPING_NINE_TAIL'
+// Fail to find 'PURPLE_DROOPING_NINE_TAIL'
+// Fail to find 'RED_DROOPING_NINE_TAIL'
+// Fail to find 'WHITE_DROOPING_NINE_TAIL'
+// Fail to find 'BLACK_WEDDING_VEIL'
+// Fail to find 'BLUE_WEDDING_VEIL'
+// Fail to find 'CYAN_WEDDING_VEIL'
+// Fail to find 'GOLD_WEDDING_VEIL'
+// Fail to find 'GREEN_WEDDING_VEIL'
+// Fail to find 'PURPLE_WEDDING_VEIL'
+// Fail to find 'RED_WEDDING_VEIL'
+// Fail to find 'BLACK_DROOPING_ZHERLTHSH'
+// Fail to find 'CYAN_DROOPING_ZHERLTHSH'
+// Fail to find 'DROOPING_ZHERLTHSH'
+// Fail to find 'GOLD_DROOPING_ZHERLTHSH'
+// Fail to find 'GREEN_DROOPING_ZHERLTHSH'
+// Fail to find 'PURPLE_DROOPING_ZHERLTHSH'
+// Fail to find 'RED_DROOPING_ZHERLTHSH'
+// Fail to find 'WHITE_DROOPING_ZHERLTHSH'
+// Fail to find 'BLACK_MANDRAGORA_CAP'
+// Fail to find 'BLUE_MANDRAGORA_CAP'
+// Fail to find 'CYAN_MANDRAGORA_CAP'
+// Fail to find 'GREEN_MANDRAGORA_CAP'
+// Fail to find 'MANDRAGORA_CAP'
+// Fail to find 'PURPLE_MANDRAGORA_CAP'
+// Fail to find 'RED_MANDRAGORA_CAP'
+// Fail to find 'WHITE_MANDRAGORA_CAP'
+// Fail to find 'BLACK_MARC_HELM'
+// Fail to find 'BLUE_MARC_HELM'
+// Fail to find 'CYAN_MARC_HELM'
+// Fail to find 'GOLD_MARC_HELM'
+// Fail to find 'GREEN_MARC_HELM'
+// Fail to find 'MARC_HELM'
+// Fail to find 'PURPLE_MARC_HELM'
+// Fail to find 'RED_MARC_HELM'
+// Fail to find 'WHITE_MARC_HELM'
+// Fail to find 'SAYAN_TAIL'
+// Fail to find 'BLACK_RIBBON'
+// Fail to find 'BLUE_RIBBON'
+// Fail to find 'CYAN_RIBBON'
+// Fail to find 'GOLD_RIBBON'
+// Fail to find 'GREEN_RIBBON'
+// Fail to find 'RED_RIBBON'
+// Fail to find 'WHITE_RIBBON'
+// Fail to find 'BLACK_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'BLUE_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'CYAN_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'GOLD_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'GREEN_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'PURPLE_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'RED_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'WHITE_VALKYRIE_RANDGRIS_HELM'
+// Fail to find 'BLACK_FROG_DOLL'
+// Fail to find 'BLUE_FROG_DOLL'
+// Fail to find 'CYAN_FROG_DOLL'
+// Fail to find 'FROG_DOLL'
+// Fail to find 'GOLD_FROG_DOLL'
+// Fail to find 'GREEN_FROG_DOLL'
+// Fail to find 'PURPLE_FROG_DOLL'
+// Fail to find 'RED_FROG_DOLL'
+// Fail to find 'WHITE_FROG_DOLL'
+// Fail to find 'BLACK_GHOST_DOLL_HAT'
+// Fail to find 'CYAN_GHOST_DOLL_HAT'
+// Fail to find 'GHOST_DOLL_HAT'
+// Fail to find 'GOLD_GHOST_DOLL_HAT'
+// Fail to find 'GREEN_GHOST_DOLL_HAT'
+// Fail to find 'PURPLE_GHOST_DOLL_HAT'
+// Fail to find 'RED_GHOST_DOLL_HAT'
+// Fail to find 'WHITE_GHOST_DOLL_HAT'
+// Fail to find 'BLACK_IRISH_HAT'
+// Fail to find 'BLUE_IRISH_HAT'
+// Fail to find 'CYAN_IRISH_HAT'
+// Fail to find 'GOLD_IRISH_HAT'
+// Fail to find 'GREEN_IRISH_HAT'
+// Fail to find 'IRISH_HAT'
+// Fail to find 'PURPLE_IRISH_HAT'
+// Fail to find 'RED_IRISH_HAT'
+// Fail to find 'WHITE_IRISH_HAT'
+// Fail to find 'BLACK_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'BLUE_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'CYAN_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'DROOPING_KOBOLD_ARCHER'
+// Fail to find 'GOLD_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'GREEN_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'PURPLE_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'RED_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'WHITE_DROOPING_KOBOLD_ARCHER'
+// Fail to find 'BLACK_MASK_OF_IFRIT'
+// Fail to find 'BLUE_MASK_OF_IFRIT'
+// Fail to find 'CYAN_MASK_OF_IFRIT'
+// Fail to find 'GOLD_MASK_OF_IFRIT'
+// Fail to find 'GREEN_MASK_OF_IFRIT'
+// Fail to find 'MASK_OF_IFRIT'
+// Fail to find 'PURPLE_MASK_OF_IFRIT'
+// Fail to find 'RED_MASK_OF_IFRIT'
+// Fail to find 'WHITE_MASK_OF_IFRIT'
+// Fail to find 'BLACK_EYE_BALL_HAT'
+// Fail to find 'BLUE_EYE_BALL_HAT'
+// Fail to find 'CYAN_EYE_BALL_HAT'
+// Fail to find 'EYE_BALL_HAT'
+// Fail to find 'GOLD_EYE_BALL_HAT'
+// Fail to find 'GREEN_EYE_BALL_HAT'
+// Fail to find 'PURPLE_EYE_BALL_HAT'
+// Fail to find 'WHITE_EYE_BALL_HAT'
+// Fail to find 'BLACK_PHREEONI_HAT'
+// Fail to find 'BLUE_PHREEONI_HAT'
+// Fail to find 'CYAN_PHREEONI_HAT'
+// Fail to find 'GOLD_PHREEONI_HAT'
+// Fail to find 'GREEN_PHREEONI_HAT'
+// Fail to find 'PHREEONI_HAT'
+// Fail to find 'PURPLE_PHREEONI_HAT'
+// Fail to find 'WHITE_PHREEONI_HAT'
+// Fail to find 'BLACK_TAILRING_DOLL'
+// Fail to find 'BLUE_TAILRING_DOLL'
+// Fail to find 'CYAN_TAILRING_DOLL'
+// Fail to find 'GOLD_TAILRING_DOLL'
+// Fail to find 'GREEN_TAILRING_DOLL'
+// Fail to find 'PURPLE_TAILRING_DOLL'
+// Fail to find 'RED_TAILRING_DOLL'
+// Fail to find 'TAILRING_DOLL'
+// Fail to find 'WHITE_TAILRING_DOLL'
+// Fail to find 'BLACK_SORIN_DOLL'
+// Fail to find 'BLUE_SORIN_DOLL'
+// Fail to find 'CYAN_SORIN_DOLL'
+// Fail to find 'GOLD_SORIN_DOLL'
+// Fail to find 'GREEN_SORIN_DOLL'
+// Fail to find 'PURPLE_SORIN_DOLL'
+// Fail to find 'RED_SORIN_DOLL'
+// Fail to find 'SORIN_DOLL'
+// Fail to find 'WHITE_SORIN_DOLL'
+// Fail to find 'BLACK_GLARICE_DOLL'
+// Fail to find 'BLUE_GLARICE_DOLL'
+// Fail to find 'CYAN_GLARICE_DOLL'
+// Fail to find 'GLARICE_DOLL'
+// Fail to find 'GOLD_GLARICE_DOLL'
+// Fail to find 'GREEN_GLARICE_DOLL'
+// Fail to find 'PURPLE_GLARICE_DOLL'
+// Fail to find 'RED_GLARICE_DOLL'
+// Fail to find 'WHITE_GLARICE_DOLL'
+// Fail to find 'BLACK_FAT_MEOW_HAT'
+// Fail to find 'BLUE_FAT_MEOW_HAT'
+// Fail to find 'CYAN_FAT_MEOW_HAT'
+// Fail to find 'FAT_MEOW_HAT'
+// Fail to find 'GOLD_FAT_MEOW_HAT'
+// Fail to find 'GREEN_FAT_MEOW_HAT'
+// Fail to find 'PURPLE_FAT_MEOW_HAT'
+// Fail to find 'RED_FAT_MEOW_HAT'
+// Fail to find 'WHITE_FAT_MEOW_HAT'
+// Fail to find 'EGGYRA_HAT'
+// Fail to find 'BLACK_EGGYRA_HAT'
+// Fail to find 'BLUE_EGGYRA_HAT'
+// Fail to find 'CYAN_EGGYRA_HAT'
+// Fail to find 'GREEN_EGGYRA_HAT'
+// Fail to find 'PURPLE_EGGYRA_HAT'
+// Fail to find 'RED_EGGYRA_HAT'
+// Fail to find 'WHITE_EGGYRA_HAT'
+// Fail to find 'BLACK_GRYPHON_HEAD'
+// Fail to find 'BLUE_GRYPHON_HEAD'
+// Fail to find 'CYAN_GRYPHON_HEAD'
+// Fail to find 'GOLD_GRYPHON_HEAD'
+// Fail to find 'GREEN_GRYPHON_HEAD'
+// Fail to find 'GRYPHON_HEAD'
+// Fail to find 'PURPLE_GRYPHON_HEAD'
+// Fail to find 'RED_GRYPHON_HEAD'
+// Fail to find 'WHITE_GRYPHON_HEAD'
+// Fail to find 'BLACK_MAGNOLIA_HAT'
+// Fail to find 'CYAN_MAGNOLIA_HAT'
+// Fail to find 'GOLD_MAGNOLIA_HAT'
+// Fail to find 'GREEN_MAGNOLIA_HAT'
+// Fail to find 'MAGNOLIA_HAT'
+// Fail to find 'PURPLE_MAGNOLIA_HAT'
+// Fail to find 'RED_MAGNOLIA_HAT'
+// Fail to find 'WHITE_MAGNOLIA_HAT'
+// Fail to find 'HODE_HAT'
+// Fail to find 'BLACK_HODE_HAT'
+// Fail to find 'BLUE_HODE_HAT'
+// Fail to find 'CYAN_HODE_HAT'
+// Fail to find 'GOLD_HODE_HAT'
+// Fail to find 'GREEN_HODE_HAT'
+// Fail to find 'PURPLE_HODE_HAT'
+// Fail to find 'RED_HODE_HAT'
+// Fail to find 'WHITE_HODE_HAT'
+// Fail to find 'BLACK_KAPHA_HAT'
+// Fail to find 'CYAN_KAPHA_HAT'
+// Fail to find 'GOLD_KAPHA_HAT'
+// Fail to find 'GREEN_KAPHA_HAT'
+// Fail to find 'KAPHA_HAT'
+// Fail to find 'PURPLE_KAPHA_HAT'
+// Fail to find 'RED_KAPHA_HAT'
+// Fail to find 'WHITE_KAPHA_HAT'
+// Fail to find 'KRAB_HAT'
+// Fail to find 'BLACK_KRAB_HAT'
+// Fail to find 'BLUE_KRAB_HAT'
+// Fail to find 'CYAN_KRAB_HAT'
+// Fail to find 'GOLD_KRAB_HAT'
+// Fail to find 'GREEN_KRAB_HAT'
+// Fail to find 'PURPLE_KRAB_HAT'
+// Fail to find 'RED_KRAB_HAT'
+// Fail to find 'WHITE_KRAB_HAT'
+// Fail to find 'METALING_HAT'
+// Fail to find 'BLACK_METALING_HAT'
+// Fail to find 'BLUE_METALING_HAT'
+// Fail to find 'CYAN_METALING_HAT'
+// Fail to find 'GOLD_METALING_HAT'
+// Fail to find 'GREEN_METALING_HAT'
+// Fail to find 'PURPLE_METALING_HAT'
+// Fail to find 'RED_METALING_HAT'
+// Fail to find 'WHITE_METALING_HAT'
+// Fail to find 'BLACK_MISTRESS_CROWN'
+// Fail to find 'BLUE_MISTRESS_CROWN'
+// Fail to find 'CYAN_MISTRESS_CROWN'
+// Fail to find 'GOLD_MISTRESS_CROWN'
+// Fail to find 'GREEN_MISTRESS_CROWN'
+// Fail to find 'PURPLE_MISTRESS_CROWN'
+// Fail to find 'RED_MISTRESS_CROWN'
+// Fail to find 'WHITE_MISTRESS_CROWN'
+// Fail to find 'BLACK_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'BLUE_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'CYAN_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'GREEN_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'MOONLIGHT_FLOWER_CAP'
+// Fail to find 'PURPLE_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'RED_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'WHITE_MOONLIGHT_FLOWER_CAP'
+// Fail to find 'BLACK_MYST_CASE_HAT'
+// Fail to find 'BLUE_MYST_CASE_HAT'
+// Fail to find 'CYAN_MYST_CASE_HAT'
+// Fail to find 'GOLD_MYST_CASE_HAT'
+// Fail to find 'GREEN_MYST_CASE_HAT'
+// Fail to find 'MYST_CASE_HAT'
+// Fail to find 'PURPLE_MYST_CASE_HAT'
+// Fail to find 'WHITE_MYST_CASE_HAT'
+// Fail to find 'PLANKTON_HAT'
+// Fail to find 'BLACK_PLANKTON_HAT'
+// Fail to find 'BLUE_PLANKTON_HAT'
+// Fail to find 'CYAN_PLANKTON_HAT'
+// Fail to find 'GOLD_PLANKTON_HAT'
+// Fail to find 'GREEN_PLANKTON_HAT'
+// Fail to find 'PURPLE_PLANKTON_HAT'
+// Fail to find 'WHITE_PLANKTON_HAT'
+// Fail to find 'BLACK_OSIRIS_CROWN'
+// Fail to find 'BLUE_OSIRIS_CROWN'
+// Fail to find 'CYAN_OSIRIS_CROWN'
+// Fail to find 'GREEN_OSIRIS_CROWN'
+// Fail to find 'OSIRIS_CROWN'
+// Fail to find 'PURPLE_OSIRIS_CROWN'
+// Fail to find 'RED_OSIRIS_CROWN'
+// Fail to find 'WHITE_OSIRIS_CROWN'
+// Fail to find 'BLACK_DROOPING_INCUBUS'
+// Fail to find 'BLUE_DROOPING_INCUBUS'
+// Fail to find 'CYAN_DROOPING_INCUBUS'
+// Fail to find 'DROOPING_INCUBUS'
+// Fail to find 'GOLD_DROOPING_INCUBUS'
+// Fail to find 'GREEN_DROOPING_INCUBUS'
+// Fail to find 'PURPLE_DROOPING_INCUBUS'
+// Fail to find 'RED_DROOPING_INCUBUS'
+// Fail to find 'WHITE_DROOPING_INCUBUS'
+// Fail to find 'DROOPING_MEDUSA'
+// Fail to find 'BLACK_DROOPING_MEDUSA'
+// Fail to find 'BLUE_DROOPING_MEDUSA'
+// Fail to find 'CYAN_DROOPING_MEDUSA'
+// Fail to find 'GOLD_DROOPING_MEDUSA'
+// Fail to find 'GREEN_DROOPING_MEDUSA'
+// Fail to find 'PURPLE_DROOPING_MEDUSA'
+// Fail to find 'WHITE_DROOPING_MEDUSA'
+// Fail to find 'BLACK_DROOPING_SPORE'
+// Fail to find 'BLUE_DROOPING_SPORE'
+// Fail to find 'CYAN_DROOPING_SPORE'
+// Fail to find 'DROOPING_SPORE'
+// Fail to find 'GOLD_DROOPING_SPORE'
+// Fail to find 'GREEN_DROOPING_SPORE'
+// Fail to find 'PURPLE_DROOPING_SPORE'
+// Fail to find 'WHITE_DROOPING_SPORE'
+// Fail to find 'BLACK_DROOPING_SUCCUBUS'
+// Fail to find 'BLUE_DROOPING_SUCCUBUS'
+// Fail to find 'CYAN_DROOPING_SUCCUBUS'
+// Fail to find 'DROOPING_SUCCUBUS'
+// Fail to find 'GOLD_DROOPING_SUCCUBUS'
+// Fail to find 'GREEN_DROOPING_SUCCUBUS'
+// Fail to find 'PURPLE_DROOPING_SUCCUBUS'
+// Fail to find 'RED_DROOPING_SUCCUBUS'
+// Fail to find 'WHITE_DROOPING_SUCCUBUS'
+// Fail to find 'BLACK_LUXURY_HAT'
+// Fail to find 'BLUE_LUXURY_HAT'
+// Fail to find 'CYAN_LUXURY_HAT'
+// Fail to find 'GOLD_LUXURY_HAT'
+// Fail to find 'GREEN_LUXURY_HAT'
+// Fail to find 'LUXURY_HAT'
+// Fail to find 'PURPLE_LUXURY_HAT'
+// Fail to find 'RED_LUXURY_HAT'
+// Fail to find 'BLACK_PANTIE_HAT'
+// Fail to find 'BLUE_PANTIE_HAT'
+// Fail to find 'CYAN_PANTIE_HAT'
+// Fail to find 'GOLD_PANTIE_HAT'
+// Fail to find 'GREEN_PANTIE_HAT'
+// Fail to find 'PANTIE_HAT'
+// Fail to find 'PURPLE_PANTIE_HAT'
+// Fail to find 'RED_PANTIE_HAT'
+// Fail to find 'WHITE_PANTIE_HAT'
+// Fail to find 'BLACK_PHARAOH_HELM'
+// Fail to find 'BLUE_PHARAOH_HELM'
+// Fail to find 'CYAN_PHARAOH_HELM'
+// Fail to find 'GREEN_PHARAOH_HELM'
+// Fail to find 'PHARAOH_HELM'
+// Fail to find 'PURPLE_PHARAOH_HELM'
+// Fail to find 'RED_PHARAOH_HELM'
+// Fail to find 'WHITE_PHARAOH_HELM'
+// Fail to find 'BLACK_PUPPY_SANTA'
+// Fail to find 'BLUE_PUPPY_SANTA'
+// Fail to find 'CYAN_PUPPY_SANTA'
+// Fail to find 'GOLD_PUPPY_SANTA'
+// Fail to find 'GREEN_PUPPY_SANTA'
+// Fail to find 'PUPPY_SANTA'
+// Fail to find 'PURPLE_PUPPY_SANTA'
+// Fail to find 'WHITE_PUPPY_SANTA'
+// Fail to find 'BLACK_SKEGGIOLD_HAT'
+// Fail to find 'CYAN_SKEGGIOLD_HAT'
+// Fail to find 'GOLD_SKEGGIOLD_HAT'
+// Fail to find 'GREEN_SKEGGIOLD_HAT'
+// Fail to find 'PURPLE_SKEGGIOLD_HAT'
+// Fail to find 'RED_SKEGGIOLD_HAT'
+// Fail to find 'SKEGGIOLD_HAT'
+// Fail to find 'WHITE_SKEGGIOLD_HAT'
+// Fail to find 'AGAV_HOOD'
+// Fail to find 'ANTONIO_HAT'
+// Fail to find 'BLACK_ANTONIO_HAT'
+// Fail to find 'BLUE_ANTONIO_HAT'
+// Fail to find 'CYAN_ANTONIO_HAT'
+// Fail to find 'GOLD_ANTONIO_HAT'
+// Fail to find 'GREEN_ANTONIO_HAT'
+// Fail to find 'PURPLE_ANTONIO_HAT'
+// Fail to find 'WHITE_ANTONIO_HAT'
+// Fail to find 'BLACK_CHAX_HAT'
+// Fail to find 'BLUE_CHAX_HAT'
+// Fail to find 'CHAX_HAT'
+// Fail to find 'CYAN_CHAX_HAT'
+// Fail to find 'GOLD_CHAX_HAT'
+// Fail to find 'GREEN_CHAX_HAT'
+// Fail to find 'PURPLE_CHAX_HAT'
+// Fail to find 'WHITE_CHAX_HAT'
+// Fail to find 'BLACK_COW_HORN'
+// Fail to find 'BLUE_COW_HORN'
+// Fail to find 'COW_HORN'
+// Fail to find 'CYAN_COW_HORN'
+// Fail to find 'GOLD_COW_HORN'
+// Fail to find 'GREEN_COW_HORN'
+// Fail to find 'PURPLE_COW_HORN'
+// Fail to find 'RED_COW_HORN'
+// Fail to find 'WHITE_COW_HORN'
+// Fail to find 'BLACK_DROOPING_LOBSTERS'
+// Fail to find 'BLUE_DROOPING_LOBSTERS'
+// Fail to find 'BROWN_DROOPING_LOBSTERS'
+// Fail to find 'CYAN_DROOPING_LOBSTERS'
+// Fail to find 'DROOPING_LOBSTERS'
+// Fail to find 'GOLD_DROOPING_LOBSTERS'
+// Fail to find 'GREEN_DROOPING_LOBSTERS'
+// Fail to find 'ORANGE_DROOPING_LOBSTERS'
+// Fail to find 'PINK_DROOPING_LOBSTERS'
+// Fail to find 'PURPLE_DROOPING_LOBSTERS'
+// Fail to find 'SILVER_DROOPING_LOBSTERS'
+// Fail to find 'WHITE_DROOPING_LOBSTERS'
+// Fail to find 'DROOPING_OCTOPUS'
+// Fail to find 'BLACK_GENTLEMAN_HAT'
+// Fail to find 'GREEN_GENTLEMAN_HAT'
+// Fail to find 'GENTLEMAN_HAT'
+// Fail to find 'PURPLE_GENTLEMAN_HAT'
+// Fail to find 'RED_GENTLEMAN_HAT'
+// Fail to find 'PICCOLO_HAT'
+// Fail to find 'BLACK_POULPIX_HAT'
+// Fail to find 'BLUE_POULPIX_HAT'
+// Fail to find 'CYAN_POULPIX_HAT'
+// Fail to find 'GOLD_POULPIX_HAT'
+// Fail to find 'GREEN_POULPIX_HAT'
+// Fail to find 'POULPIX_HAT'
+// Fail to find 'PURPLE_POULPIX_HAT'
+// Fail to find 'RED_POULPIX_HAT'
+// Fail to find 'WHITE_POULPIX_HAT'
+// Fail to find 'BLACK_RABBIT'
+// Fail to find 'RABBIT'
+// Fail to find 'RIBBON_HAT'
+// Fail to find 'BLACK_ROMAN_SOLDIER_HELM'
+// Fail to find 'BLUE_ROMAN_SOLDIER_HELM'
+// Fail to find 'CYAN_ROMAN_SOLDIER_HELM'
+// Fail to find 'GOLD_ROMAN_SOLDIER_HELM'
+// Fail to find 'GREEN_ROMAN_SOLDIER_HELM'
+// Fail to find 'PURPLE_ROMAN_SOLDIER_HELM'
+// Fail to find 'ROMAN_SOLDIER_HELM'
+// Fail to find 'WHITE_ROMAN_SOLDIER_HELM'
+// Fail to find 'BLACK_ROSE'
+// Fail to find 'BLUE_ROSE'
+// Fail to find 'BROWN_ROSE'
+// Fail to find 'CYAN_ROSE'
+// Fail to find 'GOLD_ROSE'
+// Fail to find 'GREEN_ROSE'
+// Fail to find 'ORANGE_ROSE'
+// Fail to find 'PINK_ROSE'
+// Fail to find 'PURPLE_ROSE'
+// Fail to find 'ROSE'
+// Fail to find 'SILVER_ROSE'
+// Fail to find 'WHITE_ROSE'
+// Fail to find 'BLACK_ST_PATRICK_HAT'
+// Fail to find 'BLUE_ST_PATRICK_HAT'
+// Fail to find 'BROWN_ST_PATRICK_HAT'
+// Fail to find 'CYAN_ST_PATRICK_HAT'
+// Fail to find 'PURPLE_ST_PATRICK_HAT'
+// Fail to find 'RED_ST_PATRICK_HAT'
+// Fail to find 'ST_PATRICK_HAT'
+// Fail to find 'WHITE_ST_PATRICK_HAT'
+// Fail to find 'BLACK_TINY_BERET'
+// Fail to find 'BLUE_TINY_BERET'
+// Fail to find 'BROWN_TINY_BERET'
+// Fail to find 'CYAN_TINY_BERET'
+// Fail to find 'GOLD_TINY_BERET'
+// Fail to find 'ORANGE_TINY_BERET'
+// Fail to find 'PINK_TINY_BERET'
+// Fail to find 'PURPLE_TINY_BERET'
+// Fail to find 'RED_TINY_BERET'
+// Fail to find 'SILVER_TINY_BERET'
+// Fail to find 'TINY_BERET'
+// Fail to find 'WHITE_TINY_BERET'
+// Fail to find 'CHRISTMAS_TREE_HAT'
+// Fail to find 'ANGEL_OF_GHOST'
+// Fail to find 'BLACK_ANGEL_OF_GHOST'
+// Fail to find 'BLUE_ANGEL_OF_GHOST'
+// Fail to find 'CYAN_ANGEL_OF_GHOST'
+// Fail to find 'GREEN_ANGEL_OF_GHOST'
+// Fail to find 'PURPLE_ANGEL_OF_GHOST'
+// Fail to find 'RED_ANGEL_OF_GHOST'
+// Fail to find 'WHITE_ANGEL_OF_GHOST'
+// Fail to find 'BLACK_ANGEL_WING_EARS'
+// Fail to find 'BLUE_ANGEL_WING_EARS'
+// Fail to find 'CYAN_ANGEL_WING_EARS'
+// Fail to find 'GOLD_ANGEL_WING_EARS'
+// Fail to find 'GREEN_ANGEL_WING_EARS'
+// Fail to find 'PURPLE_ANGEL_WING_EARS'
+// Fail to find 'RED_ANGEL_WING_EARS'
+// Fail to find 'BLACK_BINOCULARS'
+// Fail to find 'BLUE_BINOCULARS'
+// Fail to find 'CYAN_BINOCULARS'
+// Fail to find 'GOLD_BINOCULARS'
+// Fail to find 'GREEN_BINOCULARS'
+// Fail to find 'PURPLE_BINOCULARS'
+// Fail to find 'RED_BINOCULARS'
+// Fail to find 'WHITE_BINOCULARS'
+// Fail to find 'BLACK_BLINKER'
+// Fail to find 'BLUE_BLINKER'
+// Fail to find 'CYAN_BLINKER'
+// Fail to find 'GOLD_BLINKER'
+// Fail to find 'GREEN_BLINKER'
+// Fail to find 'PURPLE_BLINKER'
+// Fail to find 'RED_BLINKER'
+// Fail to find 'WHITE_BLINKER'
+// Fail to find 'BLACK_BLUSH'
+// Fail to find 'BLUE_BLUSH'
+// Fail to find 'CYAN_BLUSH'
+// Fail to find 'GOLD_BLUSH'
+// Fail to find 'GREEN_BLUSH'
+// Fail to find 'PURPLE_BLUSH'
+// Fail to find 'WHITE_BLUSH'
+// Fail to find 'CHESS_CENSOR_BAR'
+// Fail to find 'BLACK_ODIN_MASK'
+// Fail to find 'BLUE_ODIN_MASK'
+// Fail to find 'CYAN_ODIN_MASK'
+// Fail to find 'GOLD_ODIN_MASK'
+// Fail to find 'GREEN_ODIN_MASK'
+// Fail to find 'PURPLE_ODIN_MASK'
+// Fail to find 'RED_ODIN_MASK'
+// Fail to find 'WHITE_ODIN_MASK'
+// Fail to find 'DARK_BLACK_MINI_GLASSES'
+// Fail to find 'DARK_BLUE_MINI_GLASSES'
+// Fail to find 'DARK_CYAN_MINI_GLASSES'
+// Fail to find 'DARK_GOLD_MINI_GLASSES'
+// Fail to find 'DARK_GREEN_MINI_GLASSES'
+// Fail to find 'DARK_PURPLE_MINI_GLASSES'
+// Fail to find 'DARK_RED_MINI_GLASSES'
+// Fail to find 'DARK_WHITE_MINI_GLASSES'
+// Fail to find 'BLACK_CYCLOP_EYE'
+// Fail to find 'BLUE_CYCLOP_EYE'
+// Fail to find 'CYAN_CYCLOP_EYE'
+// Fail to find 'GOLD_CYCLOP_EYE'
+// Fail to find 'GREEN_CYCLOP_EYE'
+// Fail to find 'PURPLE_CYCLOP_EYE'
+// Fail to find 'RED_CYCLOP_EYE'
+// Fail to find 'WHITE_CYCLOP_EYE'
+// Fail to find 'BLUE_EVIL_WING_EARS'
+// Fail to find 'CYAN_EVIL_WING_EARS'
+// Fail to find 'GOLD_EVIL_WING_EARS'
+// Fail to find 'GREEN_EVIL_WING_EARS'
+// Fail to find 'PURPLE_EVIL_WING_EARS'
+// Fail to find 'RED_EVIL_WING_EARS'
+// Fail to find 'WHITE_EVIL_WING_EARS'
+// Fail to find 'BLACK_EYE_PATCH'
+// Fail to find 'BLUE_EYE_PATCH'
+// Fail to find 'CYAN_EYE_PATCH'
+// Fail to find 'GOLD_EYE_PATCH'
+// Fail to find 'GREEN_EYE_PATCH'
+// Fail to find 'PURPLE_EYE_PATCH'
+// Fail to find 'RED_EYE_PATCH'
+// Fail to find 'WHITE_EYE_PATCH'
+// Fail to find 'BLACK_FIN_HELM'
+// Fail to find 'BLUE_FIN_HELM'
+// Fail to find 'CYAN_FIN_HELM'
+// Fail to find 'GOLD_FIN_HELM'
+// Fail to find 'PURPLE_FIN_HELM'
+// Fail to find 'RED_FIN_HELM'
+// Fail to find 'WHITE_FIN_HELM'
+// Fail to find 'BLACK_HANE_RIBBON'
+// Fail to find 'BLUE_HANE_RIBBON'
+// Fail to find 'CYAN_HANE_RIBBON'
+// Fail to find 'GOLD_HANE_RIBBON'
+// Fail to find 'GREEN_HANE_RIBBON'
+// Fail to find 'HANE_RIBBON'
+// Fail to find 'PURPLE_HANE_RIBBON'
+// Fail to find 'WHITE_HANE_RIBBON'
+// Fail to find 'BLACK_HELM_OF_DARKNESS'
+// Fail to find 'CYAN_HELM_OF_DARKNESS'
+// Fail to find 'GOLD_HELM_OF_DARKNESS'
+// Fail to find 'GREEN_HELM_OF_DARKNESS'
+// Fail to find 'PURPLE_HELM_OF_DARKNESS'
+// Fail to find 'RED_HELM_OF_DARKNESS'
+// Fail to find 'WHITE_HELM_OF_DARKNESS'
+// Fail to find 'BLUE_MASQUERADE'
+// Fail to find 'CYAN_MASQUERADE'
+// Fail to find 'GOLD_MASQUERADE'
+// Fail to find 'GREEN_MASQUERADE'
+// Fail to find 'PURPLE_MASQUERADE'
+// Fail to find 'RED_MASQUERADE'
+// Fail to find 'WHITE_MASQUERADE'
+// Fail to find 'BLACK_MINI_GLASSES'
+// Fail to find 'BLUE_MINI_GLASSES'
+// Fail to find 'CYAN_MINI_GLASSES'
+// Fail to find 'GOLD_MINI_GLASSES'
+// Fail to find 'GREEN_MINI_GLASSES'
+// Fail to find 'PURPLE_MINI_GLASSES'
+// Fail to find 'RED_MINI_GLASSES'
+// Fail to find 'WHITE_MINI_GLASSES'
+// Fail to find 'BLACK_OBSERVER'
+// Fail to find 'BLUE_OBSERVER'
+// Fail to find 'CYAN_OBSERVER'
+// Fail to find 'GOLD_OBSERVER'
+// Fail to find 'GREEN_OBSERVER'
+// Fail to find 'PURPLE_OBSERVER'
+// Fail to find 'RED_OBSERVER'
+// Fail to find 'BLACK_OPERA_MASQUE'
+// Fail to find 'BLUE_OPERA_MASQUE'
+// Fail to find 'CYAN_OPERA_MASQUE'
+// Fail to find 'GOLD_OPERA_MASQUE'
+// Fail to find 'GREEN_OPERA_MASQUE'
+// Fail to find 'PURPLE_OPERA_MASQUE'
+// Fail to find 'RED_OPERA_MASQUE'
+// Fail to find 'BLACK_GLASSES'
+// Fail to find 'BLUE_GLASSES'
+// Fail to find 'CYAN_GLASSES'
+// Fail to find 'GOLD_GLASSES'
+// Fail to find 'GREEN_GLASSES'
+// Fail to find 'PURPLE_GLASSES'
+// Fail to find 'WHITE_GLASSES'
+// Fail to find 'BLACK_ROBO_EYE'
+// Fail to find 'BLUE_ROBO_EYE'
+// Fail to find 'CYAN_ROBO_EYE'
+// Fail to find 'GOLD_ROBO_EYE'
+// Fail to find 'GREEN_ROBO_EYE'
+// Fail to find 'PURPLE_ROBO_EYE'
+// Fail to find 'RED_ROBO_EYE'
+// Fail to find 'WHITE_ROBO_EYE'
+// Fail to find 'BLACK_SMALL_RIBBONS'
+// Fail to find 'BLUE_SMALL_RIBBONS'
+// Fail to find 'CYAN_SMALL_RIBBONS'
+// Fail to find 'GOLD_SMALL_RIBBONS'
+// Fail to find 'GREEN_SMALL_RIBBONS'
+// Fail to find 'PURPLE_SMALL_RIBBONS'
+// Fail to find 'WHITE_SMALL_RIBBONS'
+// Fail to find 'BLUE_SUNGLASSES'
+// Fail to find 'CYAN_SUNGLASSES'
+// Fail to find 'GOLD_SUNGLASSES'
+// Fail to find 'GREEN_SUNGLASSES'
+// Fail to find 'PURPLE_SUNGLASSES'
+// Fail to find 'RED_SUNGLASSES'
+// Fail to find 'WHITE_SUNGLASSES'
+// Fail to find 'BLACK_TAKIUS_BLINDFOLD'
+// Fail to find 'BLUE_TAKIUS_BLINDFOLD'
+// Fail to find 'CYAN_TAKIUS_BLINDFOLD'
+// Fail to find 'GOLD_TAKIUS_BLINDFOLD'
+// Fail to find 'GREEN_TAKIUS_BLINDFOLD'
+// Fail to find 'PURPLE_TAKIUS_BLINDFOLD'
+// Fail to find 'RED_TAKIUS_BLINDFOLD'
+// Fail to find 'WHITE_TAKIUS_BLINDFOLD'
+// Fail to find 'BLACK_VICTORY_WINGS'
+// Fail to find 'BLUE_VICTORY_WINGS'
+// Fail to find 'CYAN_VICTORY_WINGS'
+// Fail to find 'GOLD_VICTORY_WINGS'
+// Fail to find 'GREEN_VICTORY_WINGS'
+// Fail to find 'PURPLE_VICTORY_WINGS'
+// Fail to find 'RED_VICTORY_WINGS'
+// Fail to find 'WHITE_VICTORY_WINGS'
+// Fail to find 'BLACK_ZHERLTHSH_MASK'
+// Fail to find 'BLUE_ZHERLTHSH_MASK'
+// Fail to find 'CYAN_ZHERLTHSH_MASK'
+// Fail to find 'GOLD_ZHERLTHSH_MASK'
+// Fail to find 'GREEN_ZHERLTHSH_MASK'
+// Fail to find 'PURPLE_ZHERLTHSH_MASK'
+// Fail to find 'WHITE_ZHERLTHSH_MASK'
+// Fail to find 'BLACK_PONDE_HAT'
+// Fail to find 'BLUE_PONDE_HAT'
+// Fail to find 'CYAN_PONDE_HAT'
+// Fail to find 'GREEN_PONDE_HAT'
+// Fail to find 'PONDE_HAT'
+// Fail to find 'PURPLE_PONDE_HAT'
+// Fail to find 'RED_PONDE_HAT'
+// Fail to find 'WHITE_PONDE_HAT'
+// Fail to find 'BLACK_SCUBA_MASK'
+// Fail to find 'BLUE_SCUBA_MASK'
+// Fail to find 'CYAN_SCUBA_MASK'
+// Fail to find 'GOLD_SCUBA_MASK'
+// Fail to find 'PURPLE_SCUBA_MASK'
+// Fail to find 'RED_SCUBA_MASK'
+// Fail to find 'SCUBA_MASK'
+// Fail to find 'WHITE_SCUBA_MASK'
+// Fail to find 'BLACK_EYE_OF_DARKNESS'
+// Fail to find 'BLUE_EYE_OF_DARKNESS'
+// Fail to find 'CYAN_EYE_OF_DARKNESS'
+// Fail to find 'EYE_OF_DARKNESS'
+// Fail to find 'GOLD_EYE_OF_DARKNESS'
+// Fail to find 'GREEN_EYE_OF_DARKNESS'
+// Fail to find 'PURPLE_EYE_OF_DARKNESS'
+// Fail to find 'RED_EYE_OF_DARKNESS'
+// Fail to find 'WHITE_EYE_OF_DARKNESS'
+// Fail to find 'BLACK_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'BLUE_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'CYAN_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'GOLD_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'GREEN_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'PURPLE_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'WHITE_DECORATIVE_GOLDEN_BELL'
+// Fail to find 'BLACK_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'BLUE_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'CYAN_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'GOLD_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'GREEN_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'NIPPER_CRAB_HAIRPIN'
+// Fail to find 'PURPLE_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'WHITE_NIPPER_CRAB_HAIRPIN'
+// Fail to find 'BLACK_SIGRUN_WINGS'
+// Fail to find 'CYAN_SIGRUN_WINGS'
+// Fail to find 'GOLD_SIGRUN_WINGS'
+// Fail to find 'GREEN_SIGRUN_WINGS'
+// Fail to find 'PURPLE_SIGRUN_WINGS'
+// Fail to find 'RED_SIGRUN_WINGS'
+// Fail to find 'SIGRUN_WINGS'
+// Fail to find 'WHITE_SIGRUN_WINGS'
+// Fail to find 'BLACK_ELVEN_EARS_EARRINGS'
+// Fail to find 'BLUE_ELVEN_EARS_EARRINGS'
+// Fail to find 'CYAN_ELVEN_EARS_EARRINGS'
+// Fail to find 'ELVEN_EARS_EARRINGS'
+// Fail to find 'GOLD_ELVEN_EARS_EARRINGS'
+// Fail to find 'GREEN_ELVEN_EARS_EARRINGS'
+// Fail to find 'PURPLE_ELVEN_EARS_EARRINGS'
+// Fail to find 'RED_ELVEN_EARS_EARRINGS'
+// Fail to find 'WHITE_ELVEN_EARS_EARRINGS'
+// Fail to find 'BLACK_EARS_OF_IFRIT'
+// Fail to find 'BLUE_EARS_OF_IFRIT'
+// Fail to find 'CYAN_EARS_OF_IFRIT'
+// Fail to find 'EARS_OF_IFRIT'
+// Fail to find 'GOLD_EARS_OF_IFRIT'
+// Fail to find 'GREEN_EARS_OF_IFRIT'
+// Fail to find 'PURPLE_EARS_OF_IFRIT'
+// Fail to find 'WHITE_EARS_OF_IFRIT'
+// Fail to find 'BLACK_ASSASSIN_MASK'
+// Fail to find 'BLUE_ASSASSIN_MASK'
+// Fail to find 'CYAN_ASSASSIN_MASK'
+// Fail to find 'GOLD_ASSASSIN_MASK'
+// Fail to find 'GREEN_ASSASSIN_MASK'
+// Fail to find 'PURPLE_ASSASSIN_MASK'
+// Fail to find 'RED_ASSASSIN_MASK'
+// Fail to find 'WHITE_ASSASSIN_MASK'
+// Fail to find 'BLACK_BABY_PACIFIER'
+// Fail to find 'BLUE_BABY_PACIFIER'
+// Fail to find 'CYAN_BABY_PACIFIER'
+// Fail to find 'GREEN_BABY_PACIFIER'
+// Fail to find 'PURPLE_BABY_PACIFIER'
+// Fail to find 'RED_BABY_PACIFIER'
+// Fail to find 'WHITE_BABY_PACIFIER'
+// Fail to find 'BLACK_BAG'
+// Fail to find 'BLUE_BAG'
+// Fail to find 'CYAN_BAG'
+// Fail to find 'GOLD_BAG'
+// Fail to find 'GREEN_BAG'
+// Fail to find 'PURPLE_BAG'
+// Fail to find 'RED_BAG'
+// Fail to find 'WHITE_BAG'
+// Fail to find 'BLUE_BEARD'
+// Fail to find 'CYAN_BEARD'
+// Fail to find 'GOLD_BEARD'
+// Fail to find 'GREEN_BEARD'
+// Fail to find 'PURPLE_BEARD'
+// Fail to find 'RED_BEARD'
+// Fail to find 'BLACK_CLOWN_NOSE'
+// Fail to find 'BLUE_CLOWN_NOSE'
+// Fail to find 'CYAN_CLOWN_NOSE'
+// Fail to find 'GOLD_CLOWN_NOSE'
+// Fail to find 'GREEN_CLOWN_NOSE'
+// Fail to find 'PURPLE_CLOWN_NOSE'
+// Fail to find 'WHITE_CLOWN_NOSE'
+// Fail to find 'BLACK_ROMANTIC_LEAF'
+// Fail to find 'BLUE_ROMANTIC_LEAF'
+// Fail to find 'CYAN_ROMANTIC_LEAF'
+// Fail to find 'GOLD_ROMANTIC_LEAF'
+// Fail to find 'PURPLE_ROMANTIC_LEAF'
+// Fail to find 'RED_ROMANTIC_LEAF'
+// Fail to find 'WHITE_ROMANTIC_LEAF'
+// Fail to find 'BLACK_SAGE_RING'
+// Fail to find 'BLUE_SAGE_RING'
+// Fail to find 'CYAN_SAGE_RING'
+// Fail to find 'GOLD_SAGE_RING'
+// Fail to find 'GREEN_SAGE_RING'
+// Fail to find 'PURPLE_SAGE_RING'
+// Fail to find 'RED_SAGE_RING'
+// Fail to find 'SAGE_RING'
+// Fail to find 'WHITE_SAGE_RING'
+// Fail to find 'BLACK_PETAL'
+// Fail to find 'BLUE_PETAL'
+// Fail to find 'CYAN_PETAL'
+// Fail to find 'GREEN_PETAL'
+// Fail to find 'PURPLE_PETAL'
+// Fail to find 'BLACK_NINJA_S_SCROLL'
+// Fail to find 'BLUE_NINJA_S_SCROLL'
+// Fail to find 'CYAN_NINJA_S_SCROLL'
+// Fail to find 'GOLD_NINJA_S_SCROLL'
+// Fail to find 'GREEN_NINJA_S_SCROLL'
+// Fail to find 'NINJA_S_SCROLL'
+// Fail to find 'PURPLE_NINJA_S_SCROLL'
+// Fail to find 'WHITE_NINJA_S_SCROLL'
+// Fail to find 'BLACK_FISH_MOUTH'
+// Fail to find 'CYAN_FISH_MOUTH'
+// Fail to find 'FISH_MOUTH'
+// Fail to find 'GOLD_FISH_MOUTH'
+// Fail to find 'GREEN_FISH_MOUTH'
+// Fail to find 'PURPLE_FISH_MOUTH'
+// Fail to find 'RED_FISH_MOUTH'
+// Fail to find 'WHITE_FISH_MOUTH'
+// Fail to find 'BLACK_GANGSTER_SCARF'
+// Fail to find 'BLUE_GANGSTER_SCARF'
+// Fail to find 'CYAN_GANGSTER_SCARF'
+// Fail to find 'GOLD_GANGSTER_SCARF'
+// Fail to find 'GREEN_GANGSTER_SCARF'
+// Fail to find 'PURPLE_GANGSTER_SCARF'
+// Fail to find 'WHITE_GANGSTER_SCARF'
+// Fail to find 'BLACK_SWEET_CANDY'
+// Fail to find 'BLUE_SWEET_CANDY'
+// Fail to find 'CYAN_SWEET_CANDY'
+// Fail to find 'GOLD_SWEET_CANDY'
+// Fail to find 'GREEN_SWEET_CANDY'
+// Fail to find 'PURPLE_SWEET_CANDY'
+// Fail to find 'SWEET_CANDY'
+// Fail to find 'WHITE_SWEET_CANDY'
+// Fail to find 'BLACK_SPIKED_SCARF'
+// Fail to find 'BLUE_SPIKED_SCARF'
+// Fail to find 'CYAN_SPIKED_SCARF'
+// Fail to find 'GOLD_SPIKED_SCARF'
+// Fail to find 'GREEN_SPIKED_SCARF'
+// Fail to find 'PURPLE_SPIKED_SCARF'
+// Fail to find 'RED_SPIKED_SCARF'
+// Fail to find 'SPIKED_SCARF'
+// Fail to find 'WHITE_SPIKED_SCARF'
+// Fail to find 'BLACK_CRUNCH_TOAST'
+// Fail to find 'BLUE_CRUNCH_TOAST'
+// Fail to find 'CRUNCH_TOAST'
+// Fail to find 'CYAN_CRUNCH_TOAST'
+// Fail to find 'GOLD_CRUNCH_TOAST'
+// Fail to find 'GREEN_CRUNCH_TOAST'
+// Fail to find 'PURPLE_CRUNCH_TOAST'
+// Fail to find 'RED_CRUNCH_TOAST'
+// Fail to find 'WHITE_CRUNCH_TOAST'
+// Fail to find 'BLACK_SPARE_CARD'
+// Fail to find 'BLUE_SPARE_CARD'
+// Fail to find 'CYAN_SPARE_CARD'
+// Fail to find 'GOLD_SPARE_CARD'
+// Fail to find 'GREEN_SPARE_CARD'
+// Fail to find 'PURPLE_SPARE_CARD'
+// Fail to find 'RED_SPARE_CARD'
+// Fail to find 'WHITE_SPARE_CARD'
+// Fail to find 'BLACK_SANTA_BEARD'
+// Fail to find 'BLUE_SANTA_BEARD'
+// Fail to find 'CYAN_SANTA_BEARD'
+// Fail to find 'GOLD_SANTA_BEARD'
+// Fail to find 'GREEN_SANTA_BEARD'
+// Fail to find 'PURPLE_SANTA_BEARD'
+// Fail to find 'RED_SANTA_BEARD'
+// Fail to find 'SANTA_BEARD'
+// Fail to find 'BLACK_LEAF'
+// Fail to find 'BLUE_LEAF'
+// Fail to find 'CYAN_LEAF'
+// Fail to find 'GOLD_LEAF'
+// Fail to find 'PURPLE_LEAF'
+// Fail to find 'RED_LEAF'
+// Fail to find 'WHITE_LEAF'
+// Fail to find 'BLACK_SCARF'
+// Fail to find 'BLUE_SCARF'
+// Fail to find 'CYAN_SCARF'
+// Fail to find 'GOLD_SCARF'
+// Fail to find 'GREEN_SCARF'
+// Fail to find 'HALLOWEEN_SCARF'
+// Fail to find 'PINK_SCARF'
+// Fail to find 'PURPLE_SCARF'
+// Fail to find 'RED_SCARF'
+// Fail to find 'SANTA_SCARF'
+// Fail to find 'BLACK_TIE'
+// Fail to find 'BLUE_TIE'
+// Fail to find 'BROWN_TIE'
+// Fail to find 'CYAN_TIE'
+// Fail to find 'GOLD_TIE'
+// Fail to find 'GREEN_TIE'
+// Fail to find 'ORANGE_TIE'
+// Fail to find 'PINK_TIE'
+// Fail to find 'PURPLE_TIE'
+// Fail to find 'RED_TIE'
+// Fail to find 'SILVER_TIE'
+// Fail to find 'WHITE_TIE'
+// Fail to find 'BLACK_FAIRY_WINGS'
+// Fail to find 'BLUE_FAIRY_WINGS'
+// Fail to find 'BROWN_FAIRY_WINGS'
+// Fail to find 'CYAN_FAIRY_WINGS'
+// Fail to find 'GOLD_FAIRY_WINGS'
+// Fail to find 'GREEN_FAIRY_WINGS'
+// Fail to find 'ORANGE_FAIRY_WINGS'
+// Fail to find 'PINK_FAIRY_WINGS'
+// Fail to find 'PURPLE_FAIRY_WINGS'
+// Fail to find 'RED_FAIRY_WINGS'
+// Fail to find 'SILVER_FAIRY_WINGS'
+// Fail to find 'WHITE_FAIRY_WINGS'
+// Fail to find 'BLACK_BUTTERFLY_WINGS'
+// Fail to find 'BLUE_BUTTERFLY_WINGS'
+// Fail to find 'BROWN_BUTTERFLY_WINGS'
+// Fail to find 'CYAN_BUTTERFLY_WINGS'
+// Fail to find 'GOLD_BUTTERFLY_WINGS'
+// Fail to find 'GREEN_BUTTERFLY_WINGS'
+// Fail to find 'ORANGE_BUTTERFLY_WINGS'
+// Fail to find 'PINK_BUTTERFLY_WINGS'
+// Fail to find 'PURPLE_BUTTERFLY_WINGS'
+// Fail to find 'RED_BUTTERFLY_WINGS'
+// Fail to find 'SILVER_BUTTERFLY_WINGS'
+// Fail to find 'WHITE_BUTTERFLY_WINGS'
+// Fail to find 'BLACK_AVIAN_WINGS'
+// Fail to find 'BLUE_AVIAN_WINGS'
+// Fail to find 'BROWN_AVIAN_WINGS'
+// Fail to find 'CYAN_AVIAN_WINGS'
+// Fail to find 'GOLD_AVIAN_WINGS'
+// Fail to find 'GREEN_AVIAN_WINGS'
+// Fail to find 'ORANGE_AVIAN_WINGS'
+// Fail to find 'PINK_AVIAN_WINGS'
+// Fail to find 'PURPLE_AVIAN_WINGS'
+// Fail to find 'RED_AVIAN_WINGS'
+// Fail to find 'SILVER_AVIAN_WINGS'
+// Fail to find 'WHITE_AVIAN_WINGS'
+// Fail to find 'ANIMATED_ANGEL_WINGS'
+// Fail to find 'BLACK_ANIMATED_ANGEL_WINGS'
+// Fail to find 'BLUE_ANIMATED_ANGEL_WINGS'
+// Fail to find 'CYAN_ANIMATED_ANGEL_WINGS'
+// Fail to find 'GOLD_ANIMATED_ANGEL_WINGS'
+// Fail to find 'GREEN_ANIMATED_ANGEL_WINGS'
+// Fail to find 'PURPLE_ANIMATED_ANGEL_WINGS'
+// Fail to find 'RED_ANIMATED_ANGEL_WINGS'
+// Fail to find 'NEW_BLACK_FAIRY_WINGS'
+// Fail to find 'NEW_BLUE_FAIRY_WINGS'
+// Fail to find 'NEW_CYAN_FAIRY_WINGS'
+// Fail to find 'NEW_GOLD_FAIRY_WINGS'
+// Fail to find 'NEW_GREEN_FAIRY_WINGS'
+// Fail to find 'NEW_PURPLE_FAIRY_WINGS'
+// Fail to find 'NEW_RED_FAIRY_WINGS'
+// Fail to find 'NEW_WHITE_FAIRY_WINGS'
+// Fail to find 'NEW_DARK_BLUE_FAIRY_WINGS'
+// Fail to find 'NEW_DARK_CYAN_FAIRY_WINGS'
+// Fail to find 'NEW_DARK_GOLD_FAIRY_WINGS'
+// Fail to find 'NEW_DARK_GREEN_FAIRY_WINGS'
+// Fail to find 'NEW_DARK_PURPLE_FAIRY_WINGS'
+// Fail to find 'NEW_DARK_RED_FAIRY_WINGS'
+// Fail to find 'RASTAFARI_FAIRY_WINGS'
+// Fail to find 'BLACK_DEVILING_WINGS'
+// Fail to find 'BLUE_DEVILING_WINGS'
+// Fail to find 'CYAN_DEVILING_WINGS'
+// Fail to find 'DEVILING_WINGS'
+// Fail to find 'GOLD_DEVILING_WINGS'
+// Fail to find 'GREEN_DEVILING_WINGS'
+// Fail to find 'PURPLE_DEVILING_WINGS'
+// Fail to find 'RED_DEVILING_WINGS'
+// Fail to find 'WHITE_DEVILING_WINGS'
+// Fail to find 'SILVER_DEVILING_WINGS'
+// Fail to find 'BROWN_DEVILING_WINGS'
+// Fail to find 'ORANGE_DEVILING_WINGS'
+// Fail to find 'PINK_DEVILING_WINGS'
+// Fail to find 'TURTLE_SHELL_HAT'
+// Fail to find 'BLACK_TURTLE_SHELL_HAT'
+// Fail to find 'BLUE_TURTLE_SHELL_HAT'
+// Fail to find 'CYAN_TURTLE_SHELL_HAT'
+// Fail to find 'GOLD_TURTLE_SHELL_HAT'
+// Fail to find 'PURPLE_TURTLE_SHELL_HAT'
+// Fail to find 'RED_TURTLE_SHELL_HAT'
+// Fail to find 'WHITE_TURTLE_SHELL_HAT'
+// Fail to find 'BLACK_KRUSTY_KRAB_HAT'
+// Fail to find 'CYAN_KRUSTY_KRAB_HAT'
+// Fail to find 'GOLD_KRUSTY_KRAB_HAT'
+// Fail to find 'GREEN_KRUSTY_KRAB_HAT'
+// Fail to find 'KRUSTY_KRAB_HAT'
+// Fail to find 'PURPLE_KRUSTY_KRAB_HAT'
+// Fail to find 'RED_KRUSTY_KRAB_HAT'
+// Fail to find 'WHITE_KRUSTY_KRAB_HAT'
+// Fail to find 'BLACK_ANTLERS'
+// Fail to find 'BLUE_ANTLERS'
+// Fail to find 'CYAN_ANTLERS'
+// Fail to find 'GOLD_ANTLERS'
+// Fail to find 'GREEN_ANTLERS'
+// Fail to find 'PURPLE_ANTLERS'
+// Fail to find 'RED_ANTLERS'
+// Fail to find 'WHITE_ANTLERS'
+// Fail to find 'BLACK_ARIES_CROWN'
+// Fail to find 'BLUE_ARIES_CROWN'
+// Fail to find 'CYAN_ARIES_CROWN'
+// Fail to find 'GOLD_ARIES_CROWN'
+// Fail to find 'GREEN_ARIES_CROWN'
+// Fail to find 'PURPLE_ARIES_CROWN'
+// Fail to find 'RED_ARIES_CROWN'
+// Fail to find 'ASHURA_FAIRY_HAT'
+// Fail to find 'BLACK_ASHURA_FAIRY_HAT'
+// Fail to find 'BLUE_ASHURA_FAIRY_HAT'
+// Fail to find 'CYAN_ASHURA_FAIRY_HAT'
+// Fail to find 'GOLD_ASHURA_FAIRY_HAT'
+// Fail to find 'GREEN_ASHURA_FAIRY_HAT'
+// Fail to find 'PURPLE_ASHURA_FAIRY_HAT'
+// Fail to find 'RED_ASHURA_FAIRY_HAT'
+// Fail to find 'BLACK_ARIES_DIADEM'
+// Fail to find 'BLUE_ARIES_DIADEM'
+// Fail to find 'CYAN_ARIES_DIADEM'
+// Fail to find 'GOLD_ARIES_DIADEM'
+// Fail to find 'GREEN_ARIES_DIADEM'
+// Fail to find 'PURPLE_ARIES_DIADEM'
+// Fail to find 'RED_ARIES_DIADEM'
+// Fail to find 'BLACK_CAPRICON_CROWN'
+// Fail to find 'BLUE_CAPRICON_CROWN'
+// Fail to find 'CAPRICON_CROWN'
+// Fail to find 'CYAN_CAPRICON_CROWN'
+// Fail to find 'GREEN_CAPRICON_CROWN'
+// Fail to find 'PURPLE_CAPRICON_CROWN'
+// Fail to find 'RED_CAPRICON_CROWN'
+// Fail to find 'WHITE_CAPRICON_CROWN'
+// Fail to find 'BANDIT_HAT'
+// Fail to find 'BLACK_BANDIT_HAT'
+// Fail to find 'BLUE_BANDIT_HAT'
+// Fail to find 'CYAN_BANDIT_HAT'
+// Fail to find 'GOLD_BANDIT_HAT'
+// Fail to find 'GREEN_BANDIT_HAT'
+// Fail to find 'PURPLE_BANDIT_HAT'
+// Fail to find 'RED_BANDIT_HAT'
+// Fail to find 'WHITE_BANDIT_HAT'
+// Fail to find 'BLACK_DROOPING_PERMETER'
+// Fail to find 'BLUE_DROOPING_PERMETER'
+// Fail to find 'CYAN_DROOPING_PERMETER'
+// Fail to find 'GOLD_DROOPING_PERMETER'
+// Fail to find 'PURPLE_DROOPING_PERMETER'
+// Fail to find 'RED_DROOPING_PERMETER'
+// Fail to find 'WHITE_DROOPING_PERMETER'
+// Fail to find 'BLACK_CAPRICON_DIADEM'
+// Fail to find 'BLUE_CAPRICON_DIADEM'
+// Fail to find 'CAPRICON_DIADEM'
+// Fail to find 'CYAN_CAPRICON_DIADEM'
+// Fail to find 'GREEN_CAPRICON_DIADEM'
+// Fail to find 'PURPLE_CAPRICON_DIADEM'
+// Fail to find 'RED_CAPRICON_DIADEM'
+// Fail to find 'WHITE_CAPRICON_DIADEM'
+// Fail to find 'BLACK_CHICKEN_HAT'
+// Fail to find 'BLUE_CHICKEN_HAT'
+// Fail to find 'CHICKEN_HAT'
+// Fail to find 'CYAN_CHICKEN_HAT'
+// Fail to find 'GOLD_CHICKEN_HAT'
+// Fail to find 'GREEN_CHICKEN_HAT'
+// Fail to find 'PURPLE_CHICKEN_HAT'
+// Fail to find 'RED_CHICKEN_HAT'
+// Fail to find 'BLACK_GEMINI_CROWN'
+// Fail to find 'BLUE_GEMINI_CROWN'
+// Fail to find 'CYAN_GEMINI_CROWN'
+// Fail to find 'GREEN_GEMINI_CROWN'
+// Fail to find 'PURPLE_GEMINI_CROWN'
+// Fail to find 'RED_GEMINI_CROWN'
+// Fail to find 'WHITE_GEMINI_CROWN'
+// Fail to find 'HOLLY_PIN'
+// Fail to find 'BLACK_BAO_BAO'
+// Fail to find 'BLUE_BAO_BAO'
+// Fail to find 'CYAN_BAO_BAO'
+// Fail to find 'GOLD_BAO_BAO'
+// Fail to find 'GREEN_BAO_BAO'
+// Fail to find 'PURPLE_BAO_BAO'
+// Fail to find 'WHITE_BAO_BAO'
+// Fail to find 'BLACK_DROOPING_THANATOS_DOLOR'
+// Fail to find 'BLUE_DROOPING_THANATOS_DOLOR'
+// Fail to find 'CYAN_DROOPING_THANATOS_DOLOR'
+// Fail to find 'DROOPING_THANATOS_DOLOR'
+// Fail to find 'GOLD_DROOPING_THANATOS_DOLOR'
+// Fail to find 'GREEN_DROOPING_THANATOS_DOLOR'
+// Fail to find 'PURPLE_DROOPING_THANATOS_DOLOR'
+// Fail to find 'RED_DROOPING_THANATOS_DOLOR'
+// Fail to find 'WHITE_DROOPING_THANATOS_DOLOR'
+// Fail to find 'BLACK_FISHERMAN_HAT'
+// Fail to find 'BLUE_FISHERMAN_HAT'
+// Fail to find 'CYAN_FISHERMAN_HAT'
+// Fail to find 'FISHERMAN_HAT'
+// Fail to find 'GOLD_FISHERMAN_HAT'
+// Fail to find 'GREEN_FISHERMAN_HAT'
+// Fail to find 'PURPLE_FISHERMAN_HAT'
+// Fail to find 'RED_FISHERMAN_HAT'
+// Fail to find 'WHITE_FISHERMAN_HAT'
+// Fail to find 'BLACK_GEMINI_DIADEM'
+// Fail to find 'BLUE_GEMINI_DIADEM'
+// Fail to find 'CYAN_GEMINI_DIADEM'
+// Fail to find 'GREEN_GEMINI_DIADEM'
+// Fail to find 'PURPLE_GEMINI_DIADEM'
+// Fail to find 'RED_GEMINI_DIADEM'
+// Fail to find 'WHITE_GEMINI_DIADEM'
+// Fail to find 'BLACK_ICE_CREAM_HAT'
+// Fail to find 'BLUE_ICE_CREAM_HAT'
+// Fail to find 'CYAN_ICE_CREAM_HAT'
+// Fail to find 'GOLD_ICE_CREAM_HAT'
+// Fail to find 'GREEN_ICE_CREAM_HAT'
+// Fail to find 'ICE_CREAM_HAT'
+// Fail to find 'PURPLE_ICE_CREAM_HAT'
+// Fail to find 'RED_ICE_CREAM_HAT'
+// Fail to find 'WHITE_ICE_CREAM_HAT'
+// Fail to find 'BLACK_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'BLUE_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'CYAN_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'GOLD_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'GREEN_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'PURPLE_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'RED_NEKOMIMI_KAFRA_HEADBAND'
+// Fail to find 'BLACK_OCTOPUS_HAT'
+// Fail to find 'BLUE_OCTOPUS_HAT'
+// Fail to find 'CYAN_OCTOPUS_HAT'
+// Fail to find 'GOLD_OCTOPUS_HAT'
+// Fail to find 'GREEN_OCTOPUS_HAT'
+// Fail to find 'PURPLE_OCTOPUS_HAT'
+// Fail to find 'WHITE_OCTOPUS_HAT'
+// Fail to find 'BLACK_POWER_OF_THOR'
+// Fail to find 'BLUE_POWER_OF_THOR'
+// Fail to find 'CYAN_POWER_OF_THOR'
+// Fail to find 'GOLD_POWER_OF_THOR'
+// Fail to find 'GREEN_POWER_OF_THOR'
+// Fail to find 'POWER_OF_THOR'
+// Fail to find 'PURPLE_POWER_OF_THOR'
+// Fail to find 'RED_POWER_OF_THOR'
+// Fail to find 'BLACK_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'BLUE_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'CYAN_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'GOLD_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'GREEN_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'PURPLE_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'RED_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'WHITE_SHINING_ELECTRIC_BULB_HAIRBAND'
+// Fail to find 'BLACK_TORCH_CAP'
+// Fail to find 'BLUE_TORCH_CAP'
+// Fail to find 'CYAN_TORCH_CAP'
+// Fail to find 'GOLD_TORCH_CAP'
+// Fail to find 'GREEN_TORCH_CAP'
+// Fail to find 'PURPLE_TORCH_CAP'
+// Fail to find 'TORCH_CAP'
+// Fail to find 'WHITE_TORCH_CAP'
+// Fail to find 'BLACK_VALENTINE_HAT'
+// Fail to find 'BLUE_VALENTINE_HAT'
+// Fail to find 'CYAN_VALENTINE_HAT'
+// Fail to find 'GOLD_VALENTINE_HAT'
+// Fail to find 'GREEN_VALENTINE_HAT'
+// Fail to find 'PURPLE_VALENTINE_HAT'
+// Fail to find 'WHITE_VALENTINE_HAT'
+// Fail to find 'BLACK_WANDERER_SAKKAT'
+// Fail to find 'BLUE_WANDERER_SAKKAT'
+// Fail to find 'CYAN_WANDERER_SAKKAT'
+// Fail to find 'GOLD_WANDERER_SAKKAT'
+// Fail to find 'GREEN_WANDERER_SAKKAT'
+// Fail to find 'PURPLE_WANDERER_SAKKAT'
+// Fail to find 'RED_WANDERER_SAKKAT'
+// Fail to find 'WANDERER_SAKKAT'
+// Fail to find 'WHITE_WANDERER_SAKKAT'
+// Fail to find 'BLACK_WIND_MILESTONE'
+// Fail to find 'BLUE_WIND_MILESTONE'
+// Fail to find 'CYAN_WIND_MILESTONE'
+// Fail to find 'GOLD_WIND_MILESTONE'
+// Fail to find 'GREEN_WIND_MILESTONE'
+// Fail to find 'PURPLE_WIND_MILESTONE'
+// Fail to find 'WHITE_WIND_MILESTONE'
+// Fail to find 'BLACK_BIG_RIBBON'
+// Fail to find 'BLUE_BIG_RIBBON'
+// Fail to find 'CYAN_BIG_RIBBON'
+// Fail to find 'GOLD_BIG_RIBBON'
+// Fail to find 'GREEN_BIG_RIBBON'
+// Fail to find 'PURPLE_BIG_RIBBON'
+// Fail to find 'WHITE_BIG_RIBBON'
+// Fail to find 'GOD_ANGEL_HELM'
+// Fail to find 'EVIL_ANGEL_GHOSTRING_HAT'
+// Fail to find 'BLACK_BIRD_NEST'
+// Fail to find 'BLUE_BIRD_NEST'
+// Fail to find 'CYAN_BIRD_NEST'
+// Fail to find 'GREEN_BIRD_NEST'
+// Fail to find 'PURPLE_BIRD_NEST'
+// Fail to find 'RED_BIRD_NEST'
+// Fail to find 'WHITE_BIRD_NEST'
+// Fail to find 'PYRAMID_HEAD'
+// Fail to find 'BLACK_BRIDE_MASK'
+// Fail to find 'BLUE_BRIDE_MASK'
+// Fail to find 'CYAN_BRIDE_MASK'
+// Fail to find 'GOLD_BRIDE_MASK'
+// Fail to find 'GREEN_BRIDE_MASK'
+// Fail to find 'PURPLE_BRIDE_MASK'
+// Fail to find 'WHITE_BRIDE_MASK'
+// Fail to find 'BLACK_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'BLUE_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'CYAN_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'GOLD_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'GREEN_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'PURPLE_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'RED_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'WHITE_CAT_FOOTPRINT_HAIRPIN'
+// Fail to find 'FEATHERED_CAP'
+// Fail to find 'BLACK_CHEF_HAT'
+// Fail to find 'BLUE_CHEF_HAT'
+// Fail to find 'CYAN_CHEF_HAT'
+// Fail to find 'GOLD_CHEF_HAT'
+// Fail to find 'GREEN_CHEF_HAT'
+// Fail to find 'PURPLE_CHEF_HAT'
+// Fail to find 'RED_CHEF_HAT'
+// Fail to find 'BLACK_CROWN_CAP'
+// Fail to find 'BLUE_CROWN_CAP'
+// Fail to find 'CROWN_CAP'
+// Fail to find 'CYAN_CROWN_CAP'
+// Fail to find 'GREEN_CROWN_CAP'
+// Fail to find 'PURPLE_CROWN_CAP'
+// Fail to find 'RED_CROWN_CAP'
+// Fail to find 'WHITE_CROWN_CAP'
+// Fail to find 'RACOON_TAIL_HAT'
+// Fail to find 'BLACK_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'BLUE_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'CYAN_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'GREEN_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'PURPLE_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'RED_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'WHITE_CROWN_OF_ANCIENT_QUEEN'
+// Fail to find 'RUBBER_DUCKIE_HAT'
+// Fail to find 'BLACK_CUTE_RIBBON'
+// Fail to find 'BLUE_CUTE_RIBBON'
+// Fail to find 'CYAN_CUTE_RIBBON'
+// Fail to find 'GOLD_CUTE_RIBBON'
+// Fail to find 'GREEN_CUTE_RIBBON'
+// Fail to find 'PURPLE_CUTE_RIBBON'
+// Fail to find 'RED_CUTE_RIBBON'
+// Fail to find 'WHITE_CUTE_RIBBON'
+// Fail to find 'GHOSTRING_HAT'
+// Fail to find 'BLACK_DRAGON_SKULL'
+// Fail to find 'BLUE_DRAGON_SKULL'
+// Fail to find 'CYAN_DRAGON_SKULL'
+// Fail to find 'GOLD_DRAGON_SKULL'
+// Fail to find 'GREEN_DRAGON_SKULL'
+// Fail to find 'PURPLE_DRAGON_SKULL'
+// Fail to find 'RED_DRAGON_SKULL'
+// Fail to find 'BLACK_EAR_MUFFS'
+// Fail to find 'BLUE_EAR_MUFFS'
+// Fail to find 'CYAN_EAR_MUFFS'
+// Fail to find 'GOLD_EAR_MUFFS'
+// Fail to find 'GREEN_EAR_MUFFS'
+// Fail to find 'PURPLE_EAR_MUFFS'
+// Fail to find 'RED_EAR_MUFFS'
+// Fail to find 'CHOPPER_HAT'
+// Fail to find 'BLACK_FLOWER_LILY'
+// Fail to find 'BLUE_FLOWER_LILY'
+// Fail to find 'CYAN_FLOWER_LILY'
+// Fail to find 'GOLD_FLOWER_LILY'
+// Fail to find 'GREEN_FLOWER_LILY'
+// Fail to find 'PURPLE_FLOWER_LILY'
+// Fail to find 'RED_FLOWER_LILY'
+// Fail to find 'PIKACHU_EARS'
+// Fail to find 'BLACK_GALAPAGO_CAP'
+// Fail to find 'BLUE_GALAPAGO_CAP'
+// Fail to find 'CYAN_GALAPAGO_CAP'
+// Fail to find 'GREEN_GALAPAGO_CAP'
+// Fail to find 'PURPLE_GALAPAGO_CAP'
+// Fail to find 'RED_GALAPAGO_CAP'
+// Fail to find 'WHITE_GALAPAGO_CAP'
+// Fail to find 'MAYA_HAT'
+// Fail to find 'BLACK_HAIR_BAND'
+// Fail to find 'BLUE_HAIR_BAND'
+// Fail to find 'CYAN_HAIR_BAND'
+// Fail to find 'GOLD_HAIR_BAND'
+// Fail to find 'GREEN_HAIR_BAND'
+// Fail to find 'PURPLE_HAIR_BAND'
+// Fail to find 'RED_HAIR_BAND'
+// Fail to find 'WHITE_HAIR_BAND'
+// Fail to find 'BLACK_HELMET_OF_ORC_HERO'
+// Fail to find 'BLUE_HELMET_OF_ORC_HERO'
+// Fail to find 'CYAN_HELMET_OF_ORC_HERO'
+// Fail to find 'GREEN_HELMET_OF_ORC_HERO'
+// Fail to find 'PURPLE_HELMET_OF_ORC_HERO'
+// Fail to find 'RED_HELMET_OF_ORC_HERO'
+// Fail to find 'WHITE_HELMET_OF_ORC_HERO'
+// Fail to find 'SKI_GOOGLES'
+// Fail to find 'BLACK_INDIAN_FILLET'
+// Fail to find 'BLUE_INDIAN_FILLET'
+// Fail to find 'CYAN_INDIAN_FILLET'
+// Fail to find 'GOLD_INDIAN_FILLET'
+// Fail to find 'GREEN_INDIAN_FILLET'
+// Fail to find 'PURPLE_INDIAN_FILLET'
+// Fail to find 'RED_INDIAN_FILLET'
+// Fail to find 'WHITE_INDIAN_FILLET'
+// Fail to find 'DEVI_CAP'
+// Fail to find 'BLACK_KITTY_BAND'
+// Fail to find 'BLUE_KITTY_BAND'
+// Fail to find 'CYAN_KITTY_BAND'
+// Fail to find 'GOLD_KITTY_BAND'
+// Fail to find 'GREEN_KITTY_BAND'
+// Fail to find 'PURPLE_KITTY_BAND'
+// Fail to find 'RED_KITTY_BAND'
+// Fail to find 'WHITE_KITTY_BAND'
+// Fail to find 'MEDICAL_EYEPATCH'
+// Fail to find 'BLUE_MAGISTRATE_HAT'
+// Fail to find 'CYAN_MAGISTRATE_HAT'
+// Fail to find 'GOLD_MAGISTRATE_HAT'
+// Fail to find 'GREEN_MAGISTRATE_HAT'
+// Fail to find 'PURPLE_MAGISTRATE_HAT'
+// Fail to find 'RED_MAGISTRATE_HAT'
+// Fail to find 'WHITE_MAGISTRATE_HAT'
+// Fail to find 'TAURUS_RING'
+// Fail to find 'BLACK_MINE_HAT'
+// Fail to find 'BLUE_MINE_HAT'
+// Fail to find 'CYAN_MINE_HAT'
+// Fail to find 'GOLD_MINE_HAT'
+// Fail to find 'GREEN_MINE_HAT'
+// Fail to find 'PURPLE_MINE_HAT'
+// Fail to find 'RED_MINE_HAT'
+// Fail to find 'WHITE_MINE_HAT'
+// Fail to find 'BLACK_MOSQUITO_COIL'
+// Fail to find 'BLUE_MOSQUITO_COIL'
+// Fail to find 'CYAN_MOSQUITO_COIL'
+// Fail to find 'GOLD_MOSQUITO_COIL'
+// Fail to find 'MOSQUITO_COIL'
+// Fail to find 'PURPLE_MOSQUITO_COIL'
+// Fail to find 'RED_MOSQUITO_COIL'
+// Fail to find 'WHITE_MOSQUITO_COIL'
+// Fail to find 'MOG_BALL'
+// Fail to find 'BLACK_MYTHICAL_LION_MASK'
+// Fail to find 'BLUE_MYTHICAL_LION_MASK'
+// Fail to find 'CYAN_MYTHICAL_LION_MASK'
+// Fail to find 'GREEN_MYTHICAL_LION_MASK'
+// Fail to find 'PURPLE_MYTHICAL_LION_MASK'
+// Fail to find 'RED_MYTHICAL_LION_MASK'
+// Fail to find 'WHITE_MYTHICAL_LION_MASK'
+// Fail to find 'BEACH_BALL'
+// Fail to find 'BLACK_NEST_HAT'
+// Fail to find 'BLUE_NEST_HAT'
+// Fail to find 'CYAN_NEST_HAT'
+// Fail to find 'GREEN_NEST_HAT'
+// Fail to find 'PURPLE_NEST_HAT'
+// Fail to find 'RED_NEST_HAT'
+// Fail to find 'WHITE_NEST_HAT'
+// Fail to find 'DIAMOND_DUST'
+// Fail to find 'BLACK_NURSE_CAP'
+// Fail to find 'BLUE_NURSE_CAP'
+// Fail to find 'CYAN_NURSE_CAP'
+// Fail to find 'GOLD_NURSE_CAP'
+// Fail to find 'GREEN_NURSE_CAP'
+// Fail to find 'PURPLE_NURSE_CAP'
+// Fail to find 'WHITE_NURSE_CAP'
+// Fail to find 'BLACK_ORC_HELM'
+// Fail to find 'BLUE_ORC_HELM'
+// Fail to find 'CYAN_ORC_HELM'
+// Fail to find 'GOLD_ORC_HELM'
+// Fail to find 'GREEN_ORC_HELM'
+// Fail to find 'PURPLE_ORC_HELM'
+// Fail to find 'RED_ORC_HELM'
+// Fail to find 'WHITE_ORC_HELM'
+// Fail to find 'FROG_UMBRELLA'
+// Fail to find 'BLACK_PRETEND_MURDERED'
+// Fail to find 'BLUE_PRETEND_MURDERED'
+// Fail to find 'CYAN_PRETEND_MURDERED'
+// Fail to find 'GREEN_PRETEND_MURDERED'
+// Fail to find 'PURPLE_PRETEND_MURDERED'
+// Fail to find 'RED_PRETEND_MURDERED'
+// Fail to find 'WHITE_PRETEND_MURDERED'
+// Fail to find 'SAMURAI_HEAD'
+// Fail to find 'BLACK_PUPPY_HAT'
+// Fail to find 'BLUE_PUPPY_HAT'
+// Fail to find 'CYAN_PUPPY_HAT'
+// Fail to find 'GREEN_PUPPY_HAT'
+// Fail to find 'PURPLE_PUPPY_HAT'
+// Fail to find 'RED_PUPPY_HAT'
+// Fail to find 'WHITE_PUPPY_HAT'
+// Fail to find 'SPARROW_HAT'
+// Fail to find 'BLACK_RABBIT_EARS'
+// Fail to find 'BLUE_RABBIT_EARS'
+// Fail to find 'CYAN_RABBIT_EARS'
+// Fail to find 'GOLD_RABBIT_EARS'
+// Fail to find 'GREEN_RABBIT_EARS'
+// Fail to find 'PURPLE_RABBIT_EARS'
+// Fail to find 'RED_RABBIT_EARS'
+// Fail to find 'SWISS_CHEESE_HAT'
+// Fail to find 'BLACK_ROMANTIC_GENT'
+// Fail to find 'BLUE_ROMANTIC_GENT'
+// Fail to find 'CYAN_ROMANTIC_GENT'
+// Fail to find 'GOLD_ROMANTIC_GENT'
+// Fail to find 'GREEN_ROMANTIC_GENT'
+// Fail to find 'PURPLE_ROMANTIC_GENT'
+// Fail to find 'RED_ROMANTIC_GENT'
+// Fail to find 'BLACK_SANTAPORING_CAP'
+// Fail to find 'BLUE_SANTAPORING_CAP'
+// Fail to find 'CYAN_SANTAPORING_CAP'
+// Fail to find 'GOLD_SANTAPORING_CAP'
+// Fail to find 'GREEN_SANTAPORING_CAP'
+// Fail to find 'PURPLE_SANTAPORING_CAP'
+// Fail to find 'WHITE_SANTAPORING_CAP'
+// Fail to find 'BLACK_SATELLITE_HAIRBAND'
+// Fail to find 'CYAN_SATELLITE_HAIRBAND'
+// Fail to find 'GOLD_SATELLITE_HAIRBAND'
+// Fail to find 'GREEN_SATELLITE_HAIRBAND'
+// Fail to find 'PURPLE_SATELLITE_HAIRBAND'
+// Fail to find 'RED_SATELLITE_HAIRBAND'
+// Fail to find 'WHITE_SATELLITE_HAIRBAND'
+// Fail to find 'BLACK_SHARK_HAT'
+// Fail to find 'CYAN_SHARK_HAT'
+// Fail to find 'GOLD_SHARK_HAT'
+// Fail to find 'GREEN_SHARK_HAT'
+// Fail to find 'PURPLE_SHARK_HAT'
+// Fail to find 'RED_SHARK_HAT'
+// Fail to find 'WHITE_SHARK_HAT'
+// Fail to find 'BLUE_SIDE_CAP'
+// Fail to find 'CYAN_SIDE_CAP'
+// Fail to find 'GOLD_SIDE_CAP'
+// Fail to find 'GREEN_SIDE_CAP'
+// Fail to find 'PURPLE_SIDE_CAP'
+// Fail to find 'RED_SIDE_CAP'
+// Fail to find 'SIDE_CAP'
+// Fail to find 'WHITE_SIDE_CAP'
+// Fail to find 'BLACK_SNOWMAN_HAT'
+// Fail to find 'BLUE_SNOWMAN_HAT'
+// Fail to find 'CYAN_SNOWMAN_HAT'
+// Fail to find 'GOLD_SNOWMAN_HAT'
+// Fail to find 'GREEN_SNOWMAN_HAT'
+// Fail to find 'PURPLE_SNOWMAN_HAT'
+// Fail to find 'RED_SNOWMAN_HAT'
+// Fail to find 'WHITE_SNOWMAN_HAT'
+// Fail to find 'BLACK_SPIKY_BAND'
+// Fail to find 'BLUE_SPIKY_BAND'
+// Fail to find 'CYAN_SPIKY_BAND'
+// Fail to find 'GREEN_SPIKY_BAND'
+// Fail to find 'PURPLE_SPIKY_BAND'
+// Fail to find 'RED_SPIKY_BAND'
+// Fail to find 'WHITE_SPIKY_BAND'
+// Fail to find 'BLACK_WESTERN_GRACE'
+// Fail to find 'BLUE_WESTERN_GRACE'
+// Fail to find 'CYAN_WESTERN_GRACE'
+// Fail to find 'GREEN_WESTERN_GRACE'
+// Fail to find 'PURPLE_WESTERN_GRACE'
+// Fail to find 'RED_WESTERN_GRACE'
+// Fail to find 'WHITE_WESTERN_GRACE'
+// Fail to find 'TENGU_MASK'
+// Fail to find 'BLACK_TENGU_MASK'
+// Fail to find 'BLUE_TENGU_MASK'
+// Fail to find 'CYAN_TENGU_MASK'
+// Fail to find 'GOLD_TENGU_MASK'
+// Fail to find 'GREEN_TENGU_MASK'
+// Fail to find 'PURPLE_TENGU_MASK'
+// Fail to find 'WHITE_TENGU_MASK'
+// Fail to find 'VESPER_MASK'
+// Fail to find 'BLACK_VESPER_MASK'
+// Fail to find 'CYAN_VESPER_MASK'
+// Fail to find 'GOLD_VESPER_MASK'
+// Fail to find 'GREEN_VESPER_MASK'
+// Fail to find 'PURPLE_VESPER_MASK'
+// Fail to find 'RED_VESPER_MASK'
+// Fail to find 'WHITE_VESPER_MASK'
+// Fail to find 'BLACK_KAKASHI_MASK'
+// Fail to find 'CYAN_KAKASHI_MASK'
+// Fail to find 'GOLD_KAKASHI_MASK'
+// Fail to find 'GREEN_KAKASHI_MASK'
+// Fail to find 'KAKASHI_MASK'
+// Fail to find 'PURPLE_KAKASHI_MASK'
+// Fail to find 'RED_KAKASHI_MASK'
+// Fail to find 'WHITE_KAKASHI_MASK'
+// Fail to find 'BLACK_NEPTUNE_PROTECTOR'
+// Fail to find 'BLUE_NEPTUNE_PROTECTOR'
+// Fail to find 'CYAN_NEPTUNE_PROTECTOR'
+// Fail to find 'GOLD_NEPTUNE_PROTECTOR'
+// Fail to find 'GREEN_NEPTUNE_PROTECTOR'
+// Fail to find 'NEPTUNE_PROTECTOR'
+// Fail to find 'PURPLE_NEPTUNE_PROTECTOR'
+// Fail to find 'RED_NEPTUNE_PROTECTOR'
+// Fail to find 'WHITE_NEPTUNE_PROTECTOR'
+// Fail to find 'BLACK_EAR_ICE_FEATHERS'
+// Fail to find 'CYAN_EAR_ICE_FEATHERS'
+// Fail to find 'EAR_ICE_FEATHERS'
+// Fail to find 'GOLD_EAR_ICE_FEATHERS'
+// Fail to find 'GREEN_EAR_ICE_FEATHERS'
+// Fail to find 'PURPLE_EAR_ICE_FEATHERS'
+// Fail to find 'RED_EAR_ICE_FEATHERS'
+// Fail to find 'WHITE_EAR_ICE_FEATHERS'
+// Fail to find 'BLACK_ELVEN_EARS'
+// Fail to find 'BLUE_ELVEN_EARS'
+// Fail to find 'CYAN_ELVEN_EARS'
+// Fail to find 'GREEN_ELVEN_EARS'
+// Fail to find 'PURPLE_ELVEN_EARS'
+// Fail to find 'RED_ELVEN_EARS'
+// Fail to find 'WHITE_ELVEN_EARS'
+// Fail to find 'BLACK_GAS_MASK'
+// Fail to find 'BLUE_GAS_MASK'
+// Fail to find 'CYAN_GAS_MASK'
+// Fail to find 'GOLD_GAS_MASK'
+// Fail to find 'GREEN_GAS_MASK'
+// Fail to find 'PURPLE_GAS_MASK'
+// Fail to find 'RED_GAS_MASK'
+// Fail to find 'WHITE_GAS_MASK'
+// Fail to find 'BLACK_KABUKI_MASK'
+// Fail to find 'BLUE_KABUKI_MASK'
+// Fail to find 'CYAN_KABUKI_MASK'
+// Fail to find 'GOLD_KABUKI_MASK'
+// Fail to find 'GREEN_KABUKI_MASK'
+// Fail to find 'PURPLE_KABUKI_MASK'
+// Fail to find 'RED_KABUKI_MASK'
+// Fail to find 'BLACK_OPERA_PHANTOM_MASK'
+// Fail to find 'BLUE_OPERA_PHANTOM_MASK'
+// Fail to find 'CYAN_OPERA_PHANTOM_MASK'
+// Fail to find 'GREEN_OPERA_PHANTOM_MASK'
+// Fail to find 'PURPLE_OPERA_PHANTOM_MASK'
+// Fail to find 'RED_OPERA_PHANTOM_MASK'
+// Fail to find 'WHITE_OPERA_PHANTOM_MASK'
+// Fail to find 'BLACK_POKER_FACE'
+// Fail to find 'BLUE_POKER_FACE'
+// Fail to find 'CYAN_POKER_FACE'
+// Fail to find 'GREEN_POKER_FACE'
+// Fail to find 'PURPLE_POKER_FACE'
+// Fail to find 'RED_POKER_FACE'
+// Fail to find 'WHITE_POKER_FACE'
+// Fail to find 'BLACK_TONGUE_MASK'
+// Fail to find 'BLUE_TONGUE_MASK'
+// Fail to find 'CYAN_TONGUE_MASK'
+// Fail to find 'GOLD_TONGUE_MASK'
+// Fail to find 'GREEN_TONGUE_MASK'
+// Fail to find 'PURPLE_TONGUE_MASK'
+// Fail to find 'RED_TONGUE_MASK'
+// Fail to find 'WHITE_TONGUE_MASK'
+// Fail to find 'BLACK_WELDING_MASK'
+// Fail to find 'BLUE_WELDING_MASK'
+// Fail to find 'CYAN_WELDING_MASK'
+// Fail to find 'GOLD_WELDING_MASK'
+// Fail to find 'GREEN_WELDING_MASK'
+// Fail to find 'PURPLE_WELDING_MASK'
+// Fail to find 'RED_WELDING_MASK'
+// Fail to find 'BLACK_WEED'
+// Fail to find 'BLUE_WEED'
+// Fail to find 'CYAN_WEED'
+// Fail to find 'GOLD_WEED'
+// Fail to find 'PURPLE_WEED'
+// Fail to find 'RED_WEED'
+// Fail to find 'WEED'
+// Fail to find 'WHITE_WEED'
+// Fail to find 'BLACK_FLU_MASK'
+// Fail to find 'BLUE_FLU_MASK'
+// Fail to find 'CYAN_FLU_MASK'
+// Fail to find 'GOLD_FLU_MASK'
+// Fail to find 'GREEN_FLU_MASK'
+// Fail to find 'PURPLE_FLU_MASK'
+// Fail to find 'RED_FLU_MASK'
+// Fail to find 'BLACK_OXYGEN_MASK'
+// Fail to find 'BLUE_OXYGEN_MASK'
+// Fail to find 'CYAN_OXYGEN_MASK'
+// Fail to find 'GOLD_OXYGEN_MASK'
+// Fail to find 'GREEN_OXYGEN_MASK'
+// Fail to find 'PURPLE_OXYGEN_MASK'
+// Fail to find 'RED_OXYGEN_MASK'
+// Fail to find 'WHITE_OXYGEN_MASK'
+// Fail to find 'ANGELING'
+// Fail to find 'ARCHANGELING'
+// Fail to find 'DEVILING'
+// Fail to find 'DROPS'
+// Fail to find 'MARIN'
+// Fail to find 'METALING'
+// Fail to find 'POPORING'
+// Fail to find 'PORING'
+// Fail to find 'ANGELING_SAC'
+// Fail to find 'ARCHANGELING_SAC'
+// Fail to find 'DEVILING_SAC'
+// Fail to find 'ANGELING_PARTY_HAT'
+// Fail to find 'ARCHANGELING_PARTY_HAT'
+// Fail to find 'DEVILING_PARTY_HAT'
+// Fail to find 'DROPS_PARTY_HAT'
+// Fail to find 'MARIN_PARTY_HAT'
+// Fail to find 'METALING_PARTY_HAT'
+// Fail to find 'POPORING_PARTY_HAT'
+// Fail to find 'ANIMATED_DROPS'
+// Fail to find 'ANIMATED_MARIN'
+// Fail to find 'ANIMATED_POPORING'
+// Fail to find 'PORING_CAKE_HAT'
+// Fail to find 'SQUIRTING_PORING'
+// Fail to find 'APPLE_MOUTH'
+// Fail to find 'CARROT_MOUTH'
+// Fail to find 'CHOCOLATE_MOUTH'
+// Fail to find 'ICE_CREAM_MOUTH'
+// Fail to find 'MEAT_MOUTH'
+// Fail to find 'MONSTER_S_FEED_MOUTH'
+// Fail to find 'ORANGE_MOUTH'
+// Fail to find 'STRAWBERRY_MOUTH'
+// Fail to find 'ROSE_MOUTH'
+// Fail to find 'BLACK_ICE_WING'
+// Fail to find 'GREEN_ICE_WING'
+// Fail to find 'ICE_WING'
+// Fail to find 'RED_ICE_WING'
+// Fail to find 'YELLOW_ICE_WING'
+// Fail to find 'BLUE_QUIZ_HAT'
+// Fail to find 'GREEN_QUIZ_HAT'
+// Fail to find 'RED_QUIZ_HAT'
+// Fail to find 'YELLOW_QUIZ_HAT'
+// Fail to find 'ILEX_AQUIFOLIUM'
+// Fail to find 'CUPIDON_HAT'
+// Fail to find 'AIRWAVE_HALO'
+// Fail to find 'LORD_KAHO_HAT'
+// Fail to find 'EYE_OF_THE_BEHOLDER'
+// Fail to find 'ANGELICA_WINGS'
+// Fail to find 'COLORFUL_HALO'
+// Fail to find 'GYROPHARE'
+// Fail to find 'DRAGONZ'
+// Fail to find 'DROOPING_ALIX'
+// Fail to find 'DROOPING_ALIZA'
+// Fail to find 'DROOPING_BABY_LEOPARD'
+// Fail to find 'DROOPING_BAPHOMET'
+// Fail to find 'DROOPING_COW'
+// Fail to find 'DROOPING_EDDGA'
+// Fail to find 'DROOPING_EIL'
+// Fail to find 'DROOPING_EMO'
+// Fail to find 'DROOPING_EMULE'
+// Fail to find 'DROOPING_GAZEL'
+// Fail to find 'DROOPING_HUNNY'
+// Fail to find 'DROOPING_HYLOZOIST'
+// Fail to find 'DROOPING_KAWAII_PUPPET'
+// Fail to find 'DROOPING_KIKKI'
+// Fail to find 'DROOPING_KNIGHT'
+// Fail to find 'DROOPING_LOLI_RURI'
+// Fail to find 'DROOPING_LOLI_RURI_CAT'
+// Fail to find 'DROOPING_MIYABI_DOLL'
+// Fail to find 'DROOPING_MOG'
+// Fail to find 'DROOPING_MOONLIGHT_FLOWER'
+// Fail to find 'DROOPING_NEKO'
+// Fail to find 'DROOPING_NORA_STARK'
+// Fail to find 'DROOPING_PIKACHU'
+// Fail to find 'DROOPING_POO_GIRL'
+// Fail to find 'DROOPING_PROF'
+// Fail to find 'DROOPING_SAGE'
+// Fail to find 'DROOPING_SAPROLING'
+// Fail to find 'DROOPING_SCOPE'
+// Fail to find 'DROOPING_SEB'
+// Fail to find 'DROOPING_SKWIPE'
+// Fail to find 'DROOPING_SORCERER'
+// Fail to find 'DROOPING_STING'
+// Fail to find 'DROOPING_TAKARA'
+// Fail to find 'DROOPING_TIRA'
+// Fail to find 'DROOPING_TONY_STARK'
+// Fail to find 'DROOPING_VALKYRIE_RANDGRIS'
+// Fail to find 'DROOPING_VAMPINETTE'
+// Fail to find 'DROOPING_VHAIDRA'
+// Fail to find 'DROOPING_WILD_ROSE'
+// Fail to find 'DROOPING_WINDII'
+// Fail to find 'DROOPING_YOSH'
+// Fail to find 'DROOPING_ZHAO'
+// Fail to find 'KAN_JAN'
+// Fail to find 'KAN_FEB'
+// Fail to find 'KAN_MAR'
+// Fail to find 'KAN_APR'
+// Fail to find 'KAN_MAY'
+// Fail to find 'KAN_JUN'
+// Fail to find 'KAN_JUL'
+// Fail to find 'KAN_AUG'
+// Fail to find 'KAN_SEP'
+// Fail to find 'KAN_OCT'
+// Fail to find 'KAN_NOV'
+// Fail to find 'KAN_DEC'
+// Fail to find 'DOG_HAT'
+// Fail to find 'LEOPARD_HAT'
+// Fail to find 'MOUSE_HAT'
+// Fail to find 'PIG_HAT'
+// Fail to find 'BLACK_AURA'
+// Fail to find 'RED_AURA'
+// Fail to find 'WHITE_AURA'
+// Fail to find 'DEVIL_SPIRIT'
+// Fail to find 'HOLY_SPIRIT'
+// Fail to find 'EARTH_SPIRIT'
+// Fail to find 'FIRE_SPIRIT'
+// Fail to find 'WATER_SPIRIT'
+// Fail to find 'DARK_SPIRIT'
+// Fail to find 'COOKIE_RING'
+// Fail to find 'DAY_RING'
+// Fail to find 'MUSIC_RING'
+// Fail to find 'NIGHT_RING'
+// Fail to find 'ROSE_RING'
+// Fail to find 'SNOW_RING'
+// Fail to find 'FLOWER_RING'
+// Fail to find 'ALCHEMY_RING'
+// Fail to find 'CANDY_RING'
+// Fail to find 'HEART_RING'
+// Fail to find 'LILYPAD_RING'
+// Fail to find 'MARIN_RING'
+// Fail to find 'PORING_RING'
+// Fail to find 'LAND_GUARDIAN'
+// Fail to find 'SKY_GUARDIAN'
+// Fail to find 'VOLCANO_GUARDIAN'
+// Fail to find 'SEA_GUARDIAN'
+// Fail to find 'HEAVEN_GUARDIAN'
+// Fail to find 'HELL_GUARDIAN'
+// Fail to find 'EVIL_ANGEL'
+// Fail to find 'KUIKUI'
+// Fail to find 'PUIPUI'
+// Fail to find 'BOSS_PUKUI'
+// Fail to find 'UNRIPE_PUKUI'
+// Fail to find 'UNRIPE_PUKUPUKU'
+// Fail to find 'AZUR_DEATH_VALK'
+// Fail to find 'CHERRY_DEATH_VALK'
+// Fail to find 'CRIMSON_DEATH_VALK'
+// Fail to find 'CRYSTAL_DEATH_VALK'
+// Fail to find 'EVIL_DEATH_VALK'
+// Fail to find 'GOLDEN_DEATH_VALK'
+// Fail to find 'INSANE_DEATH_VALK'
+// Fail to find 'METALIC_DEATH_VALK'
+// Fail to find 'POISONOUS_DEATH_VALK'
+// Fail to find 'PSYCHO_DEATH_VALK'
+// Fail to find 'BLACK_ROSE_EYE'
+// Fail to find 'PURPLE_ROSE_EYE'
+// Fail to find 'RED_ROSE_EYE'
+// Fail to find 'WHITE_ROSE_EYE'
+// Fail to find 'ARROW_IN_HEAD'
+// Fail to find 'CLOCK_TOWER_HAT'
+// Fail to find 'BEERFEST_CAP'
+// Fail to find 'FAIRY_WING'
+// Fail to find 'FALLEN_BISHOP_GHOST'
+// Fail to find 'HIGH_COIF'
+// Fail to find 'MAJORA_S_MASK'
+// Fail to find 'NURSE_DOLL_HAT'
+// Fail to find 'PIKACHU_HAT'
+// Fail to find 'RIBBON_WIZ_HAT'
+// Fail to find 'STUFFED_PANDA'
+// Fail to find 'WINRAR_HAT'
+// Fail to find 'JASON_MASK'
+// Fail to find 'FORGE_MASK'
+// Fail to find 'HEART_HAT'
+// Fail to find 'HEART_SCARF'
+// Fail to find 'HEART_WING'
+// Fail to find 'HOOD_OF_SHADOWS'
+// Fail to find 'HYEGUN_HAT'
+// Fail to find 'SLAVE_HAT'
+// Fail to find 'AMAZONE_HELMET'
+// Fail to find 'ANGEL_HEART'
+// Fail to find 'ARCHANGEL_WINGS'
+// Fail to find 'BONE_WINGS'
+// Fail to find 'CYBER_WINGS'
+// Fail to find 'DRAGON_AURA'
+// Fail to find 'FLOWER_RIBBONS'
+// Fail to find 'JAPAN_FLAG_HAT'
+// Fail to find 'MEGATRON_WINGS'
+// Fail to find 'HUNGRY_RABBIT'
+// Fail to find 'METALIC_BONE_WINGS'
+// Fail to find 'PINK_FASHION_HAT'
+// Fail to find 'PURPLE_FASHION_HAT'
+// Fail to find 'RABBIT_IN_THE_HAT'
+// Fail to find 'SCOTT_SUNGLASSES'
+// Fail to find 'SEPHIROTH_WINGS'
+// Fail to find 'TIAMAT_WINGS'
+// Fail to find 'TITAN_WINGS'
+// Fail to find 'TOAD_HAT'
+// Fail to find 'WHITE_BERET'
+// Fail to find 'WHITE_COLONEL_HAT'
+// Fail to find 'YING_YANG_WINGS'
+// Fail to find 'BLACK_FLOWER_CHOCKER'
+// Fail to find 'FLOWER_CHOCKER'
+// Fail to find 'BLUE_DIABLO_WINGS'
+// Fail to find 'RED_DIABLO_WINGS'
+// Fail to find 'BADGER_HAT'
+// Fail to find 'BIG_WEDDING_VEIL'
+// Fail to find 'CAMP_FIRE_HAT'
+// Fail to find 'CHII_EARS'
+// Fail to find 'CULTISH_MASK'
+// Fail to find 'DAOIH_CAT_HAT'
+// Fail to find 'DARKNESS_LORD_HELM'
+// Fail to find 'DARKNESS_LORD_WING'
+// Fail to find 'FABLE_SILKS'
+// Fail to find 'FALLING_BLOSSOM'
+// Fail to find 'FASHION_CAP'
+// Fail to find 'FESTIVAL_MASK'
+// Fail to find 'FOX_KING_HAT'
+// Fail to find 'FOX_QUEEN_HAT'
+// Fail to find 'FRANCOISE_RING'
+// Fail to find 'FUJIYAMA'
+// Fail to find 'GIBBET_HAT'
+// Fail to find 'HEART_SUNGLASSES'
+// Fail to find 'HOPPING_FILIR'
+// Fail to find 'HYDRA_HAT'
+// Fail to find 'IRISH_LOVELY_RING'
+// Fail to find 'JASPER_CREST'
+// Fail to find 'JAVAS_TURBAN'
+// Fail to find 'KINGYO_HAT'
+// Fail to find 'LADY_TANEE_HAT'
+// Fail to find 'LITTLE_DEVIL_HAT'
+// Fail to find 'LITTLE_DRAC'
+// Fail to find 'LUFFY_HAT'
+// Fail to find 'MARINA_HAT'
+// Fail to find 'MARIONETTE_STRINGS_HAT'
+// Fail to find 'MARSHMALLOW'
+// Fail to find 'MASHIMARU_HAT'
+// Fail to find 'MUTE_HAT'
+// Fail to find 'NEKORING_HAT'
+// Fail to find 'PAPER_BAG_HAT'
+// Fail to find 'PINK_BUNNY_EARS'
+// Fail to find 'POP_CORN_HAT'
+// Fail to find 'RAINBOW_WINGS'
+// Fail to find 'REIDIN_KURS_HAT'
+// Fail to find 'SAM_FISHER_HAT'
+// Fail to find 'SNOWBOARD'
+// Fail to find 'WHITE_SNOWBOARD'
+// Fail to find 'SOHEE_BELLS'
+// Fail to find 'SOHEE_HAT'
+// Fail to find 'SPIDER_WEB_WINGS'
+// Fail to find 'TINY_FLOWER_RIBBON'
+// Fail to find 'VALENTINE_HAIRPIN'
+// Fail to find 'LOVER_HAT'
+// Fail to find 'WARAIN_NOSE'
+// Fail to find 'LIGHTHALZEN_AURA'
+// Fail to find 'BLACK_LIGHTHALZEN_AURA'
+// Fail to find 'GREEN_LIGHTHALZEN_AURA'
+// Fail to find 'PURPLE_LIGHTHALZEN_AURA'
+// Fail to find 'RED_LIGHTHALZEN_AURA'
+// Fail to find 'YELLOW_LIGHTHALZEN_AURA'
+// Fail to find 'BLACK_SHERIFF_HAT'
+// Fail to find 'BLUE_SHERIFF_HAT'
+// Fail to find 'CYAN_SHERIFF_HAT'
+// Fail to find 'GOLD_SHERIFF_HAT'
+// Fail to find 'GREEN_SHERIFF_HAT'
+// Fail to find 'PURPLE_SHERIFF_HAT'
+// Fail to find 'RED_SHERIFF_HAT'
+// Fail to find 'WHITE_SHERIFF_HAT'
+// Fail to find 'ANGELING_BONNET'
+// Fail to find 'BUNNY_HAIRBAND'
+// Fail to find 'DEVIL_BAT_TAIL'
+// Fail to find 'DEVIL_BAT_WING'
+// Fail to find 'MAGMA_WINGS'
+// Fail to find 'PUPPET_BAG'
+// Fail to find 'QUVE_MASK'
+// Fail to find 'TRIBAL_WINGS'
+// Fail to find 'WHITE_MASK'
+// Fail to find 'WHITE_WOLF_HAT'
+// Fail to find 'DEMONIAC_CLOAK'
+// Fail to find 'DEMONIAC_TAIL'
+// Fail to find 'DEMONIAC_WING'
+// Fail to find 'KAME_SENNIN_BEARD'
+// Fail to find 'KAME_SENNIN_SHELL'
+// Fail to find 'BOWSER_BAG'
+// Fail to find 'FROG_HOOD'
+// Fail to find 'PRINGLES_MASK'
+// Fail to find 'VACHETTE_HAT'
+// Fail to find 'VOTE_POST'
+// Fail to find 'RESURRECTION_WINGS'
+// Fail to find 'PHOENIX_WING'
+// Fail to find 'BABY_PANDA_HAT'
 
 return array(
 	1 => '고글',
@@ -32,7 +3707,7 @@ return array(
 	22 => '콧수염',
 	23 => '외눈안경',
 	24 => '수염',
-	25 => '흰수염',
+	25 => 'White_Beard',
 	26 => '고급선글래스',
 	27 => '스핀글래스',
 	28 => '왕리본',
@@ -83,7 +3758,7 @@ return array(
 	73 => '요정의귀',
 	74 => '해적두건',
 	75 => '스크래치마스크',
-	76 => '거시기',
+	76 => 'Poo_Poo_Hat',
 	77 => '장례건',
 	78 => '나비가면',
 	79 => '용접마스크',
@@ -172,7 +3847,7 @@ return array(
 	162 => '해달모자',
 	163 => 'X자머리핀',
 	164 => '여왕의투구',
-	165 => '미스트레스왕관',
+	165 => 'Mistress_Crown',
 	166 => '버섯머리띠',
 	167 => '빨간테일리본',
 	168 => '귀찮은너구리',
@@ -248,7 +3923,7 @@ return array(
 	238 => '장식용지오그래퍼',
 	239 => '트윈리본',
 	240 => '음유시인모자',
-	241 => '낙엽',
+	241 => 'Leaf',
 	242 => '리본_검정',
 	243 => '리본_노랑',
 	244 => '리본_초록',
@@ -334,7 +4009,7 @@ return array(
 	324 => '연꽃모자',
 	325 => '화관',
 	326 => '맹목모',
-	327 => '해적의대거',
+	327 => 'Pirate_Dagger',
 	328 => '프레이야의크라운',
 	329 => '열대과일모자',
 	330 => '브라질국기모자',
@@ -344,13 +4019,13 @@ return array(
 	334 => '아요타야모자',
 	335 => '다이아뎀',
 	336 => '하키마스크',
-	337 => '옵저버',
+	337 => 'Observer',
 	338 => '우산모자',
 	339 => '어부의모자',
 	340 => '포링파티모자',
 	341 => '파란엔젤링모자',
 	342 => '인도네시아헤어밴드',
-	343 => '스카프',
+	343 => 'Scarf',
 	344 => '리틀엔젤돌',
 	345 => '로보아이',
 	346 => '로키마스크',
@@ -368,7 +4043,7 @@ return array(
 	358 => '비닛인형모자',
 	359 => '더블류인형모자',
 	360 => '여친구함모자',
-	361 => '포포링모자',
+	361 => 'Poporing_Hat',
 	362 => '무슬림남자모',
 	363 => '무슬림여자모',
 	364 => '다크바실리움',
@@ -392,7 +4067,7 @@ return array(
 	382 => '사타닉체인',
 	383 => '앤티크담뱃대',
 	384 => '토끼귀모자',
-	385 => '벌룬햇',
+	385 => 'Balloon_Hat',
 	386 => '물고기머리모자',
 	387 => '산타포링모자',
 	388 => '방울리본',
@@ -404,7 +4079,7 @@ return array(
 	394 => '천사의유령',
 	395 => '파란양갈래산타모자',
 	396 => '뤄양의설날모자',
-	397 => '발렌타인모자',
+	397 => 'Valentine_Hat',
 	398 => '티라야보넷',
 	399 => '재스퍼크레스트',
 	400 => '스쿠버마스크',
@@ -425,7 +4100,7 @@ return array(
 	415 => '팝콘모자',
 	416 => '캠프파이어모자',
 	417 => '포링케이크모자',
-	418 => '맥주모자',
+	418 => 'Beer_Hat',
 	419 => '왕관앵무',
 	420 => '병정모자',
 	421 => '이프리트가면',
@@ -470,10 +4145,10 @@ return array(
 	460 => '무지개스카프',
 	461 => '자하인형모자',
 	462 => '하늘모자',
-	463 => '바람의이정표',
+	463 => 'Wind_Milestone',
 	464 => '드래군헬름',
 	465 => '퍼레이드모자',
-	466 => '노블햇',
+	466 => 'Noble_Hat',
 	467 => '다크니스아이즈',
 	468 => '레긴레이브의날개',
 	469 => '홍백모자',
@@ -487,7 +4162,7 @@ return array(
 	477 => '비조프닐날개장식',
 	478 => '헤르모즈캡',
 	479 => '다크나이트마스크',
-	480 => '오딘마스크',
+	480 => 'Odin_Mask',
 	481 => '붉은학사모',
 	482 => '대만국기모자',
 	483 => '호랑이얼굴',
@@ -510,55 +4185,55 @@ return array(
 	500 => '사랑의병아리모자',
 	501 => '파란파자마모자',
 	502 => '핑크파자마모자',
-	503 => '상어모자',
+	503 => 'Shark_Hat',
 	504 => '스팅모자',
 	505 => '카니발모자',
 	506 => '카니발서클릿',
-	507 => '샤워캡',
+	507 => 'Shower_Cap',
 	508 => '사만바이아',
-	509 => '보병궁보관',
-	510 => '보병궁왕관',
-	511 => '쌍어궁보관',
-	512 => '쌍어궁왕관',
+	509 => 'Aquarius_Diadem',
+	510 => 'Aquarius_Crown',
+	511 => 'Pisces_Diadem',
+	512 => 'Pisces_Crown',
 	513 => '대형마제스틱고우트2',
-	514 => '공작새깃털',
+	514 => 'Peacock_Feather',
 	515 => '토끼귀마개',
 	516 => '환타제로레몬모자',
 	517 => '사쿠라미스트모자',
-	518 => '사쿠라밀크티모자',
+	518 => 'Sakura_Milk_Tea_Hat',
 	519 => '일차화모자',
 	520 => '타니아가씨인형',
-	521 => '루나틱모자',
+	521 => 'Lunatic_Hat',
 	522 => '개구리왕자모자',
 	523 => '마왕의뼈투구',
 	524 => '까마귀모자',
 	525 => '아기드래곤',
-	526 => '스페어카드',
+	526 => 'Spare_Card',
 	527 => '콰티모자',
 	528 => '투칸모자',
 	529 => '사이드캡',
 	530 => '재규어모자',
-	531 => '백양궁보관',
-	532 => '백양궁왕관',
+	531 => 'Aries_Diadem',
+	532 => 'Aries_Crown',
 	533 => 'RJC카츄사',
 	534 => '진홍의장미',
 	535 => '금우궁보관',
 	536 => '금우궁왕관',
 	537 => '성스러운달걀모자',
-	538 => '문어모자',
-	539 => '리프캣모자',
+	538 => 'Octopus_Hat',
+	539 => 'Leaf_Cat_Hat',
 	540 => '퍼씰모자',
-	541 => '와일드로즈모자',
+	541 => 'Wild_Rose_Hat',
 	542 => '사치의모자',
 	543 => '무슬림여자모',
-	544 => '사기의왕관',
+	544 => 'Crown_Of_Deceit',
 	545 => '항룡나한가면',
 	546 => '복호나한가면',
 	547 => '고뇌의모자',
 	548 => '광휘의격노',
 	549 => '토끼보닛',
-	550 => '쌍자궁보관',
-	551 => '쌍자궁왕관',
+	550 => 'Gemini_Diadem',
+	551 => 'Gemini_Crown',
 	552 => '라스타가발',
 	553 => '세비지베베모자',
 	554 => '도깨비뿔',
@@ -567,14 +4242,14 @@ return array(
 	557 => '일본술잔',
 	558 => '배회하는자의삿갓',
 	559 => '붉은베레모',
-	560 => '거해궁보관',
-	561 => '거해궁왕관',
+	560 => 'Cancer_Diadem',
+	561 => 'Cancer_Crown',
 	562 => '마제스틱데빌혼',
 	563 => '모기향',
 	564 => '룬매듭머리띠',
-	565 => '사자궁왕관',
-	566 => '사자궁보관',
-	567 => '사막의왕자',
+	565 => 'Leo_Crown',
+	566 => 'Leo_Diadem',
+	567 => 'Desert_Prince',
 	568 => '사이그룬의날개',
 	569 => '입에문도넛',
 	570 => '유노의눈',
@@ -623,7 +4298,7 @@ return array(
 	613 => '프리스트의모자',
 	614 => 'NOFEAR파워헤드기어',
 	615 => '선인장모자',
-	616 => '눈사람모자',
+	616 => 'Snowman_Hat',
 	617 => '인마궁왕관',
 	618 => '인마궁보관',
 	619 => '루돌프산타모',
@@ -647,7 +4322,7 @@ return array(
 	637 => '드라이버밴드_',
 	638 => '나무늘보의모자',
 	639 => '두네이르투구',
-	640 => '빨간토끼머리띠',
+	640 => 'Red_Bunny_Band',
 	641 => '버지볼보드',
 	642 => '검은테일리본',
 	643 => '아미스트르캡',
@@ -681,7 +4356,6 @@ return array(
 	673 => '승리의축구공모자',
 	674 => '영광의축구공모자',
 	675 => '움발라의혼',
-	676 => '하타블랙',
 	677 => '가루다햇',
 	678 => 'RWC2010인도네시아',
 	679 => '블러디천사의머리띠',
@@ -692,14 +4366,12 @@ return array(
 	684 => 'RTC준우승자투구',
 	685 => 'RTC3등투구',
 	686 => '자티왕관',
-	687 => '사악한마칭햇',
 	688 => '벼락구름',
-	689 => '도깨비가면',
 	690 => '수박모자',
 	691 => '음침한호박모자',
 	692 => '타레네코크루',
 	693 => '타나토스의절망가면',
-	694 => '늘어진퍼머터',
+	694 => 'Drooping_Permeter',
 	695 => '나비날개귀',
 	696 => '머리박힌나사',
 	697 => '하트눈안대1',
@@ -713,1758 +4385,5 @@ return array(
 	705 => '비구름',
 	706 => '찰리의모자',
 	707 => '미니크라운1',
-	708 => '하트리본머리띠',
-	709 => '꿀벌모자',
-	710 => '화려한팬텀마스크',
-	711 => '강아지풀',
-	712 => '악마의속삭임',
-	713 => '스컬캡',
-	714 => '악마의가면',
-	715 => '리틀페더햇',
-	716 => '박애의수호',
-	717 => '마녀의모자',
-	718 => '검은토끼헤어밴드',
-	719 => '흰토끼헤어밴드',
-	720 => '입안의연인',
-	721 => '캠퍼스페스티발',
-	722 => '타이니모자',
-	723 => '나비머리핀',
-	724 => '아스가르드의축복',
-	725 => '갤럭시서클릿',
-	726 => '말랑도모자',
-	727 => '미니트리',
-	728 => '왕새우모자',
-	729 => '장군의투구',
-	730 => '신선초모자',
-	731 => '검은깃털베레모',
-	732 => '해골모자',
-	733 => '하트날개헤어밴드',
-	734 => '사랑의조각',
-	735 => '레프리컨의모자',
-	736 => '입에문너트도넛',
-	737 => '늘어난코',
-	738 => '부드러운양모자',
-	739 => '고대의금장식',
-	740 => '행운의모자',
-	741 => '화이트페더',
-	742 => '죽은자의투구',
-	743 => '브다칸마',
-	744 => '태극귀걸이',
-	745 => '9주년기념모자',
-	746 => '이그드라실왕관',
-	747 => '빨간타이거마스크',
-	748 => '파란타이거마스크',
-	749 => '남색늘어진고양이',
-	750 => '갈색늘어진고양이',
-	751 => '오렌지토끼머리띠',
-	752 => '바이올렛토끼머리띠',
-	753 => '블루토끼머리띠',
-	754 => '실버토끼머리띠',
-	755 => '딸기모자',
-	756 => '네스티모자',
-	757 => '고대인의뿔',
-	758 => '새싹모자',
-	759 => '머큐리의투구',
-	760 => '검은악마의가면',
-	761 => '고양이귀베레모',
-	762 => '빨간빵모자',
-	763 => '한입수박',
-	764 => '1등로켓투구',
-	765 => '2등로켓투구',
-	766 => '다크에이지',
-	767 => '티어드롭',
-	768 => '3등로켓투구',
-	769 => 'RWC로켓투구',
-	770 => '백무상모자',
-	771 => '흑무상모자',
-	772 => '부상자의안대',
-	773 => '긴혓바닥',
-	774 => '입에무는주먹밥',
-	775 => '비행기모자',
-	776 => '도적두건',
-	777 => '젤라또모자',
-	778 => '7주년기념모자_B',
-	779 => '하트안대',
-	780 => '보름달',
-	781 => '타레도모붜이',
-	782 => '팔콘마스크',
-	783 => '데저트울프모자',
-	784 => '풀죽은엘리스모자',
-	785 => '리본요리사모자',
-	786 => '노란포링머리핀',
-	787 => '분홍포링머리핀',
-	788 => '녹색포링머리핀',
-	789 => '파란포링머리핀',
-	790 => '신부의리본',
-	791 => '유자모자',
-	792 => '해군사관모자',
-	793 => '불가사리머리띠',
-	794 => '리본마술사모자',
-	795 => '가위손모형',
-	796 => '바위손모형',
-	797 => '보손모형',
-	798 => '바닷사람의모자',
-	799 => '젖소모자',
-	800 => '별모양안대',
-	801 => '혓바닥부적',
-	802 => '루드마스크',
-	803 => '이그니스캡',
-	804 => '바나르간드의투구',
-	805 => '데비루치헤드폰',
-	806 => '비밀결사단의두건',
-	807 => '괴도의외눈안경',
-	808 => '보이타타모자',
-	809 => '인디안깃털머리띠',
-	810 => '기동형투구',
-	811 => '사슴뿔신사모자',
-	812 => '선글라스야구모자',
-	813 => '블라인드안경',
-	814 => '입에무는오렌지',
-	815 => '입에무는콤팩트디스크',
-	816 => '고양이레이스머리띠',
-	817 => '타레교황인형모자',
-	818 => '입에무는손수건',
-	819 => '소가죽모자',
-	820 => '비행날개모자',
-	821 => '청사과모자',
-	822 => '육각안경',
-	823 => '입에무는벚꽃가지',
-	824 => '입에무는대파',
-	825 => '입에무는주판',
-	826 => '개구리모자_대만',
-	827 => '강아지귀모자',
-	828 => '눈물',
-	829 => '입에무는홍당무',
-	830 => '화려한하이캡',
-	831 => '스타더스트헤어밴드',
-	832 => '2011_RMSC',
-	836 => '루돌프머리띠',
-	837 => '마이크모자',
-	838 => '잠자는고양이모자',
-	839 => '빨간두건',
-	840 => '봉황관',
-	841 => '오렌지모자',
-	842 => '입에무는주사기',
-	843 => '입에무는치즈과자',
-	844 => '굶주린대어모자',
-	845 => '토끼리본모자',
-	846 => '고대의문관',
-	847 => '면도용크림',
-	848 => '입에무는식물줄기',
-	849 => '올리버늑대후드',
-	850 => '식충식물의헤어핀',
-	851 => '캔모자',
-	852 => '식인꽃모자',
-	853 => '캔디모자',
-	854 => '블랙스웨터모자',
-	855 => '입에무는설탕과일',
-	856 => '독특한패션안경',
-	857 => '입에무는부채',
-	858 => '원숭이털모자',
-	859 => '물먹는하마모자',
-	860 => '토트신관의투구',
-	861 => '입에무는딸기',
-	862 => '플립모자',
-	863 => '승천블랙드래곤',
-	864 => '장미머리띠',
-	865 => '스위트발렌타인모자',
-	866 => '오러쿼츠의왕관',
-	867 => '토끼귀니트모자',
-	868 => '스카이멧',
-	869 => '세도라의모자',
-	870 => '에길헬름',
-	871 => 'MVP농구모자',
-	872 => '크리투라학원모자',
-	873 => '매지컬부스터',
-	874 => '10주년포링모',
-	875 => '타레요정의귀',
-	876 => '포티어의가면',
-	877 => '하얀학생모',
-	878 => '카네이션머리띠',
-	879 => '강한자의헤어',
-	882 => '청이의영혼',
-	884 => '입에무는초코스틱',
-	885 => '냉기입김',
-	886 => '이프리트의눈',
-	887 => '금원보포링의모자',
-	888 => '메이저우로스의뿔',
-	889 => '입에무는포커카드',
-	890 => '저주받은책',
-	891 => '모험가의모자',
-	892 => '대만주먹밥',
-	893 => '블러드서커',
-	894 => '검은시바이누모자',
-	895 => '성스러운크로브크',
-	896 => '스크랫모자',
-	897 => '알라딘의램프',
-	898 => '분홍토끼머리띠',
-	899 => '포이즌스포아모자',
-	900 => '무지개포링모자',
-	901 => '인도네시아삿갓',
-	902 => 'RWC승리의왕관_빨강',
-	903 => 'RWC승리의왕관_파랑',
-	904 => 'RWC승리의왕관_검정',
-	905 => '킹포링모자',
-	906 => '아네모스가면',
-	907 => '타천사의분실물',
-	908 => '성자의리본모자',
-	909 => '풀죽은키엘모자',
-	910 => '풀죽은엘리엇모자',
-	911 => '매지션의나이트캡',
-	912 => '평범한블랙매지션햇',
-	913 => '나이트스패로우햇',
-	914 => 'RWC승리의왕관_8강',
-	915 => '딥블루천사의머리띠',
-	916 => '핑크천사의머리띠',
-	917 => '네로가면',
-	918 => '기의가면',
-	919 => '보스모자',
-	920 => '장미카스캐트',
-	921 => '가시나무헤어밴드',
-	922 => '이클립스모자',
-	923 => '검은토끼모자',
-	924 => '노랑유자모자',
-	925 => '날개안경',
-	926 => '하얀새끼고양이귀',
-	927 => '천사학생모',
-	928 => '악마학생모',
-	929 => '진화된천사학생모',
-	930 => '진화된악마학생모',
-	931 => '입에무는빨간연필',
-	932 => '입에무는파란연필',
-	933 => '엘더크라운',
-	934 => '오색깃털장식',
-	935 => '임페리얼페더',
-	936 => '파산자의가면',
-	937 => '돈을잃은자의마음',
-	938 => '스위트보넷',
-	939 => '초록이모자',
-	940 => '발키리의서클릿',
-	941 => '흙빛의투구',
-	942 => '2012RMSCNO1',
-	943 => '2012RMSCNO2',
-	944 => '2012RMSCNO3',
-	945 => '2012RMSCNO4',
-	946 => '랄프폰지게666세',
-	947 => '소원성취천등',
-	948 => '마린의관',
-	949 => '사쿠라머리띠',
-	950 => '라그10주년기념모자',
-	951 => '라그10주년기념한정모자',
-	952 => '응원용호루라기',
-	953 => '엔젤링털모자',
-	954 => '포링선글래스',
-	955 => '스몰포링머리띠',
-	956 => '소녀의모자',
-	957 => '스몰데빌링모자',
-	958 => '파란포링풍선',
-	959 => '밴시마스터의키스',
-	960 => '해신의수호',
-	961 => '발광산타포링',
-	962 => '졸리로저',
-	963 => '싱싱한장미',
-	964 => '산타인형머리띠',
-	965 => '모치링모자',
-	966 => '크리스마스흰곰모자',
-	967 => '셀린느의리본',
-	968 => '맛있는딸기모',
-	969 => '아프로가발_검정',
-	970 => '아프로가발_빨강',
-	971 => '아프로가발_노랑',
-	972 => '에비에이터모자',
-	973 => '흰호랑이왕모자',
-	974 => '쿠루피라모자',
-	975 => '핑크엔젤링풍선',
-	976 => '엔젤링풍선',
-	977 => '유치원생의모자',
-	978 => '고딕헤드드레스',
-	981 => '검성의왕관',
-	982 => '아울듀크의실크햇',
-	983 => '바쥬라',
-	984 => '암살자해골가면',
-	985 => '존다인형모자',
-	986 => '뱀모자',
-	987 => 'C세인트프릴리본',
-	988 => 'C빛과어둠의진혼관',
-	989 => '바롤의마안',
-	990 => 'C수호날개',
-	991 => '근위병의모자',
-	992 => '무지개면사포',
-	993 => '화이트릴리',
-	994 => '행복평화의증표',
-	995 => '스콜피온모자',
-	996 => '고급흑사왕의모자',
-	997 => '세계수의모자',
-	998 => 'C말썽꾸러기요정',
-	999 => '미믹알껍질',
-	1000 => '토끼머리알껍질',
-	1001 => '픽키알껍질',
-	1002 => '사악한마칭햇_J',
-	1003 => '칸남모자',
-	1004 => '무성한콧수염',
-	1005 => '반짝반짝작은별',
-	1006 => '검은마녀의모자',
-	1007 => '무지개낙지모자',
-	1008 => '천상의어둠화염',
-	1009 => '프레티리오스지느러미',
-	1010 => '하늘색왕관',
-	1011 => '제제캡',
-	1012 => '아쿠아버니밴드',
-	1013 => '마룬버니밴드',
-	1014 => '골든버니밴드',
-	1015 => '그레이버니밴드',
-	1016 => '허스키모자',
-	1017 => 'UFO포링모자',
-	1018 => '용발톱헬멧',
-	1019 => '무지개스타',
-	1020 => '블루아이새도',
-	1021 => '신앙의눈',
-	1022 => '뮌헨소시지',
-	1023 => '독일축제모자',
-	1024 => '파파삽모자',
-	1025 => '얼어붙은땅의장미',
-	1026 => '카네이션화환',
-	1027 => '나비의트윈바렛',
-	1028 => '성스러운로사리오',
-	1029 => '늘어진판다',
-	1030 => '이사벨라레드귀모자',
-	1031 => '이사벨라브라운귀모자',
-	1032 => '이사벨라블루귀모자',
-	1033 => '레드플라워모자',
-	1034 => '벨의비둘기',
-	1035 => '수다쟁이까마귀',
-	1036 => '꼬마데빌링',
-	1037 => '피묻은나비귀',
-	1038 => '곰돌이풍선',
-	1039 => '러브러브풍선',
-	1040 => '낙지풍선',
-	1041 => '잭캐슬배트',
-	1042 => '신사의페즈',
-	1043 => '보어크',
-	1044 => '붉은풍차비녀',
-	1045 => '금주의두루마리',
-	1046 => '앵화난만의비녀',
-	1047 => '위풍위연의투구',
-	1048 => '로리타텐겔론모자',
-	1049 => '페코페코캡',
-	1050 => '이프리트의숨결',
-	1051 => '풍신의부채',
-	1052 => '흰고양이후드',
-	1053 => '이블드루이드모자',
-	1054 => '사안봉인의붕대',
-	1055 => '지크프리트의투구',
-	1056 => '크림힐트의왕관',
-	1057 => '브륀힐트의왕관',
-	1058 => '녹색강아지풀',
-	1059 => '해피섬머아프로',
-	1062 => 'IRO플래그두건',
-	1063 => 'IRO플래그모자',
-	1064 => '기적의푸른장미',
-	1065 => '코끼리모형모자',
-	1066 => '고릴라모형모자',
-	1067 => '라이온모형모자',
-	1068 => '코뿔소모형모자',
-	1069 => '기계식물모자',
-	1070 => '여우귀방울리본',
-	1071 => '검은고양이귀베레모',
-	1072 => '메모리오브러버스',
-	1073 => '천체서클',
-	1075 => '불꽃의텐겔론햇',
-	1076 => '돌풍의헌팅캡',
-	1077 => '물의니트캡',
-	1078 => '대지의실크햇',
-	1079 => '바이스비어햇',
-	1080 => 'C빙수모자',
-	1081 => '입에문황금물고기',
-	1082 => '데비루치풍선',
-	1083 => '늘어진메이드인형모자',
-	1084 => '늘어진여고생인형모자',
-	1085 => '프리티토끼후드',
-	1086 => '플라워포트마스크',
-	1087 => '피아멧트의두건',
-	1088 => '지라이야의담뱃대',
-	1089 => '오로치마루의마스크',
-	1090 => '츠나데의인술서',
-	1091 => '뭔가있어',
-	1092 => '게르하르트폰데비',
-	1093 => '천사의귀걸이',
-	1094 => '필리핀10주년모자',
-	1095 => '레빗헤드드레스',
-	1096 => '입에문녹색풍선껌',
-	1097 => '멋진해적안대',
-	1098 => '할로윈모자',
-	1099 => '삼각지붕모자',
-	1100 => '고양이눈',
-	1101 => '파란선장모자',
-	1102 => '오래된핑크색거시기',
-	1103 => '소악마의작은뿔',
-	1104 => '아버지사랑2013',
-	1105 => '검은고양이모자',
-	1106 => 'RCC2013챔피온투구',
-	1107 => 'RCC2013준우승투구',
-	1108 => 'RCC20133등상투구',
-	1109 => 'RCC2013기념모자',
-	1110 => '초콜렛폭탄',
-	1111 => '고딕하트윙밴드',
-	1112 => '클래식리본',
-	1113 => '천사의미니실크햇',
-	1114 => '에그타르트모자',
-	1115 => '판다풍선',
-	1116 => '즐거운앵무새',
-	1117 => '성자의왕관',
-	1118 => '어센드크라운',
-	1119 => '가을머리띠',
-	1120 => '까만리본머리띠',
-	1121 => '신의보호',
-	1122 => '집중의베레모',
-	1123 => '추수의모자',
-	1124 => '죽은자의두건',
-	1125 => '아주평범한모자',
-	1126 => '리리카모자',
-	1127 => '오니의뿔',
-	1128 => '바다캡틴모자',
-	1129 => '쉐이빙폼',
-	1130 => '711니트모자',
-	1131 => '711헤드폰',
-	1132 => '정령포링풍선',
-	1133 => '정령마린풍선',
-	1134 => '보스베레모',
-	1135 => '지구본모자',
-	1136 => 'RWC2013_JP기념모자',
-	1137 => '성가대모자',
-	1138 => '늘어진아르지오프',
-	1139 => '체인퍼펫',
-	1140 => '수호의관',
-	1141 => '뼈의서클릿',
-	1142 => '얼룩무늬토끼후드',
-	1143 => '매부리의피리',
-	1144 => 'C고양이산타모자',
-	1145 => 'C금색느낌표',
-	1146 => 'C은색느낌표',
-	1147 => 'C금색물음표',
-	1148 => 'C은색물음표',
-	1149 => '요르문간드투구',
-	1150 => '도사의장식',
-	1151 => 'RWC13영광의왕관1위',
-	1152 => 'RWC13영광의왕관2위',
-	1153 => 'RWC13영광의왕관3위',
-	1154 => 'RWC13영광의왕관장려',
-	1155 => '마네키모치바나',
-	1156 => '무통라이프',
-	1157 => '눈토끼니트모자',
-	1158 => '가란사스가드',
-	1159 => '남포링풍선',
-	1160 => '남포링귀장식',
-	1161 => '여포링풍선',
-	1162 => '여포링귀장식',
-	1163 => '파란도라지꽃모자',
-	1164 => '고양이마법모자',
-	1165 => '멋진고양이마법모자',
-	1166 => '꽃모양풍선',
-	1167 => '꽃모양귀장식',
-	1168 => '둥글둥글털모자',
-	1169 => '퇴마의글래스',
-	1170 => '노란스카프',
-	1171 => 'saLUsalo기념모자',
-	1172 => '꽃무늬모자',
-	1173 => '검은면사포',
-	1174 => '체크패턴두건',
-	1175 => '숙녀의리본',
-	1176 => '꽃의향연',
-	1177 => 'X모자',
-	1178 => '큰토끼귀',
-	1179 => '모란두건',
-	1180 => '율동의머리장식',
-	1181 => '귀족모자',
-	1182 => '힙합모자',
-	1183 => '행복의풍선',
-	1184 => '파티풍선',
-	1185 => '승리의귀장식',
-	1186 => '파란귀장식',
-	1187 => '리틀와이번스',
-	1188 => '천사의인도',
-	1189 => '마왕',
-	1190 => '여포의투구',
-	1191 => '폭탄모자',
-	1192 => '용비늘거북이모자',
-	1193 => '생쥐모자1',
-	1194 => '생쥐모자2',
-	1195 => '생쥐모자3',
-	1196 => '생쥐모자4',
-	1197 => '생쥐모자5',
-	1198 => '사이그룬2',
-	1199 => '질풍신뢰',
-	1200 => '더블본헬름',
-	1201 => '폭주하는칩',
-	1202 => '갬블러의씰',
-	1203 => '애기동백꽃비녀',
-	1204 => '링컨모자',
-	1205 => '링컨수염',
-	1206 => '멋진저녁모자',
-	1207 => '알폰소의투구',
-	1208 => '호로의귀',
-	1209 => '예술가의베레모',
-	1210 => '묘지기의눈가리개',
-	1211 => '젖소모자1',
-	1212 => '젖소모자2',
-	1213 => '젖소모자3',
-	1214 => '젖소모자4',
-	1215 => '바니헤드드레스',
-	1216 => '피린트스카프',
-	1217 => '법사관',
-	1218 => '괴어의아가미',
-	1219 => '정령의왕관',
-	1220 => '서바이벌서클릿',
-	1221 => '기간트헬름',
-	1222 => '파란장미장식',
-	1223 => '기원의벚꽃',
-	1224 => '초원의바람',
-	1225 => '페가수스풍선',
-	1226 => '페가수스동행풍선',
-	1227 => '용기사의안대',
-	1228 => '옐로우브레인햇',
-	1229 => '블루브레인햇',
-	1230 => '부유하는현자의돌',
-	1231 => '여왕스카라바투구',
-	1232 => '프로텍트페더',
-	1233 => '그리폰머리띠',
-	1234 => '알파카후드',
-	1235 => '입에문워그',
-	1236 => '화환포링모자',
-	1237 => '10식안경',
-	1238 => '뱀파이어헤어밴드',
-	1239 => '료스엘프',
-	1240 => '볼륨페더햇',
-	1241 => '브라기의날개귀',
-	1242 => '메탈드래곤투구',
-	1243 => '메탈드래곤모자',
-	1244 => '미스릿모자',
-	1245 => '여의주를품은용모자1',
-	1246 => '여의주를품은용모자2',
-	1247 => '여의주를품은용모자3',
-	1248 => '여의주를품은용모자4',
-	1249 => '아이스폰프리징어69세',
-	1250 => '타천사의축복',
-	1251 => '행복의천사',
-	1252 => '37식스큐트',
-	1253 => '점성술사의모자',
-	1254 => '머메이드헤드폰',
-	1255 => '언더림안경',
-	1256 => '아쿠아텐갤론햇',
-	1257 => '라즈베리무스햇',
-	1258 => '똬리튼뱀모자1',
-	1259 => '똬리튼뱀모자2',
-	1260 => '해피섬머리본',
-	1261 => '챰오브프레임하트',
-	1262 => '챰오브미스틱프로즌',
-	1263 => '챰오브러프윈드',
-	1264 => '챰오브그레이트네이쳐',
-	1265 => '위스퍼톨햇',
-	1266 => '시계탑관리자의인컴',
-	1267 => '사념의오오라',
-	1268 => '덮어쓴포링',
-	1269 => '흰색심연의모자',
-	1270 => '소원종이모자',
-	1271 => '미니말머리핀1',
-	1272 => '미니말머리핀2',
-	1273 => '쌀가마니모자',
-	1274 => '모노크롬캡',
-	1275 => '흩날리는낙엽',
-	1276 => '귀부인의깃털모자',
-	1277 => '양털모자1',
-	1278 => '양털모자2',
-	1279 => '매지컬페더',
-	1280 => '세피아캡',
-	1281 => '펌킨헤드',
-	1282 => '루드후드',
-	1283 => '주황색할로윈햇',
-	1284 => '디아볼릭헤드폰',
-	1285 => '니플헤임버니햇',
-	1286 => '낙원의새장',
-	1287 => '까마귀천구의가면',
-	1288 => '해피삐에로가면',
-	1289 => '해피벌룬',
-	1290 => '늘어진길용이',
-	1291 => '마스터브러쉬',
-	1292 => '할퀴는고양이',
-	1293 => '표범무늬귀모자',
-	1294 => '아미스트르베레모',
-	1295 => '갈색고양이귀',
-	1296 => '꼬꼬닭모자1',
-	1297 => '꼬꼬닭모자2',
-	1298 => '꼬꼬닭모자3',
-	1299 => '인어공주의그리움',
-	1300 => '아라비안베일',
-	1301 => '스펠서킷',
-	1302 => '천사의마칭햇',
-	1303 => '암야의베일',
-	1304 => '로키와니드호그모자',
-	1305 => '조이스틱햇',
-	1306 => '러브게임햇',
-	1307 => 'Love_Dad_2014',
-	1308 => '달고양이모자',
-	1309 => '시간의장식',
-	1310 => '운명의검은손',
-	1311 => '바포메트투구',
-	1312 => '커다란리본머플러',
-	1313 => '스노우노우모자',
-	1314 => '초코민트보넷',
-	1315 => '강한자의헤어검정',
-	1316 => '강한자의헤어빨강',
-	1317 => '강한자의헤어하얀',
-	1318 => '러브발그레',
-	1319 => '허니팬케익',
-	1320 => '블랙래빗보넷',
-	1321 => '블루헤드드레스',
-	1322 => '핑크클로버',
-	1323 => '아울바이카운트의실크햇',
-	1324 => '비밀의지퍼',
-	1325 => '펭귄캡',
-	1326 => '잠자는이클립스가족',
-	1327 => '흰여우귀방울리본',
-	1328 => '그리폰의날개귀',
-	1329 => '오버프로텍터',
-	1330 => '벚꽃모자',
-	1331 => '흩날리는벚꽃',
-	1332 => '언더림안경레드',
-	1333 => '비행기모자골드',
-	1334 => '비쥬모자',
-	1335 => '연극용태엽키',
-	1336 => 'C수호자검은날개',
-	1337 => 'C칠흑의이블드루이드모자',
-	1338 => '라면모자_블랙',
-	1339 => '토끼귀알껍질',
-	1340 => 'C행복의늘어진루나틱귀',
-	1341 => 'C페이스_크래셔',
-	1342 => 'C힐윈드_마스크',
-	1343 => 'C베르제브브의왕관',
-	1344 => 'C예술가의모자',
-	1345 => '로키의어쌔신마스크',
-	1346 => '머리위의브라',
-	1347 => '날개헤드폰',
-	1348 => '비기너마크',
-	1349 => '드워프수염',
-	1350 => '데블의딜',
-	1351 => '애널라이즈아이',
-	1352 => '지천사날개투구',
-	1353 => '고양이귀사이버헤드폰',
-	1354 => '찰스턴안테나',
-	1355 => '크림슨부스터',
-	1356 => '페이스웜알껍질',
-	1357 => '카르듀이의귀',
-	1358 => '날으는갈라파고',
-	1359 => '성천사의간호모',
-	1360 => '퀸안즈리벤지',
-	1361 => '룬헬름',
-	1362 => '비둘기모자',
-	1363 => '리틀아쿠아리움',
-	1364 => '수병의옷깃',
-	1365 => '마린캡',
-	1366 => '바이오프로텍터',
-	1367 => '영웅의마스크',
-	1368 => '파르펠레자경단모자',
-	1369 => 'C플라워섬머햇',
-	1370 => '달의_안대',
-	6936 => 'chapeu_do_facebook',
-	6937 => 'susanoo',
-	6938 => 'smoke_screen_rosa',
-	6939 => 'smoke_screen_amarela',
-	6940 => 'smoke_screen_verde_clara',
-	6941 => 'smoke_screen_azul_clara',
-	6942 => 'smoke_screen_azul_escura',
-	6943 => 'smoke_screen_verde_escura',
-	6944 => 'smoke_screen_vermelha',
-	6945 => 'Smoke_Screen_preta',
-	6946 => 'smoke_screen_dourada',
-	6947 => 'elmo_do_dragao',
-	6948 => 'espada_do_dragaoo',
-	6949 => 'visor_do_dragao',
-	6950 => 'abobora_amarela',
-	6951 => 'abobora_azul',
-	6952 => 'abobora_branca',
-	6953 => 'abobora_preta',
-	6954 => 'abobora_rosa',
-	6955 => 'abobora_roxa',
-	6956 => 'abobora_verde',
-	6957 => 'abobora_vermelha',
-	6958 => 'angelingballoon',
-	6959 => 'arcangelingballoon',
-	6960 => 'Baby_Dragon_Hat',
-	6961 => 'balao_azul_natal',
-	6962 => 'balao_branco_natal',
-	6963 => 'balao_gold_natal',
-	6964 => 'balao_preto_natal',
-	6965 => 'balao_rosa_natal',
-	6966 => 'balao_roxo_natal',
-	6967 => 'balao_verde_natal',
-	6968 => 'balao_vermelho_natal',
-	6969 => 'balleigh',
-	6970 => 'balleighty',
-	6971 => 'ballelev',
-	6972 => 'ballfive',
-	6973 => 'ballfour',
-	6974 => 'ballfourt',
-	6975 => 'ballnine',
-	6976 => 'ballnint',
-	6977 => 'ballseve',
-	6978 => 'ballsix',
-	6979 => 'ballten',
-	6980 => 'ballthir',
-	6981 => 'ballthree',
-	6982 => 'balltwel',
-	6983 => 'balltwent',
-	6984 => 'balltwenthree',
-	6985 => 'balltwentyfo',
-	6986 => 'balltwetwo',
-	6987 => 'deviruchi_balloon',
-	6988 => 'Pikachu_Balloon',
-	6989 => 'bobsponja',
-	6990 => 'Manto_Akatsuki_Amarelo',
-	6991 => 'Manto_Akatsuki_Azul',
-	6992 => 'Manto_Akatsuki_Branco',
-	6993 => 'Manto_Akatsuki_Laranja',
-	6994 => 'Manto_Akatsuki_Rosa',
-	6995 => 'Manto_Akatsuki_Roxo',
-	6996 => 'Manto_Akatsuki_Verde',
-	6997 => 'BabyBlueCap',
-	6998 => 'rainbowing_hat',
-	7000 => 'asas_de_fogo',
-	7001 => 'asas_de_gelo',
-	7002 => 'bao_bao',
-	7003 => 'Black_Butterfly_Wings',
-	7004 => 'dragao_negro',
-	7005 => 'asas_de_gargula',
-	7006 => 'coroa_dourada',
-	7007 => 'anjo_enfurecido',
-	7008 => 'asas_do_espirito',
-	7009 => 'arcano_celeste',
-	7011 => 'super_coelho',
-	7012 => 'Red_Wandering_Minstrel_Hat',
-	7013 => 'asas_verdes_metal',
-	7014 => 'asas_sucubus',
-	7015 => 'elmo_sygnun',
-	7016 => 'elmo_negro',
-	7017 => 'elmo_samurai',
-	7018 => 'Traveler_Hat',
-	7019 => 'White_Traveler_Hat',
-	7020 => 'Black_Wandering_Minstrel_Hat',
-	7021 => 'Cyan_Wandering_Minstrel_Hat',
-	7022 => 'Gold_Wandering_Minstrel_Hat',
-	7023 => 'asas_observador',
-	7024 => 'White_Executioner_Hood',
-	7025 => 'asas_seichim',
-	7026 => 'asas_angelicais',
-	7027 => 'hat_hokage',
-	7028 => 'asas_do_setimo_anjo',
-	7029 => 'asas_celestiais',
-	7030 => 'asas_da_reencarnacao',
-	7031 => 'White_Neko_Mimi',
-	7032 => 'asas_de_incubus',
-	7033 => 'elmo_do_baal',
-	7034 => 'aureola_mistica',
-	7035 => 'asas_misticas',
-	7036 => 'hat_oriental',
-	7037 => 'chapeu_de_elefante',
-	7038 => 'chapeu_de_deviling',
-	7039 => 'asas_de_deviling',
-	7040 => 'afro_hat',
-	7041 => 'hat_raposa',
-	7042 => 'White_Wandering_Minstrel_Hat',
-	7043 => 'asas_rosadas',
-	7044 => 'helmo_de_orc_heroi',
-	7045 => 'pequenas_asas_yin_yang',
-	7046 => 'asas_anjo_da_morte',
-	7047 => 'asas_de_anjo_incandescente',
-	7048 => 'asas_de_borboleta_mistica',
-	7049 => 'asas_de_borboletas_elementais',
-	7050 => 'asas_de_ceda_vermelha',
-	7051 => 'asas_de_cristais',
-	7052 => 'butterfly_white',
-	7053 => 'butterfly_wings',
-	7054 => 'asas_de_mihael',
-	7055 => 'asas_de_petalas',
-	7056 => 'asas_de_teia_de_aranha',
-	7057 => 'asas_de_valkiria',
-	7058 => 'asas_de_vento',
-	7059 => 'asas_organicas',
-	7060 => 'asas_ressureicao_de_fenix',
-	7061 => 'asas_yinyang',
-	7062 => 'capuz_de_carontes',
-	7063 => 'chapeu_de_almirante',
-	7064 => 'Cyan_Executioner_Hood',
-	7065 => 'Red_Executioner_Hood',
-	7066 => 'peco_wings',
-	7067 => 'Skel_Wing',
-	7068 => 'fred_asasdaalegria',
-	7069 => 'Shadow_death',
-	7070 => 'Cyan_Neko_Mimi',
-	7071 => 'hat_suke',
-	7072 => 'lilofairy',
-	7073 => 'Purple_Wandering_Minstrel_Hat',
-	7074 => 'Black_Mage_Hat',
-	7075 => 'Cyan_Mage_Hat',
-	7076 => 'Gold_Mage_Hat',
-	7077 => 'Purple_Mage_Hat',
-	7078 => 'Red_Mage_Hat',
-	7079 => 'White_Mage_Hat',
-	7080 => 'randgris_dorminhoca',
-	7081 => 'lolirurihat',
-	7082 => 'asas_colombina',
-	7083 => 'asas_da_espiritualidade',
-	7084 => 'asas_de_borboleta_agua',
-	7085 => 'asas_de_princesa',
-	7086 => 'heroisch_wings',
-	7087 => 'Gold_Executioner_Hood',
-	7088 => 'dragao_branco_de_gelo',
-	7089 => 'hat_de_druida_maligno',
-	7090 => 'hat_minimizu',
-	7091 => 'rabo_de_gato',
-	7092 => 'asas_de_namorados',
-	7093 => 'Red_Neko_Mimi',
-	7094 => 'anjo_da_cura',
-	7095 => 'anjo_da_morte',
-	7096 => 'asas_da_fantasia',
-	7097 => 'asas_da_fusao',
-	7098 => 'Blue_Butterfly_Wings',
-	7099 => 'asas_mortais',
-	7100 => 'asas_sangrentas',
-	7101 => 'cavalo_marinho_azul',
-	7102 => 'cavalo_marinho_do_arco_iris',
-	7103 => 'chapeu_de_mosqueteiro',
-	7104 => 'chapeu_do_luigi',
-	7105 => 'chapeu_do_mario',
-	7106 => 'dragao_do_fogo2',
-	7107 => 'White_Lord_Kaho_Horn',
-	7108 => 'feather_wings',
-	7109 => 'Shadow_death_wings',
-	7110 => 'Black_Neko_Mimi',
-	7112 => 'hat_indiano',
-	7113 => 'hat_kazekage',
-	7114 => 'hat_marina',
-	7115 => 'mascara_anbu',
-	7116 => 'littledeviltail',
-	7117 => 'rabo_de_raposa',
-	7118 => 'Green_Neko_Mimi',
-	7119 => 'asas_do_pantano',
-	7120 => 'asas_do_pantano_red',
-	7121 => 'dragao_da_noite',
-	7122 => 'asas_de_anjo_brilhante',
-	7123 => 'boina_suprema',
-	7124 => 'Circulo_de_Amor',
-	7125 => 'Black_Lord_Kaho_Horn',
-	7126 => 'Purple_Neko_Mimi',
-	7127 => 'Asas_de_dragao',
-	7128 => 'Bandana_de_kohona',
-	7129 => 'akatsuki',
-	7130 => 'Coracao_do_amor',
-	7131 => 'Rabo_de_goku',
-	7132 => 'rabo_lunap',
-	7133 => 'Mochila_Suprema',
-	7134 => 'fone_de_dj',
-	7135 => 'Red_Lord_Kaho_Horn',
-	7136 => 'Asa_Azul',
-	7137 => 'Coroa_do_Deus_Lua',
-	7138 => 'Green_Executioner_Hood',
-	7139 => 'cisnei_negro',
-	7140 => 'aries_wings',
-	7141 => 'butterfly_blue',
-	7142 => 'butterfly_brown',
-	7143 => 'butterfly_green',
-	7144 => 'butterfly_purple',
-	7145 => 'butterfly_red',
-	7146 => 'butterfly_yellow',
-	7147 => 'blueevilwings',
-	7148 => 'darkevilwings',
-	7149 => 'thousandwings',
-	7150 => 'HelmOfDarkRed',
-	7151 => 'HelmOfDarkBlack',
-	7152 => 'HelmOfDarkWhite',
-	7153 => 'BlackCatTail',
-	7154 => 'BlinderRed',
-	7155 => 'Purple_Captain_Hat',
-	7156 => 'Red_Captain_Hat',
-	7157 => 'White_Captain_Hat',
-	7158 => 'chapeudeasa',
-	7159 => 'flaming_death',
-	7160 => 'wing_zero',
-	7161 => 'catoninetailshat',
-	7162 => 'Black_Executioner_Hood',
-	7163 => 'nemesiswings',
-	7164 => 'butterfly_wing',
-	7165 => 'darkmagicalwings',
-	7166 => 'fred_asasdeshaira',
-	7167 => 'fred_asasdefogo',
-	7168 => 'starwing',
-	7169 => 'starwingwhite',
-	7170 => 'starwingblue',
-	7171 => 'starwinggreen',
-	7172 => 'starwingred',
-	7173 => 'fred_asademetal',
-	7174 => 'fred_asasdaluacrescente',
-	7175 => 'Gold_Magic_Eyes',
-	7176 => 'Green_Magic_Eyes',
-	7177 => 'Purple_Magic_Eyes',
-	7178 => 'Red_Magic_Eyes',
-	7179 => 'magic_hat',
-	7180 => 'Hell_Slayer_Wing',
-	7181 => 'Black_Magic_Eyes',
-	7182 => 'ka_death',
-	7183 => 'ka_death_wings',
-	7184 => 'psycho_death',
-	7185 => 'wolf',
-	7186 => 'Black_Captain_Hat',
-	7187 => 'Cyan_Captain_Hat',
-	7188 => 'Gold_Captain_Hat',
-	7189 => 'Green_Captain_Hat',
-	7190 => 'Black_Traveler_Hat',
-	7191 => 'Cyan_Traveler_Hat',
-	7192 => 'Gold_Traveler_Hat',
-	7193 => 'chanceswings',
-	7194 => 'valkyriehelmdual',
-	7195 => 'Cyan_Magic_Eyes',
-	7196 => 'Black_Helm',
-	7197 => 'White_Helm',
-	7198 => 'rabo_de_leopardo',
-	7199 => 'evil_angel_helm',
-	7200 => 'asa_de_cisney',
-	7201 => 'Black_Flame',
-	7202 => 'Red_Flame',
-	7203 => 'White_Flame',
-	7204 => 'DiabloWings',
-	7205 => 'GirlsCap',
-	7206 => 'PinkSheriffHat',
-	7207 => 'BlackSheriffHat',
-	7208 => 'Cyan_Butterfly_Wings',
-	7209 => 'NoviceCutieWings',
-	7210 => 'PhoenixWings',
-	7211 => 'godlike_manteau',
-	7213 => 'godlike_shield',
-	7214 => 'godlike_shoes',
-	7215 => 'mochila_deviling',
-	7216 => 'fred_chapeudepochi',
-	7217 => 'pink_swan',
-	7218 => 'Green_Traveler_Hat',
-	7219 => 'Elegant_wings',
-	7220 => 'fred_asasdecristal',
-	7221 => 'batty',
-	7222 => 'foxhat',
-	7223 => 'gargoyle_wing',
-	7224 => 'kakashi',
-	7225 => 'kankurohood',
-	7226 => 'konohahp',
-	7227 => 'mysthp',
-	7228 => 'rockhp',
-	7229 => 'soundhp',
-	7230 => 'yellow_butterfly',
-	7231 => 'magehatpink',
-	7232 => 'fred_auradoamor',
-	7233 => 'fred_dragao',
-	7234 => 'fred_asasdeharpia',
-	7235 => 'fred_skate',
-	7236 => 'fred_asasmecanicas',
-	7237 => 'evil_bone_helm',
-	7238 => 'pvpkinghelm',
-	7239 => 'mayahelm',
-	7240 => 'White_Magic_Eyes',
-	7241 => 'deviltail',
-	7242 => 'fred_elmodehatii',
-	7243 => 'dragon_metal_pink',
-	7244 => 'dragon_metal_purple',
-	7245 => 'dragon_metal_frozen',
-	7246 => 'fred_valkiriedomal',
-	7247 => 'fred_auraring2',
-	7248 => 'fred_auraring3',
-	7249 => 'Vengeance_Wing',
-	7250 => 'fred_chapeudelunatico',
-	7251 => 'Vindicated_Wing',
-	7252 => 'black_kingdom',
-	7253 => 'color_wings',
-	7254 => 'Wings_Of_Avalon',
-	7255 => 'Wings_of_Fate',
-	7256 => 'Malevolent_Wings',
-	7257 => 'ying_Yang',
-	7258 => 'capelo_supremo',
-	7259 => 'gorro_de_flamel',
-	7260 => 'fred_asademetal2',
-	7261 => 'fred_asasdenuvem',
-	7262 => 'fred_asasdevampiro',
-	7263 => 'fred_asasdobemedomal',
-	7264 => 'fred_bonecogatofolha',
-	7265 => 'fred_bonecoincubus',
-	7266 => 'fred_elmosinistro1',
-	7267 => 'fred_mezurashii',
-	7268 => 'fred_orelhaorosa',
-	7269 => 'Back_Sword',
-	7270 => 'belt_of_darkness',
-	7271 => 'belt_of_old_blood',
-	7272 => 'fred_asatosca',
-	7273 => 'fred_asasmeigas',
-	7274 => 'phoenix',
-	7275 => 'Smoke_Screen',
-	7276 => 'Purple_Traveler_Hat',
-	7277 => 'Red_Traveler_Hat',
-	7278 => 'gaaragourd',
-	7279 => 'asasdaretribuicaocolorida',
-	7280 => 'asasdephenixpequena',
-	7281 => 'baracuda_wings',
-	7282 => 'byakugan',
-	7283 => 'fred_asasdainvocacao',
-	7284 => 'fred_asasdedoacao',
-	7285 => 'fred_asasdegelo',
-	7286 => 'fred_asaselementais',
-	7287 => 'Master_Devil_Wings',
-	7288 => 'v_p',
-	7289 => 'sharingan',
-	7290 => 'shiny_wings',
-	7291 => 'Specter_Wing',
-	7292 => 'sniper_wing',
-	7293 => 'lindaasa',
-	7294 => 'anjodamorte',
-	7295 => 'anjodamortebranco',
-	7296 => 'anjodamortevermelho',
-	7297 => 'asasdeborboletacolorida',
-	7298 => 'asasdeborboletamagica',
-	7299 => 'asasdeborboletasupremaazul',
-	7300 => 'asasdecristalazul',
-	7301 => 'asasdecristalrosa',
-	7302 => 'asasdecristalverde',
-	7303 => 'asasdefoice',
-	7304 => 'asasdobem',
-	7305 => 'asasdocaos',
-	7306 => 'asasdodemoniobranca',
-	7307 => 'asasdodemoniovermelha',
-	7308 => 'asasdomal',
-	7309 => 'bencaodedeus',
-	7310 => 'dragaobranco',
-	7311 => 'dragaodefogo',
-	7312 => 'dragaodeouro',
-	7314 => 'dragaorosa',
-	7315 => 'dragaoroxo',
-	7316 => 'dragon_metal_dark',
-	7317 => 'dragaosolar',
-	7318 => 'dragaoverde',
-	7319 => 'asasss',
-	7320 => 'black_death_wing',
-	7321 => 'blue_dark_leaf_wings',
-	7322 => 'Bluly_Fairy',
-	7323 => 'bronze_armor',
-	7324 => 'bronze_manteau',
-	7325 => 'bronze_shield',
-	7326 => 'bronze_shoes',
-	7327 => 'bronze_sword',
-	7328 => 'Purple_Lord_Kaho_Horn',
-	7329 => 'Decaying_Wings',
-	7330 => 'damon_chaos_blade',
-	7331 => 'blueish_wings',
-	7332 => 'godlike_sword',
-	7333 => 'daiguren_2',
-	7334 => 'daiguren_of_old',
-	7335 => 'ninja',
-	7336 => 'dragon_metal_blue',
-	7337 => 'red_death_wing',
-	7338 => 'devils_spirit',
-	7339 => 'bronze_wings',
-	7340 => 'silver_armor',
-	7341 => 'silver_manteau',
-	7342 => 'silver_shield',
-	7343 => 'silver_shoes',
-	7344 => 'silver_sword',
-	7345 => 'black_wolf',
-	7346 => 'Cyan_Lord_Kaho_Horn',
-	7347 => 'Gold_Lord_Kaho_Horn',
-	7348 => 'Green_Lord_Kaho_Horn',
-	7349 => 'Checkered_Cap',
-	7350 => 'white_wolf',
-	7351 => 'blue_wolf',
-	7352 => 'devilwing',
-	7353 => 'godlike_bow',
-	7354 => 'leafwarriorhat',
-	7355 => 'mardukcrown',
-	7356 => 'phoenix_armor',
-	7357 => 'phoenix_bow',
-	7358 => 'phoenix_manteau',
-	7359 => 'phoenix_shield',
-	7360 => 'phoenix_shoes',
-	7361 => 'picachu',
-	7362 => 'pink_w',
-	7363 => 'purple_w',
-	7364 => 'purple_butterfly_wing',
-	7365 => 'mochila_angeling',
-	7366 => 'mochila_archangeling',
-	7367 => 'Hat_Akatsuki',
-	7368 => 'witch_hat',
-	7369 => 'Dark_Blue_Valkyrie_Helm',
-	7370 => 'Dark_Brown_Valkyrie_Helm',
-	7371 => 'Dark_Cyan_Valkyrie_Helm',
-	7372 => 'Dark_Gold_Valkyrie_Helm',
-	7373 => 'Dark_Green_Valkyrie_Helm',
-	7374 => 'Dark_Orange_Valkyrie_Helm',
-	7375 => 'Dark_Pink_Valkyrie_Helm',
-	7376 => 'Dark_Purple_Valkyrie_Helm',
-	7377 => 'Dark_Red_Valkyrie_Helm',
-	7378 => 'Dark_Silver_Valkyrie_Helm',
-	7379 => 'Black_Valkyrie_Helm',
-	7380 => 'Brown_Valkyrie_Helm',
-	7381 => 'Cyan_Valkyrie_Helm',
-	7382 => 'Gold_Valkyrie_Helm',
-	7383 => 'Green_Valkyrie_Helm',
-	7384 => 'Orange_Valkyrie_Helm',
-	7385 => 'Pink_Valkyrie_Helm',
-	7386 => 'Purple_Valkyrie_Helm',
-	7387 => 'Red_Valkyrie_Helm',
-	7388 => 'Silver_Valkyrie_Helm',
-	7389 => 'White_Valkyrie_Helm',
-	7390 => 'New_Black_Valkyrie_Helm',
-	7391 => 'New_Blue_Valkyrie_Helm',
-	7392 => 'New_Brown_Valkyrie_Helm',
-	7393 => 'New_Cyan_Valkyrie_Helm',
-	7394 => 'New_Gold_Valkyrie_Helm',
-	7395 => 'New_Green_Valkyrie_Helm',
-	7396 => 'New_Orange_Valkyrie_Helm',
-	7397 => 'New_Pink_Valkyrie_Helm',
-	7398 => 'New_Purple_Valkyrie_Helm',
-	7399 => 'New_Red_Valkyrie_Helm',
-	7400 => 'New_Silver_Valkyrie_Helm',
-	7401 => 'New_White_Valkyrie_Helm',
-	7402 => 'New_Dark_Blue_Fairy_Wings',
-	7403 => 'New_Dark_Cyan_Fairy_Wings',
-	7404 => 'New_Dark_Gold_Fairy_Wings',
-	7405 => 'New_Dark_Green_Fairy_Wings',
-	7406 => 'New_Dark_Purple_Fairy_Wings',
-	7407 => 'New_Dark_Red_Fairy_Wings',
-	7408 => 'Rastafari_Fairy_Wings',
-	7409 => 'butterfly_wing1',
-	7410 => 'Gold_Butterfly_Wings',
-	7411 => 'Green_Butterfly_Wings',
-	7412 => 'Orange_Butterfly_Wings',
-	7413 => 'Purple_Butterfly_Wings',
-	7414 => 'Red_Butterfly_Wings',
-	7415 => 'Silver_Butterfly_Wings',
-	7416 => 'White_Butterfly_Wings',
-	7417 => 'bandanavermelha',
-	7418 => 'cartoladobarbeirodemoniaco',
-	7419 => 'chapeudecoruja',
-	7420 => 'HavenWingsBlue',
-	7421 => 'HavenWingsDeepGreen',
-	7422 => 'HavenWingsGray',
-	7423 => 'HavenWingsLightGreen',
-	7424 => 'HavenWingsOrange',
-	7425 => 'HavenWingsWhite',
-	7426 => 'baby_angel_wings',
-	7427 => 'blackflare',
-	7428 => 'blueflare',
-	7429 => 'greenflare',
-	7430 => 'purpleflare',
-	7431 => 'redflare',
-	7432 => 'whiteflare',
-	7433 => 'yellowflare',
-	7434 => 'sharingan3',
-	7435 => 'sharingan2',
-	7436 => 'Mangekyou',
-	7437 => 'rinnegan',
-	7438 => 'Tobi_Mask',
-	7439 => 'Akamaru_Hat',
-	7440 => 'z_uraharahat',
-	7441 => 'evila_helm',
-	7442 => 'bbutterfly_wing',
-	7443 => 'wbutterfly_wing',
-	7444 => 'freezy',
-	7445 => 'auraamarela',
-	7446 => 'auraroxa',
-	7447 => 'auraverde',
-	7448 => 'auravermelha',
-	7449 => 'auradamusica',
-	7450 => 'auradanoite',
-	7451 => 'auradecoracoes',
-	7452 => 'aurademarin',
-	7453 => 'auradoporing',
-	7454 => 'Espada_das_Costas_Azul',
-	7455 => 'Espada_das_Costas_Branca',
-	7456 => 'Espada_das_Costas_Negra',
-	7457 => 'Espada_das_Costas_Rosa',
-	7458 => 'Espada_das_Costas_Roxa',
-	7459 => 'Espada_das_Costas_Verde',
-	7460 => 'Espada_das_Costas_Vermelha',
-	7462 => 'bleach',
-	7463 => 'Super_Sayajin',
-	7464 => 'Asas_de_Anjo_Supremo_Verde',
-	7465 => 'Asas_de_Neve_Laranja',
-	7466 => 'Asas_de_Neve_Rosa',
-	7467 => 'Asas_de_Neve_Roxas',
-	7468 => 'Asas_de_Neve_Verdes',
-	7469 => 'Asas_de_Neve_Vermelhas',
-	7470 => 'Asas_de_Anjo_Supremo_Azul',
-	7471 => 'Asas_de_Anjo_Supremo_Roxa',
-	7472 => 'Cachecol_Azul',
-	7473 => 'Cachecol_de_Ouro',
-	7474 => 'Cachecol_de_Zebra',
-	7475 => 'Cachecol_Rosa',
-	7476 => 'Cachecol_Vermelho',
-	7477 => 'Chapeu_de_Ausente',
-	7478 => 'leviatan_infernal',
-	7479 => 'leviatan_sagrado',
-	7480 => 'roupa_capitao',
-	7481 => 'Black_Flame',
-	7482 => 'Coca_Cola',
-	7483 => 'Cyan_Baseball_Cap',
-	7484 => 'Golden_falcon_Wing',
-	7485 => 'Green_Baseball_Cap',
-	7486 => 'Helm_of_Hermes',
-	7487 => 'Hero_Valkyrie',
-	7488 => 'HyegunHat4',
-	7489 => 'Hyegun_Hat',
-	7490 => 'Jason_Mask',
-	7491 => 'Ninja_Hat',
-	7492 => 'Skeggi_Hat',
-	7493 => 'Supreme_God_Helm',
-	7494 => 'Taxi',
-	7495 => 'anbu',
-	7496 => 'beret_black',
-	7497 => 'black_blinker',
-	7498 => 'blue_fairy_wings',
-	7499 => 'cruzro_philippine_butterfly_wings',
-	7500 => 'cruzro_tribal_rings',
-	7501 => 'drooping_white_cat',
-	7502 => 'elder_elven_ears',
-	7503 => 'elder_elven_ears2',
-	7504 => 'elmodosenhordosventos',
-	7505 => 'emay_wings',
-	7506 => 'evilevil',
-	7508 => 'green_fairy_wings',
-	7509 => 'haku_mask',
-	7510 => 'quincy_bow',
-	7511 => 'valiant',
-	7512 => 'littledevilhorns',
-	7513 => 'littledeviltail',
-	7514 => 'littledevilwingslow',
-	7516 => 'Piccolo_Hat',
-	7517 => 'Airth_Goat',
-	7518 => 'red_kaho_horn',
-	7519 => 'an0062',
-	7520 => 'angeling_wing',
-	7521 => 'DEVILING_HAT',
-	7522 => 'ELMO_DO_SENHOR_DOS_VENTOS_BRANCO',
-	7523 => 'BOPE',
-	7524 => 'CHAPEUDECHERIFE',
-	7525 => 'CHAPEUDEMOSQUETEIRO',
-	7526 => 'CHAPEUTONE',
-	7527 => 'ASASDEFADAROXA',
-	7528 => 'CARTOLINHA',
-	7529 => 'CHAPEUDOURAHARA',
-	7530 => 'ASASDEBORBOLETABRANCA',
-	7531 => 'AURADOHEROIBRANCA',
-	7532 => 'AURADOHEROIVERMELHA',
-	7533 => 'asasdefadadegelo',
-	7534 => 'ASASDOTIAMAT',
-	7535 => 'ASINHASDEDRAGAO',
-	7536 => 'CHAPEUDEFANTA',
-	7537 => 'CHAPEUDEFANTAUVA',
-	7539 => 'fantasma',
-	7540 => 'CARTOLACOMCOELHINHO',
-	7541 => 'CHIFRES_MAJESTOSOS_BRANCOS',
-	7542 => 'CHIFRES_MAJESTOSOS_SOMBRIOS',
-	7543 => 'AMBU_DA_VILA_DA_AREIA',
-	7544 => 'CHIFRES_MAJESTOSOS_ARTICOS',
-	7545 => 'CHIFRES_MAJESTOSOS_ROSA',
-	7546 => 'CHIFRES_MAJESTOSOS_VERMELHOS',
-	7547 => 'Atitude_Cap',
-	7548 => 'CARTOLA_HAT',
-	7549 => 'AURA_BRANCA',
-	7550 => 'Black_Baseball_Cap',
-	7551 => 'Green_Baseball_Cap',
-	7552 => 'Purple_Baseball_Cap',
-	7553 => 'Red_Baseball_Cap',
-	7554 => 'White_Baseball_Cap',
-	7555 => 'Not_Bad',
-	7556 => 'Poker_Face',
-	7557 => 'Me_Gusta',
-	7558 => 'GrannyTroll',
-	7559 => 'asasnegrasderitual',
-	7560 => 'fred_espadadefogo',
-	7561 => 'Devils_Helm',
-	7562 => 'dynastywings',
-	7563 => 'ying_wang_domal',
-	7564 => 'Devils_lorny',
-	7565 => 'cavalomarinhoverde',
-	7566 => 'pata_de_gato',
-	7567 => 'retalhadora',
-	7568 => 'Soaring_Bird',
-	7569 => 'esperanca_perdida',
-	7570 => 'Highness_Staff',
-	7571 => 'Freya_Sword',
-	7572 => 'Freya_Pauldron',
-	7573 => 'Freya_Helm',
-	7574 => 'imperial_winged',
-	7575 => 'spookedeyes',
-	7576 => 'imperial_crown',
-	7577 => 'fallen_gladiator_aura',
-	7578 => 'fallen_gladiator_wings',
-	7579 => 'fallen_gladiator_crown',
-	7580 => 'inf_shoulder',
-	7581 => 'inf_wings',
-	7582 => 'inf_crown',
-	7583 => 'Dark_Harbringer_Sword',
-	7584 => 'Dark_Harbringer_Mask',
-	7585 => 'Dark_Harbringer_Helm',
-	7586 => 'sayayin_aura',
-	7587 => 'olhos_azul',
-	7588 => 'olhos_cinza',
-	7589 => 'olhos_vermelho',
-	7590 => 'olhos_roxo',
-	7591 => 'olhos_azulclaro',
-	7592 => 'olhos_rosa',
-	7593 => 'olhos_amarelo',
-	7594 => 'olhos_verdes',
-	7595 => 'olhos_laranja',
-	7596 => 'asasdedragaoverde',
-	7597 => 'elmodedragaoverde',
-	7598 => 'asasdomorcegodemonio',
-	7599 => 'ash_cap',
-	7600 => 'Desfarce_Supremo',
-	7601 => 'asa_do_dragao_esqueleto',
-	7602 => 'asa_suprema_cristalina',
-	7603 => 'asa_robotica',
-	7604 => 'asa_flamejante',
-	7605 => 'asasdoimperadordracula',
-	7606 => 'asasdoespaco',
-	7607 => 'Coroa_do_Deus_Marinho',
-	7608 => 'coroa_do_farao',
-	7609 => 'zangetsu',
-	7610 => 'elmodarandgris',
-	7611 => 'elmodeasas',
-	7612 => 'fred_tocalux',
-	7613 => 'garras_de_octopus',
-	7614 => 'pincer_arms',
-	7615 => 'asasdavalquiria',
-	7617 => 'dhva',
-	7618 => 'dhvb',
-	7619 => 'dhvc',
-	7620 => 'dhvd',
-	7621 => 'dhvf',
-	7622 => 'elmocompenas',
-	7623 => 'asa_de_angeling_vermelha',
-	7624 => 'asa_de_angeling_azul',
-	7625 => 'asa_de_angeling_verde',
-	7626 => 'asa_de_anjo_azul',
-	7627 => 'asa_de_anjo_vermelha',
-	7628 => 'asas_de_fenix_real_azul',
-	7629 => 'asas_de_fenix_real_vermelha',
-	7630 => 'auradeneve',
-	7631 => 'Black_Feather_Beret',
-	7632 => 'Gold_Feather_Beret',
-	7633 => 'Green_Feather_Beret',
-	7634 => 'Pink_Feather_Beret',
-	7635 => 'Purple_Feather_Beret',
-	7636 => 'Red_Feather_Beret',
-	7637 => 'White_Feather_Beret',
-	7638 => 'Black_Smoke_Screen',
-	7639 => 'black_wolf_helm',
-	7640 => 'white_wolf_helm',
-	7641 => 'wolf_helm',
-	7642 => 'blue_black_valk',
-	7643 => 'bone_azul',
-	7644 => 'Bone_branco',
-	7645 => 'Boneca_de_Menina',
-	7646 => 'bonecadakiki',
-	7647 => 'bonecadaprincesaloira',
-	7648 => 'Boneco_de_Coelhinho',
-	7649 => 'Boneco_de_Panda',
-	7650 => 'bonecodecoelhinho',
-	7651 => 'bonecodelolikitty',
-	7652 => 'gorrodenataldovaqueiro',
-	7653 => 'gorrodeurso',
-	7654 => 'Heart_Sunglasses',
-	7655 => 'holy_death_wings',
-	7656 => 'Chapeu_de_Demonio',
-	7657 => 'bonecodoinvestigador',
-	7658 => 'bonecodopikachu',
-	7659 => 'bopebranco',
-	7660 => 'bopevermelho',
-	7661 => 'bopeazul',
-	7662 => 'cartoladomagoamarela',
-	7663 => 'cartoladomagoazul',
-	7664 => 'cartoladomagoverde',
-	7665 => 'cartoladomagovermelho',
-	7666 => 'Chapeu_da_Sakura',
-	7667 => 'Chapeu_da_Sakura_Azul',
-	7668 => 'Chapeu_da_Sakura_Rosa',
-	7669 => 'Chapeu_de_Lutie',
-	7670 => 'Chapeu_de_Pochi_Verde',
-	7671 => 'chapeu_de_poring_aquatico',
-	7672 => 'Chapeu_Fashion_Preto',
-	7673 => 'Chapeu_Magico_Vermelho',
-	7674 => 'Chapeu_Magico_rosa',
-	7675 => 'Chapeu_Magico_artico',
-	7676 => 'chapeudeemoticon',
-	7677 => 'chapeufrancesverde',
-	7678 => 'chapeuroxo',
-	7679 => 'circuloderosas',
-	7680 => 'elmo_abencoado',
-	7681 => 'Elmo_de_Valkyria_Azul',
-	7682 => 'Elmo_do_Dragao_do_Sol_Branco',
-	7683 => 'Elmo_do_Dragao_do_Sol_Negro',
-	7684 => 'Elmo_do_Dragao_do_Sol_Preto',
-	7685 => 'Elmo_do_Dragao_do_Sol_Rosa',
-	7686 => 'Elmo_do_Dragao_do_Sol_Roxo',
-	7687 => 'Elmo_do_Dragao_do_Sol_Vermelho',
-	7688 => 'Elmo_dos_Deuses',
-	7689 => 'elmodelobobranco',
-	7690 => 'emodoll',
-	7691 => 'fred_boinagay',
-	7692 => 'fred_cartolabranca',
-	7693 => 'pink_valkyrie_helm',
-	7694 => 'ligth_blue_valk',
-	7695 => 'golden_valk',
-	7696 => 'mascaradedragaodomar',
-	7697 => 'New_Baseball_Cap',
-	7698 => 'New_Black_Baseball_Cap',
-	7699 => 'New_Blue_Baseball_Cap',
-	7700 => 'New_Gold_Baseball_Cap',
-	7701 => 'New_Green_Baseball_Cap',
-	7702 => 'New_Purple_Baseball_Cap',
-	7703 => 'New_Red_Baseball_Cap',
-	7704 => 'New_White_Baseball_Cap',
-	7705 => 'Olhos_de_Siuseiseki',
-	7706 => 'Olhos_do_Inuyasha',
-	7707 => 'Olhos_de_Jagan',
-	7708 => 'Orelhas_de_Gato_Flamejantes',
-	7709 => 'Orelhas_de_Gato_Brancas',
-	7710 => 'Orelhas_de_Gato_Articas',
-	7711 => 'luffy_hat',
-	7712 => 'dragao_do_fogo',
-	7713 => 'Dragao_do_vento',
-	7714 => 'Dragao_selestial',
-	7715 => 'purple_buterfly',
-	7716 => 'red_buterfly',
-	7718 => 'Furry_Black_Coat',
-	7719 => 'Furry_Blue_Coat',
-	7720 => 'Furry_Gold_Coat',
-	7721 => 'Furry_Green_Coat',
-	7722 => 'Furry_Pink_Coat',
-	7723 => 'Furry_White_Coat',
-	7724 => 'chineseknot',
-	7725 => 'darkelemental',
-	7726 => 'runesofpower',
-	7727 => 'Saron',
-	7728 => 'Snow_Beanie',
-	7729 => 'Snow_Goggles',
-	7730 => 'Snowboard',
-	7731 => 'SuperSaiya4',
-	7732 => 'taini_hat',
-	7733 => 'asas_do_capetinha_azul',
-	7734 => 'asas_do_capetinha_branca',
-	7735 => 'asas_do_capetinha_preta',
-	7736 => 'asas_do_capetinha_rosa',
-	7737 => 'asas_do_capetinha_roxa',
-	7738 => 'deathangel',
-	7739 => 'earthelemental',
-	7740 => 'Fox_God_01',
-	7741 => 'kyuubitail',
-	7742 => 'NightScarf',
-	7743 => 'pzetsu',
-	7744 => 'Rain_Ring',
-	7745 => 'robinhands',
-	7746 => 'sniper1',
-	7747 => 'War_Helm_Of_Flame',
-	7748 => 'War_Helm_Of_Horn',
-	7749 => 'waterelemental',
-	7750 => 'windelemental',
-	7751 => 'Zero_Helm',
-	7752 => 'asa_de_borboleta_natural',
-	7753 => 'Bencao_de_Deus_Hat',
-	7754 => 'Bloddy_Diamond_Wing',
-	7755 => 'bunny_ears',
-	7756 => 'Eclipse_Wing',
-	7757 => 'elmo_das_valkirias_vermelho',
-	7758 => 'Extreme_Wing',
-	7759 => 'golden_black_valk',
-	7760 => 'Incandescence_Wing',
-	7761 => 'Ocean_Wing',
-	7762 => 'valk_branco',
-	7763 => 'valk_marron',
-	7764 => 'valk_preto',
-	7765 => 'Veu_de_Noiva',
-	7766 => 'amethyst',
-	7767 => 'aquamarine',
-	7768 => 'bl',
-	7769 => 'eme',
-	7770 => 'padparadscha',
-	7771 => 'paraiba',
-	7772 => 'peridot',
-	7773 => 'ruby',
-	7774 => 'sapphire',
-	7775 => 'white',
-	7776 => 'Animated_Angel_Wings',
-	7777 => 'Animated_Angeling_Hat',
-	7778 => 'Animated_Drops_Hat',
-	7779 => 'Animated_Marin_Hat',
-	7780 => 'Animated_Poporing_Hat',
-	7781 => 'Black_Animated_Angel_Wings',
-	7782 => 'Black_Bag',
-	7783 => 'Black_Beanie',
-	7784 => 'Black_Bell_Ribbon',
-	7785 => 'Black_Blush',
-	7786 => 'Black_Cyclop_Eye',
-	7787 => 'black_death_beanie',
-	7788 => 'Black_Evolved_Majestic_Goat',
-	7789 => 'Black_Evolved_Rabbits_Headband',
-	7790 => 'Black_Frog_King_Hat',
-	7791 => 'Black_Gangster_Scarf',
-	7792 => 'Black_Glasses',
-	7793 => 'Black_Hunter_Cap',
-	7794 => 'Black_Kakashi_Mask',
-	7795 => 'Black_Love_Dad_Bandana',
-	7796 => 'Black_Love_Daddy_Hat',
-	7797 => 'Black_Note_Headphones',
-	7798 => 'Black_Pirate_Hat',
-	7799 => 'Black_Red_Tiraya_Bonnet',
-	7800 => 'Black_Tie',
-	7801 => 'Black_Tiraya_Bonnet',
-	7802 => 'Black_Twin_Pompom',
-	7803 => 'Black_Valkyrja_Helm',
-	7804 => 'black_wm',
-	7805 => 'blackromanticrose',
-	7806 => 'Blue_Animated_Angel_Wings',
-	7807 => 'Blue_Bell_Ribbon',
-	7808 => 'Blue_Cyclop_Eye',
-	7809 => 'Blue_Evolved_Majestic_Goat',
-	7810 => 'Blue_Evolved_Rabbits_Headband',
-	7811 => 'Blue_Frog_King_Hat',
-	7812 => 'Blue_Gangster_Scarf',
-	7813 => 'Blue_Glasses',
-	7814 => 'Blue_Helm_of_Baal',
-	7815 => 'Blue_Hunter_Cap',
-	7816 => 'Blue_Love_Dad_Bandana',
-	7817 => 'Blue_Love_Daddy_Hat',
-	7819 => 'Blue_Tie',
-	7820 => 'Blue_Tiraya_Bonnet',
-	7821 => 'Blue_Twin_Pompom',
-	7822 => 'blue_wm',
-	7823 => 'blueflame',
-	7824 => 'blur_twin_pompom',
-	7825 => 'Brown_Tie',
-	7826 => 'brown_wm',
-	7827 => 'bubblegum_blue',
-	7828 => 'bubblegum_green',
-	7829 => 'bubblegum_pink',
-	7830 => 'Cyan_Animated_Angel_Wings',
-	7831 => 'Cyan_Beanie',
-	7832 => 'Cyan_Bell_Ribbon',
-	7833 => 'Cyan_Cyclop_Eye',
-	7834 => 'Cyan_Evolved_Majestic_Goat',
-	7835 => 'Cyan_Evolved_Rabbits_Headband',
-	7836 => 'Cyan_Frog_King_Hat',
-	7837 => 'Cyan_Gangster_Scarf',
-	7838 => 'Cyan_Glasses',
-	7839 => 'Cyan_Helm_of_Baal',
-	7840 => 'Cyan_Hunter_Cap',
-	7841 => 'Cyan_Kakashi_Mask',
-	7842 => 'Cyan_Love_Dad_Bandana',
-	7843 => 'Cyan_Love_Daddy_Hat',
-	7844 => 'Cyan_Note_Headphones',
-	7845 => 'Cyan_Pirate_Hat',
-	7846 => 'Cyan_Scarf',
-	7847 => 'Cyan_Tie',
-	7848 => 'Cyan_Tiraya_Bonnet',
-	7849 => 'Cyan_Twin_Pompom',
-	7850 => 'Cyan_Valkyrja_Helm',
-	7851 => 'Evolved_Majestic_Goat',
-	7852 => 'Evolved_Rabbits_Headband',
-	7853 => 'Flowers_Love',
-	7854 => 'Frog_King_Hat',
-	7855 => 'Gold_Animated_Angel_Wings',
-	7856 => 'Gold_Beanie',
-	7857 => 'Gold_Bell_Ribbon',
-	7858 => 'Gold_Blush',
-	7859 => 'Gold_Cyclop_Eye',
-	7860 => 'Gold_Evolved_Majestic_Goat',
-	7861 => 'Gold_Evolved_Rabbits_Headband',
-	7862 => 'Gold_Frog_King_Hat',
-	7863 => 'Gold_Gangster_Scarf',
-	7864 => 'Gold_Glasses',
-	7865 => 'Gold_Helm_of_Baal',
-	7866 => 'Gold_Hunter_Cap',
-	7867 => 'Gold_Kakashi_Mask',
-	7868 => 'Gold_Love_Daddy_Hat',
-	7869 => 'Gold_Note_Headphones',
-	7870 => 'Gold_Pirate_Hat',
-	7871 => 'Gold_Tie',
-	7872 => 'Gold_Tiraya_Bonnet',
-	7873 => 'Gold_Valkyrja_Helm',
-	7874 => 'golden_helm',
-	7875 => 'golden_romantic_rose',
-	7876 => 'Green_Animated_Angel_Wings',
-	7877 => 'Green_Beanie',
-	7878 => 'Green_Bell_Ribbon',
-	7879 => 'Green_Cyclop_Eye',
-	7880 => 'Green_Evolved_Majestic_Goat',
-	7881 => 'Green_Evolved_Rabbits_Headband',
-	7882 => 'Green_Gangster_Scarf',
-	7883 => 'Green_Glasses',
-	7884 => 'Green_Helm_of_Baal',
-	7885 => 'Green_Hunter_Cap',
-	7886 => 'Green_Kakashi_Mask',
-	7887 => 'Green_Love_Dad_Bandana',
-	7888 => 'Green_Love_Daddy_Hat',
-	7889 => 'Green_Note_Headphones',
-	7890 => 'Green_Pirate_Hat',
-	7891 => 'Green_Scarf',
-	7892 => 'Green_Tie',
-	7893 => 'Green_Tiraya_Bonnet',
-	7894 => 'Green_Twin_Pompom',
-	7895 => 'Green_Valkyrja_Helm',
-	7896 => 'green_wm',
-	7897 => 'Halloween_Scarf',
-	7898 => 'Helm_of_Baal',
-	7899 => 'helm_of_nature',
-	7900 => 'Helm_of_old_Blood',
-	7901 => 'Kakashi_Mask',
-	7902 => 'lightblue_wm',
-	7903 => 'Love_Dad_Bandana',
-	7904 => 'Love_Daddy_Hat',
-	7905 => 'Mascara_Poring',
-	7906 => 'Orange_Tie',
-	7907 => 'Pink_Tie',
-	7908 => 'Pink_Twin_Pompom',
-	7909 => 'Purple_Animated_Angel_Wings',
-	7910 => 'Purple_Beanie',
-	7911 => 'Purple_Bell_Ribbon',
-	7912 => 'Purple_Blush',
-	7913 => 'Purple_Cyclop_Eye',
-	7914 => 'Purple_Evolved_Majestic_Goat',
-	7915 => 'Purple_Evolved_Rabbits_Headband',
-	7916 => 'Purple_Frog_King_Hat',
-	7917 => 'Purple_Gangster_Scarf',
-	7918 => 'Purple_Glasses',
-	7920 => 'Purple_Hunter_Cap',
-	7921 => 'Purple_Kakashi_Mask',
-	7922 => 'Purple_Love_Dad_Bandana',
-	7923 => 'Purple_Love_Daddy_Hat',
-	7924 => 'Purple_Note_Headphones',
-	7925 => 'Purple_Pirate_Hat',
-	7926 => 'Purple_Scarf',
-	7927 => 'Purple_Tie',
-	7928 => 'Purple_Tiraya_Bonnet',
-	7929 => 'Purple_Twin_Pompom',
-	7930 => 'Purple_Valkyrja_Helm',
-	7931 => 'purple_wm',
-	7932 => 'Rastafarai_Tiraya_Bonnet',
-	7933 => 'Red_Animated_Angel_Wings',
-	7934 => 'Red_Beanie',
-	7935 => 'Red_Cyclop_Eye',
-	7936 => 'Red_Evolved_Majestic_Goat',
-	7937 => 'Red_Frog_King_Hat',
-	7938 => 'Red_Helm_of_Baal',
-	7939 => 'Red_Hunter_Cap',
-	7940 => 'Red_Kakashi_Mask',
-	7941 => 'Red_Love_Dad_Bandana',
-	7942 => 'Red_Love_Daddy_Hat',
-	7943 => 'Red_Note_Headphones',
-	7944 => 'Red_Pirate_Hat',
-	7945 => 'Red_Scarf',
-	7946 => 'Red_Tie',
-	7947 => 'Red_Tiraya_Bonnet',
-	7948 => 'Red_Valkyrja_Helm',
-	7949 => 'romanticflower_blue',
-	7950 => 'romanticflower_purple',
-	7951 => 'romanticflower_red',
-	7952 => 'Silver_Tie',
-	7953 => 'Tiraya_Bonnet',
-	7954 => 'White_Bell_Ribbon',
-	7955 => 'White_Blush',
-	7956 => 'White_Cyclop_Eye',
-	7957 => 'White_Evolved_Majestic_Goat',
-	7958 => 'White_Evolved_Rabbits_Headband',
-	7959 => 'White_Frog_King_Hat',
-	7960 => 'White_Gangster_Scarf',
-	7961 => 'White_Glasses',
-	7962 => 'White_Helm_of_Baal',
-	7963 => 'White_Hunter_Cap',
-	7964 => 'White_Kakashi_Mask',
-	7965 => 'White_Love_Dad_Bandana',
-	7966 => 'White_Love_Daddy_Hat',
-	7967 => 'White_Note_Headphones',
-	7968 => 'White_Pirate_Hat',
-	7969 => 'White_Tie',
-	7970 => 'White_Tiraya_Bonnet',
-	7971 => 'White_Twin_Pompom',
-	7972 => 'White_Valkyrja_Helm',
-	7973 => 'white_wm',
-	7974 => 'yellow_wm',
-	7975 => '30145',
-	7976 => '30164',
-	7977 => 'odinsword',
-	7978 => '30165',
-	7979 => '30166',
-	7980 => '30167',
-	7981 => '30168',
-	7982 => '30169',
-	7983 => 'St_Patrick_Hat',
-	7984 => 'Black_Flaming_Fairy_Wings',
-	7985 => 'Blue_Flaming_Fairy_Wings',
-	7986 => 'Red_Flaming_Fairy_Wings',
-	7987 => 'Shadow_Ultimate_Wing',
-	7988 => 'bonecosdoenforcamento',
-	7989 => 'Capa_Black_Devil',
-	7990 => 'Capa_Bloody',
-	7991 => 'Capa_Deep_Blue',
-	7992 => 'Capa_Force_Nature',
-	7993 => 'Capa_Peace',
-	7994 => 'Capa_FireWolf',
-	7995 => 'Elmo_do_Dragao_Infernal',
-	7996 => 'espada_do_dragao',
-	7997 => 'thanatos',
-	7998 => 'ultima',
-	7999 => 'blood',
-	8000 => 'buster_cloud',
-	10492 => 'aquariano',
-	10493 => 'Elven_Ears_Earrings',
-	10494 => 'Purple_Elven_Ears_Earrings',
-	10495 => 'aerials_beta',
-	10496 => 'archdevil_aura',
-	10497 => 'archdevil_helm',
-	10498 => 'archdevil_wings',
-	10499 => 'asas_anjo_da_morte2',
-	10500 => 'asas_celestiais2',
-	10501 => 'asasdeborboletamagica2',
-	10502 => 'Beast_Head',
-	10503 => 'Beast_Taurus',
-	10504 => 'Beast_Wings',
-	10505 => 'black_blinker2',
-	10506 => 'blades_of_sparda',
-	10507 => 'bleach2',
-	10508 => 'blueangelwings',
-	10509 => 'chakra_destiny',
-	10510 => 'Circulo_de_Poder',
-	10511 => 'cruzro_tribal_rings2',
-	10512 => 'Demon_Fox_Cloak',
-	10513 => 'elder_elven_ears22',
-	10514 => 'fred_dragao2',
-	10515 => 'Gear_0868',
-	10516 => 'Gear_0870',
-	10517 => 'Gear0899',
-	10518 => 'Gear0900',
-	10519 => 'Gear0901',
-	10520 => 'Gear0902',
-	10521 => 'Gear0903',
-	10522 => 'Glurious_Wing',
-	10523 => 'grandfairywing',
-	10524 => 'helm_of_destiny',
-	10525 => 'kaura',
-	10526 => 'MBlaze_Aura',
-	10527 => 'MBlaze_Crown',
-	10528 => 'MBlaze_Wings',
-	10529 => 'phoenixaura',
-	10530 => 'phoenixcrown',
-	10531 => 'phoenixwing',
-	10532 => 'Purple_Chakra',
-	10533 => 'redswordaura',
-	10534 => 'Rune_Of_Thunder',
-	10535 => 'SC450',
-	10536 => 'tbc_hat_1660',
-	10537 => 'tbc_hat_1661',
-	10538 => 'tyrael_wings',
-	10539 => 'violentangelwing',
-	10540 => 'wizring',
-	10541 => 'yellowaura'
+	708 => '하트리본머리띠'
 );

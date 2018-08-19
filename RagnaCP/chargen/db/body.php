@@ -84,5 +84,5 @@ return array(
 
 	4211 => "kagerou", //Job_Kagerou	4211
 	4212 => "oboro",    //Job_Oboro	4212
-	4218 => "วับน"    //Job_Doram	4218
+	4218 => "summoner"    //Job_Doram	4218
 );

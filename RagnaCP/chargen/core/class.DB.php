@@ -104,13 +104,13 @@ final class DB
 	static public function get_body_pal_path($id,$sex,$pal)
 	{
 		$sex = self::$ascii_sex[$sex];
-		/*
+
 		if( empty(self::$pals) ) {
-			self::$pals    = "body"//require_once( self::$path . 'pals.php');
+			self::$pals    = require_once( self::$path . 'pals.php');
 		}
-		*/
-		if ( $pal/* && isset(self::$pals[$id]) */) {
-			return "data/palette/\xb8\xf6/body_{$pal}.pal";
+
+		if ( $pal && isset(self::$pals[$id]) ) {
+			return "data/palette/\xb8\xf6/". self::$pals[$id] ."_{$sex}_{$pal}.pal";
 		}
 
 		return false;
@@ -136,7 +136,7 @@ final class DB
 	static public function get_head_pal_path($id,$sex,$pal)
 	{
 		$sex = self::$ascii_sex[$sex];
-		return $pal ? "data/palette/\xb8\xd3\xb8\xae/head_{$pal}.pal" : false;
+		return $pal ? "data/palette/\xb8\xd3\xb8\xae/\xb8\xd3\xb8\xae{$id}_{$sex}_{$pal}.pal" : false;
 	}
 
 	// Return hat path

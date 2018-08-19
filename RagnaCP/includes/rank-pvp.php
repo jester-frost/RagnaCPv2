@@ -6,7 +6,7 @@
     <div class='carousel'>
         <div class='carousel-inner'>
             <ul>
-            <?php foreach ($dados as $dado ) :?>
+            <?php $i=0; foreach ($dados as $dado ) : $i++; ?>
                 <li>
                     <div>
                         <span class="char clearfix"><?php $info = char_info($con, $dado->char_id);?></span>
@@ -14,6 +14,7 @@
                             <span>Matou: <?php echo $dado->kills;?></span>
                             <span>Morreu: <?php echo $dado->deaths;?></span>
                         </div>
+                        <p><?php echo $i; ?></p>
                     </div>
                 </li>
             <?php endforeach;?>

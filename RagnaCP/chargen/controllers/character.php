@@ -111,18 +111,16 @@ class Character_Controller extends Controller {
 	{
 		// Load Class and set parameters
 		$chargen                 =  new CharacterRender();
-		$chargen->action         =  $action    == -1 ? CharacterRender::ACTION_IDLE   : intval($action);
-		$chargen->direction      =  $animation == -1 ? CharacterRender::DIRECTION_SOUTH : intval($animation);
-		$chargen->body_animation =  0;
+		$chargen->action         =  $action    == -1 ? CharacterRender::ACTION_READYFIGHT   : intval($action);
+		$chargen->direction      =  $animation == -1 ? CharacterRender::DIRECTION_SOUTHEAST : intval($animation);
+		$chargen->body_animation =  4;
 		$chargen->doridori       =  0;
 
 		// Generate Image
 		$chargen->loadFromSqlData($data);
-		$img	= $chargen->render();
-		$output	= imagecreate( 128, 128 );
-		imagecopy( $output, $img, 7, 7, 35+7, 65+7, imagesx($img)-14, imagesx($img)-14 );
+		$img  = $chargen->render();
 
-		imagepng($output);
+		imagepng($img);
 	}
 
 }

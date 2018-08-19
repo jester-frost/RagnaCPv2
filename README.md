@@ -13,7 +13,7 @@ Os temas deverão ficar na pasta themes dentro de wordpress/wp-content
 	SimpleXML habilitado ( Para o PagSeguro )
 	
 # Colabore
-Se deseja nos apoiar com desenvolvimeno desse projeto faça uma doação.
+Se deseja nos apoiar com desenvolvimeno desse projeto faça uma doação.<br>
 <a rel="donate" href="https://pag.ae/bhC5mN6"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-azul.gif" alt=""></a>
 	
 # licença

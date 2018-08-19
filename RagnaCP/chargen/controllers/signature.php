@@ -122,6 +122,21 @@ class Signature_Controller extends Controller {
 		$chargen->direction      =  CharacterRender::DIRECTION_SOUTHEAST;
 		$chargen->body_animation =  0;
 		$chargen->doridori       =  0;
+		
+		// Doram Heads
+		$doran_heads = array(
+			1 => 31,
+			2 => 32,
+			3 => 33,
+			4 => 34,
+			5 => 35,
+			6 => 36,
+		);
+
+		if( $data['class'] == 4218 || $data['class'] == 4220 ){
+			$data['hair'] = $doran_heads[$data['hair']];
+		}
+
 		$chargen->loadFromSqlData($data);
 
 

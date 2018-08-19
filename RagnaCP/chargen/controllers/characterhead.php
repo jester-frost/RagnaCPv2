@@ -110,6 +110,21 @@ class CharacterHead_Controller extends Controller {
 		$chargen->direction      =  CharacterHeadRender::DIRECTION_SOUTH;
 		$chargen->doridori       =  2;
 
+		// Doram Heads
+		$doran_heads = array(
+			1 => 31,
+			2 => 32,
+			3 => 33,
+			4 => 34,
+			5 => 35,
+			6 => 36,
+		);
+
+		if( $data['class'] == 4218 || $data['class'] == 4220 ){
+			$data['hair'] = $doran_heads[$data['hair']];
+		}
+
+
 		// Generate Image
 		$chargen->loadFromSqlData($data);
 		$img  = $chargen->render();

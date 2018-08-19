@@ -475,10 +475,26 @@ background: #5B9EE7; */
     float: left;
     text-align: center;
     width: 100%;
+    position: relative;
 }
 .info p {
     margin:0;
     line-height: 12px;
+}
+.info > p {
+    background: #9cadde;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    color: #fff;
+    border-radius: 50%;
+    line-height: 19px;
+    border: 2px solid #fff;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.8);
+    top: -34px;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 #conteudo .info {
     float: none;

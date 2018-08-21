@@ -87,6 +87,12 @@
     $points_for_click = 3;
     //
     //
+        $link_array = array(
+            1 => "http://www.topservers200.com/in.php?id=15873",
+            2 => "http://www.topragnarok.com.br/index.php?s=vote&id=22134",
+            3 => "http://www.topragnarok100.com.br/votar/rgcrashers",
+        );
+        $links = $link_array;
         if ($vote_points) {
             // Tempo de votação 24 Horas
             $tempo = 24; // equivalente a 24 horas
@@ -102,14 +108,6 @@
             PRIMARY KEY (`account_id`)
             ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
             */
-
-            $link_array = array(
-                1 => "http://www.topservers200.com/in.php?id=15873",
-                2 => "http://www.topragnarok.com.br/index.php?s=vote&id=22134",
-                3 => "http://www.topragnarok100.com.br/votar/rgcrashers",
-            );
-
-            $links = $link_array;
         }
     //
     //

@@ -27,9 +27,9 @@ endif;
 			<div class="box">
 				<h5 class="box-title">Ajude-nos votando</h5>
 				<div class="spacer">
-					<a href="<?php echo $link1;?>" target="_blank" class="vote-link " ><img src="<?php bloginfo(template_url) ?>/images/top200.jpg" border="0" title="Vote em nosso servidor!"></a>
-					<a href="<?php echo $link2;?>" target="_blank" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
-					<a href="<?php echo $link3;?>" target="_blank" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
+					<a href="<?php echo $links[1];?>" target="_blank" class="vote-link " ><img src="<?php bloginfo(template_url) ?>/images/top200.jpg" border="0" title="Vote em nosso servidor!"></a>
+					<a href="<?php echo $links[2];?>" target="_blank" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
+					<a href="<?php echo $links[3];?>" target="_blank" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
 				</div>
 			</div>
 	<?php endif; ?>

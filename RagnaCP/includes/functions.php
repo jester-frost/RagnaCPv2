@@ -751,7 +751,7 @@
 	// Cadastrar Function
 	/*====================================================*/
 
-	function registrar($con, $userid, $user_pass, $confirm_user_pass, $email, $sex, $date, $letters){
+	function registrar($con, $userid, $user_pass, $confirm_user_pass, $email, $sex, $date, $letters, $md5){
 		$dados=array(':userid'=>$userid);
 		$search_player_query = $con->prepare("SELECT * FROM login WHERE userid=:userid");
 		$search_player_query->execute($dados);
@@ -761,7 +761,10 @@
 		} elseif ($_POST["user_pass"] == $_POST["confirm_user_pass"]){
 			$userid=str_replace(array($letters), "", $userid);
 		    $user_pass=str_replace(array($letters), "", $user_pass);
-		   if ($userid != "" && $user_pass != "") {
+		    if($md5){
+		    	$user_pass = md5($user_pass);
+		    }
+		    if ($userid != "" && $user_pass != "") {
 				/* Mandando variaveis para um array associativo (dicionario igual do python) */
 				$cadastrar=array(':userid'=>$userid, ':user_pass'=>$user_pass, ':sex'=>$sex, ':email'=>$email, ':birthdate'=>$date);
 				$add_player_query = $con->prepare("INSERT INTO `login`(userid,user_pass,email,sex,birthdate) VALUES(:userid, :user_pass, :email, :sex, :birthdate) ");

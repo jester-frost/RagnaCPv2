@@ -595,7 +595,7 @@
 		$accid=array(':account_id'=>$acc_id);
 		$search_vote_update = $con->prepare('SELECT `point`, `last_vote'.$site.'` FROM `vote_point` WHERE account_id=:account_id');
 		$search_vote_update->execute($accid);
-		$vote=$search_vote_update->fetchall(PDO::FETCH_OBJ);
+		$vote=$search_vote_update->fetchAll(PDO::FETCH_OBJ);
 		$date = new DateTime();
 
 		// verificando se o cidadão ja votou
@@ -616,8 +616,6 @@
 				$search_vote_update->execute($accid);
 				$votes = "Ganhou +".$points_for_click." pontos";
 				$url = array_values($links)[$site-1];
-				print_r( $url );
-				die();
 				abrelink($url);
 			}else{
 				// alguns servidores podem nao efetuar a operação $last_time = (60 * 60 * $tempo) - time() - $last_vote ;
@@ -637,6 +635,7 @@
 		// retorna as mensagens*/
 		return $votes;
 	}
+
 
 
 

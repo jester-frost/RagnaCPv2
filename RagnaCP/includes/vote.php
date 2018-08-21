@@ -7,7 +7,7 @@ if ( $_SESSION["usuario"] ) :
         	$acc_id = preg_replace('/[^[:alnum:]_]/', '',$account_id);
         	$acc_id = str_replace($letters, "", $acc_id);
         	$site = $_GET['link'];
-        	$votes = vote_points($con, $site, $acc_id, $points_per_click, $tempo, $links);
+        	$votes = vote_points($con, $site, $acc_id, $points_for_click, $tempo, $links);
         break;
     }
 endif;

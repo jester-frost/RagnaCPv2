@@ -622,19 +622,19 @@
 				$votes = "Não ganhou pontos <br>";
 				$faltam = date("H:i:s", mktime(0, 0, ( (60 * 60 * $tempo) - time() + $last_vote ) ) );
 				$votes .= " faltam ".$faltam. " para votar novamente.";
-
 			}
 		// se não votou vai cair aqui
 		} else {
-			/*$vote_query = $con->prepare('INSERT INTO `vote_point`(`account_id`, `point`, `last_vote'.$site.'`,`date`) VALUES (:account_id,'.$points_for_click.','.time().',"'.$date->format('d-m-y H:i').'")');
+			$vote_query = $con->prepare('INSERT INTO `vote_point`(`account_id`, `point`, `last_vote'.$site.'`,`date`) VALUES (:account_id,'.$points_for_click.','.time().',"'.$date->format('d-m-y H:i').'")');
 			$vote_query->execute($accid);
-			$votes = "Ganhou +".$points_per_click." pontos"; */
+			$votes = "Ganhou +".$points_per_click." pontos";
 			$url = array_values($links)[$site-1];
 			abrelink($url);
 		}
 		// retorna as mensagens*/
 		return $votes;
 	}
+
 
 
 

@@ -31,6 +31,15 @@ jQuery(function(){
       slidesToScroll: 1
     });
 
+    $('.banner ul ').slick({
+      infinite: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      arrows:false,
+      autoplay: true,
+      autoplaySpeed: 2000
+    });
+
     $( ".error, .error-msg, .sucess-msg" ).hover(function() {
       $( this ).fadeOut( 500 );
     });

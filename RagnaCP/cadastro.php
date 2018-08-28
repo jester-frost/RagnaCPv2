@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Cadastro ] */
-    include("includes/functions.php");
-    require "includes/config.php";
+    include ( get_template_directory() . "/includes/functions.php");
+    require ( get_template_directory() . "/includes/config.php");
     if(!empty($_POST) and (isset($_POST["cadastrar"]))){
         $account_id = str_replace($letters, "", $_POST[""]);
         $userid = LimparTexto($letters, $_POST["userid"]);

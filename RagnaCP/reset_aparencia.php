@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Resetar aparencia ] */
-include_once 'includes/functions.php';
-require "includes/config.php";
+include_once ( get_template_directory() . '/includes/functions.php');
+require ( get_template_directory() . '/includes/config.php');
 if ( $_SESSION['usuario'] ):
     switch ($_GET['modo']) {
         case 'reset_hair':

@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Mudar Senha ] */
-include_once 'includes/functions.php';
-require "includes/config.php";
+include_once ( get_template_directory() . '/includes/functions.php');
+require ( get_template_directory() . '/includes/config.php');
 if ( $_SESSION['usuario'] ):
     if( !empty($_POST) and isset($_POST["mudar_senha"] ) ) {
         $userid = str_replace($letters, "", $_SESSION['usuario']->userid);

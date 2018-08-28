@@ -6,8 +6,8 @@
  * @subpackage RagnaCP
  * @since RagnaCP 2.0
  */
-include_once 'includes/config.php'; // loads config variables
-include_once 'includes/functions.php';
+include_once ( get_template_directory() . '/includes/config.php'); // loads config variables
+include_once ( get_template_directory() . '/includes/functions.php');
 get_header(); ?>
 <section class="conteudo limit">
     <aside class="left">

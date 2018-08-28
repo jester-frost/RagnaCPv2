@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Criar Personagem ] */
-include_once 'includes/config.php'; // loads config variables
-include_once 'includes/functions.php';
+include_once ( get_template_directory() . '/includes/config.php'); // loads config variables
+include_once ( get_template_directory() . '/includes/functions.php');
     $status_limit = 9;
     $dados = "";
     if(!empty($_POST) and (isset($_POST["make-char"]))) {

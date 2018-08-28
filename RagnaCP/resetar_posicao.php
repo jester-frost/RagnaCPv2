@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Resetar posição ]*/
-include_once 'includes/functions.php';
-require "includes/config.php";
+include_once ( get_template_directory() . '/includes/functions.php');
+require ( get_template_directory() . '/includes/config.php');
     $_SESSION["msg"] = "Seu personagem está preso !, não poderá ser sair deste mapa sem autorização da administração";
     if ( $_SESSION['usuario'] ):
         switch ($_GET['modo']) {

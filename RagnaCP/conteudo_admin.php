@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ ADMIN Conteudo Privado ] */
-include_once 'includes/config.php'; // loads config variables
-include_once 'includes/functions.php';
+include_once ( get_template_directory() . '/includes/config.php'); // loads config variables
+include_once ( get_template_directory() . '/includes/functions.php');
 $resumo = get_the_excerpt();
 get_header();
 ?>

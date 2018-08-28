@@ -5,7 +5,7 @@
 * @author Vincent Thibault (alias KeyWorld - Twitter: @robrowser)
 * @version 2.1.0
 */
-require "includes/config.php";
+require ( get_template_directory() . '/includes/config.php');
 
 ob_start();
 

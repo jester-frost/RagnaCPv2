@@ -1,8 +1,8 @@
 <?php
     /* Template Name: [ Recuperar Senha ] */
-    include("includes/phpmailer_functions.php");
-    include_once 'includes/config.php'; // loads config variables
-    include_once 'includes/functions.php';
+    include ( get_template_directory() . '/includes/phpmailer_functions.php');
+    include_once ( get_template_directory() . '/includes/config.php'); // loads config variables
+    include_once ( get_template_directory() . '/includes/functions.php');
     if(!empty($_POST) and (isset($_POST["enviar"]))) {
         $email = str_replace($letters, "", $_POST["email"]);
         $dados = enviar_email($email, $md5);

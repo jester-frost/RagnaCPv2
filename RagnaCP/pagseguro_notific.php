@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Pagueseguro Atualiza ] */
-require "includes/config.php";
-require "includes/dPagSeguro-master/dPagSeguro.inc.php";
+require ( get_template_directory() . '/includes/config.php');
+require ( get_template_directory() . '/includes/dPagSeguro-master/dPagSeguro.inc.php');
 if( $sandbox ){
     $url = "https://sandbox.pagseguro.uol.com.br";
 }else{

@@ -1,5 +1,5 @@
 <?php
-    include('config.php');
+    include ( get_template_directory() . '/includes/config.php');
     $dados = topplayer($con, $string, $level_admin);
     $i = 0;
 ?>

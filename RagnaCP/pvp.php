@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Rank PVP ] */
-include_once 'includes/config.php'; // loads config variables
-include_once 'includes/functions.php';
+include_once ( get_template_directory() . '/includes/config.php'); // loads config variables
+include_once ( get_template_directory() . '/includes/functions.php');
 $resumo = get_the_excerpt();
 if ( is_page() ) get_header();
 ?>

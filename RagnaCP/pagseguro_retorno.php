@@ -1,8 +1,8 @@
 <?php
 /* Template Name: [ Pagueseguro Retorno ] */
-require "includes/config.php";
-include_once 'includes/functions.php';
-require "includes/dPagSeguro-master/dPagSeguro.inc.php";
+require ( get_template_directory() . '/includes/config.php');
+include_once ( get_template_directory() . '/includes/functions.php');
+require ( get_template_directory() . '/includes/dPagSeguro-master/dPagSeguro.inc.php');
 if( $sandbox ){
     $url = "https://sandbox.pagseguro.uol.com.br";
 }else{

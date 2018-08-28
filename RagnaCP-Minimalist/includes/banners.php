@@ -13,9 +13,15 @@
 			"link" => "https://picsum.photos/1200/255/?image=525",
 		),
 	);
-?>
-<section class="banner">
 
+	$gallery = true;
+	if( ( count( $url ) > 1 ) && ( $gallery == true ) ){
+		$class = "gallery";
+	}else{
+		$class = "";
+	}
+?>
+<section class="banner <?php echo $class; ?>">
 	<ul>
 		<?php foreach ($url as $img):?>
 			<li>

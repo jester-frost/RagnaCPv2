@@ -31,7 +31,7 @@ jQuery(function(){
       slidesToScroll: 1
     });
 
-    $('.banner ul ').slick({
+    $('.banner.gallery ul ').slick({
       infinite: true,
       slidesToShow: 1,
       slidesToScroll: 1,

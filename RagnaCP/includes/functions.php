@@ -1143,4 +1143,47 @@
 		}
 		return $msg;
 	}
+	// Lojinha
+	function lista_personagens( $con, $account_id ){
+		$id = array(':account_id' => $account_id);
+		$chars_query = $con->prepare("SELECT `name`, `char_id` FROM `char` WHERE `account_id` = :account_id" );
+		$chars_query->execute($id);
+		$chars = $chars_query->fetchAll(PDO::FETCH_OBJ);
+		return $chars;
+	}
+
+	function lista_itens( $con, $item_db ){
+		$item_query = $con->prepare("SELECT * FROM `item_premium` LEFT JOIN `". $item_db ."` ON `". $item_db ."`.`id` = `item_premium`.item_id " );
+		$item_query->execute();
+		$itens = $item_query->fetchAll(PDO::FETCH_OBJ);
+		return $itens;
+	}
+
+	function compra_item( $con, $item_id, $account_id, $char_id ){
+		$item_id = array(':item_id' => $item_id);
+		$item_query = $con->prepare("SELECT * FROM `item_premium` WHERE item_id = :item_id");
+		$item_query->execute($item_id);
+		$item = $item_query->fetch(PDO::FETCH_OBJ);
+		
+		$info = array(':acc_id' => $account_id);
+		$cash_query = $con->prepare("SELECT * FROM `acc_reg_num` WHERE account_id = :acc_id");
+		$cash_query->execute($info);
+		$cash = $cash_query->fetch(PDO::FETCH_OBJ);
+
+		if( $item ){		
+			if( !$cash >= $item->item_price ){
+				$dados = "Você não tem Rop's o suficiente para este item";
+			}else {
+				// Aqui começa a construção da compra
+
+				$dados = "Compra efetuada com Sucesso, confira o email enviado para o personagem selecionado";
+			}
+		}else{
+			$dados = "Não encontramos o item desejado, sentimos muito.";
+		}
+
+		return $dados;
+	}
+
+
  ?>

@@ -1093,7 +1093,30 @@ background: #5B9EE7; */
 .mask .information-char table td,
 .mask .information-char table tr {
     padding:5px;
-} 
+}
+.modal-vote{
+    position: absolute;
+    z-index: 9999;
+    background:#fff;
+    left: 0;
+    right: 0;
+    bottom:0;
+    top:0;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    display: none;
+}
+.modal-vote .iframe {
+    height: 100%;
+    width: 100%;
+}
+.modal-vote.active{
+    display: block;
+}
+.mask.active {
+    display: block;
+}
 /*
 
     PUBLICAÇÔES E COOMENTÁRIOS

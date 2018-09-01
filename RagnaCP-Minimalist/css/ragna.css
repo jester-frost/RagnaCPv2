@@ -249,7 +249,7 @@ form {
     width: 100%;
     height: 55px;
     background: #fff;
-    z-index: 10;
+    z-index: 99999;
 }
 .top-content .error {
     color: #EC3363;
@@ -1082,7 +1082,30 @@ background: #5B9EE7; */
 .mask .information-char table td,
 .mask .information-char table tr {
     padding:5px;
-} 
+}
+.modal-vote{
+    position: absolute;
+    z-index: 9999;
+    background:#fff;
+    left: 0;
+    right: 0;
+    bottom:0;
+    top:0;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    display: none;
+}
+.modal-vote .iframe {
+    height: 100%;
+    width: 100%;
+}
+.modal-vote.active{
+    display: block;
+}
+.mask.active {
+    display: block;
+}
 /*
 
     PUBLICAÇÔES E COOMENTÁRIOS
@@ -1324,5 +1347,44 @@ img.guild-emblem{
 }
 .my-char img,
 .pvp-char img,{
+    display: inline-block;
+}
+/* Lojinha */
+
+.lojinha_list {
+    padding:0;
+    margin:60px 0;
+    list-style: none;
+}
+.lojinha_list li {
+    padding: 20px 0;
+    border-top: 1px solid #b9b9b9;
+    border-bottom: 1px solid rgba(9, 122, 255, 0.34901960784313724);
+}
+.lojinha_list li:first-child {
+    border-top:none;
+}
+.lojinha_list li:last-child {
+    border-bottom:none;
+}
+.lojinha_list li figure {
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lojinha_list li figure figcaption {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.lojinha_list li figure img {
+    margin:0 20px 0 0;
+}
+
+.lojinha_list li .btn {
+    width: 80px;
     display: inline-block;
 }

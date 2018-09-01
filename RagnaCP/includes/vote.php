@@ -21,7 +21,7 @@ endif;
 				<a href="?modo=vote&link=<?php print_r(array_keys($links)[1]); ?>" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
 				<a href="?modo=vote&link=<?php print_r(array_keys($links)[2]); ?>" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
 			</div>
-			<h5 class="points"><?php echo $votes; ?></h5>
+			<h5 class="points"><?php echo $votes["msg"];?></h5>
 		</div>
 		<?php else : ?>
 			<div class="box">
@@ -41,4 +41,19 @@ endif;
 		</div>
 	</div>
 <?php endif; ?>
+</div>
+<div class="mask"></div>
+<div class="modal-vote">
+	<?php if ( $_GET['modo'] ): ?>
+		<?php if( $votes['url'] ): ?>
+			<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" class="iframe" src="<?php echo $votes['url'];?>" frameborder="0"></iframe>
+			<script language="javascript">
+				$(".mask").addClass("active");
+				$(".modal-vote").addClass("active");
+				$(".mask").on( 'click', function(){
+					$(".modal-vote, .mask").removeClass('active');
+				})
+			</script>
+		<?php endif; ?>
+	<?php endif; ?>
 </div>

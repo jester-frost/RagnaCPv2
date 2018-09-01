@@ -9,7 +9,13 @@
             <?php $i=0; foreach ($dados as $dado ) : $i++; ?>
                 <li>
                     <div>
-                        <span class="char clearfix"><?php $info = char_info($con, $dado->char_id);?></span>
+                        <span class="char clearfix">
+                            <div class='info'>
+                                <div class='pvp-char'>
+                                    <img src="<?php echo get_template_directory_uri(); ?>/chargen/avatar/<?php echo $dado->name ?>"/> 
+                                </div>
+                            </div>
+                        </span>
                         <div class="posicao">
                             <span>Matou: <?php echo $dado->kills;?></span>
                             <span>Morreu: <?php echo $dado->deaths;?></span>

@@ -586,10 +586,6 @@
 	//  Vote por Pontos
 	/*====================================================*/
 
-	function abrelink($url){
-		echo "<script language='javascript'> window.open('".$url."', '_blank'); </script>";
-	}
-
 
 	function vote_points($con, $site, $acc_id, $points_for_click, $tempo, $links){
 		$accid=array(':account_id'=>$acc_id);
@@ -614,28 +610,30 @@
 				$date = new DateTime();
 				$search_vote_update = $con->prepare("UPDATE `vote_point` SET `point` = ".($point + $points_for_click)." , `last_vote".$site."` = ".time().", `date` = '".$date->format('d-m-y H:i')."' WHERE  `account_id` = ".$acc_id." ");
 				$search_vote_update->execute($accid);
-				$votes = "Ganhou +".$points_for_click." pontos";
-				$url = array_values($links)[$site-1];
-				abrelink($url);
+				$votes = array(
+					"msg" => "Ganhou +".$points_for_click." pontos",
+					"url" => array_values($links)[$site-1],
+				);
 			}else{
 				// alguns servidores podem nao efetuar a operação $last_time = (60 * 60 * $tempo) - time() - $last_vote ;
-				$votes = "Não ganhou pontos <br>";
 				$faltam = date("H:i:s", mktime(0, 0, ( (60 * 60 * $tempo) - time() + $last_vote ) ) );
-				$votes .= " faltam ".$faltam. " para votar novamente.";
+				$votes = array(
+					"msg" => "Não ganhou pontos <br>  faltam ".$faltam. " para votar novamente.",
+					"url" => "",
+				);
 			}
 		// se não votou vai cair aqui
 		} else {
 			$vote_query = $con->prepare('INSERT INTO `vote_point`(`account_id`, `point`, `last_vote'.$site.'`,`date`) VALUES (:account_id,'.$points_for_click.','.time().',"'.$date->format('d-m-y H:i').'")');
 			$vote_query->execute($accid);
-			$votes = "Ganhou +".$points_for_click." pontos";
-			$url = array_values($links)[$site-1];
-			abrelink($url);
+			$votes = array(
+				"msg" => "Ganhou +".$points_for_click." pontos",
+				"url" => array_values($links)[$site-1],
+			);
 		}
 		// retorna as mensagens*/
 		return $votes;
 	}
-
-
 
 
 
@@ -792,21 +790,6 @@
 		foreach ($account_info as $info) {
 			$sex = ($info->sex);
 			return $sex;
-		}
-	}
-
-	function char_info($con, $char_id){
-		include("jobs.php");
-		$char_query = $con->prepare("SELECT char_id, hair, account_id, name, sex, class, base_level, job_level FROM `char` WHERE char_id = $char_id");
-		$char_query->execute();
-		$chars = $char_query->fetchAll(PDO::FETCH_OBJ);
-
-		foreach ($chars as $c) {
-			$account_id =  $c->account_id;
-			echo "<div class='info'>
-				<div class='pvp-char'>
-					<img src='". get_template_directory_uri()  ."/chargen/avatar/". $c->name ."'/> 
-				</div>";
 		}
 	}
                                             

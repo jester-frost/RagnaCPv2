@@ -8,7 +8,7 @@
  * @subpackage RagnaCP
  * @since RagnaCP 2.0
  */
-	require "includes/config.php";
+	require ( get_template_directory() . '/includes/config.php');
 	if ( $_GET['logout'] == 'sim' ) {
 		unset($_SESSION["usuario"]);
 		session_destroy();

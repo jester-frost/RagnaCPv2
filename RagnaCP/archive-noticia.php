@@ -23,8 +23,9 @@ get_header(); ?>
 							'before_page_number' => '<span class="meta-nav screen-reader-text">' . __( 'Page', 'ragna_theme' ) . ' </span>',
 						) );
 					else :
-						get_template_part( 'content', 'none' );
+						echo "<p> Sem noticias publicadas.</p>";
 					endif;
+
 				?>
 	        </div>
 	    </article>

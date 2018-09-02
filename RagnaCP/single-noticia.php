@@ -9,7 +9,9 @@
 include_once ( get_template_directory() . '/includes/config.php'); // loads config variables
 include_once ( get_template_directory() . '/includes/functions.php');
 $resumo = get_the_excerpt();
-get_header(); ?>
+$thumb = get_the_post_thumbnail();
+get_header();
+?>
 
 <section class="conteudo">
 	    <aside class="left">
@@ -28,11 +30,11 @@ get_header(); ?>
 
 	                <?php }; ?>
 
-	                            <?php while ( have_posts() ) : the_post(); ?>
+                        <?php while ( have_posts() ) : the_post(); ?>
 
-                <?php get_template_part( 'content-interno-noticia', get_post_format() ); ?>
+               				<?php get_template_part( 'content-interno-noticia', get_post_format() ); ?>
 
-            <?php endwhile; ?>
+			            <?php endwhile; ?>
 
 	            </div>
 

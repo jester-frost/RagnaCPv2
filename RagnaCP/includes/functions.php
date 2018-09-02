@@ -1154,7 +1154,7 @@
 		// Verificando os rops na conta do cidadão
 		$cash = verifica_rops($con, $account_id);
 		if( $item ){		
-			if( !$cash->value >= $item->item_price ){
+			if( $cash->value < $item->item_price ){
 				$dados = array(
 					"msg" => "Você não tem Rop's o suficiente para este item",
 					"rops" => "",

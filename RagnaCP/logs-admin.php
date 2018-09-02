@@ -13,6 +13,7 @@
     $logs = $log_con->prepare("SELECT * FROM `atcommandlog` WHERE `account_id`>1999999 AND `account_id`<2000004");
     $logs->execute();
     $admin_logs = $logs->fetchAll(PDO::FETCH_OBJ);
+    $resumo = get_the_excerpt();
     get_header();
 ?>
     <section class="conteudo">

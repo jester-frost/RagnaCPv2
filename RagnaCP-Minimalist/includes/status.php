@@ -10,7 +10,8 @@
 	$status = new ServerStatus( $host, $user, $userpass, $database );
 
 	# Se $status->getLoginStatus() retornar algum valor, imprime Online.
-	echo "<div class='server-info'><div class='server-stats'>";
+	echo "<div class='server-info'>
+				<div class='server-stats'>";
 	if($status->getLoginStatus()) echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/login-on.gif'/>";
 	# Senão, imprime Offline
 	else echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/login-off.gif'/>";
@@ -25,7 +26,7 @@
 	# Quebra de linha HTML.
 	
 	# Se $status->getMapStatus() retornar algum valor, imprime Online.
-	if($status->getMapStatus()) echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/map-on.gif'/>";
+	if($status->getMapStatus()) echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/map-on.gif'/></div>";
 	# Senão, imprime Offline.
 	else echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/map-off.gif'/></div>";
 	

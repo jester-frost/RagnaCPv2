@@ -1368,3 +1368,6 @@ img.guild-emblem{
 .pvp-char img,{
     display: inline-block;
 }
+.lojinha_list {
+    font-size: 60%;
+}

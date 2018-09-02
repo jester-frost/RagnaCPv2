@@ -35,12 +35,15 @@
 	<meta name="viewport" content="width=device-width">
 	<title><?php echo $seu_nome; ?></title>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<script id="ragna-js" src="<?php bloginfo('template_directory'); ?>/js/jquery.js" type="text/javascript"></script>
-	<script id="ragna-js" src="<?php bloginfo('template_directory'); ?>/js/mask.js" type="text/javascript"></script>
-	<script id="ragna-js" src="<?php bloginfo('template_directory'); ?>/js/slick.min.js" type="text/javascript"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/jquery.js" type="text/javascript"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/mask.js" type="text/javascript"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/slick.min.js" type="text/javascript"></script>
+	<!-- Lojinha por Marcos Gonçalves -->
+	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/lojinha.css"type="text/css" media="all">
+	<script src="<?php bloginfo('template_directory'); ?>/js/lojinha.js" type="text/javascript"></script>
 	<!-- Char Maker por Marcos Gonçalves -->
 	<link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/make.css" type="text/css" media="all">
-	<script id="ragna-js" src="<?php bloginfo('template_directory'); ?>/js/make.js" type="text/javascript"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/make.js" type="text/javascript"></script>
 	<script>
 		function mascara(o,f){
 		    v_obj=o

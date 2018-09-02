@@ -11,6 +11,9 @@
 		<div class="box-title">
 			Olá <?php echo $_SESSION["usuario"]->userid;?> 
 		</div>
+		<div class="box-content" style="padding: 10px;">
+			<p style="margin-bottom: 0px;"> Email: <?php echo $_SESSION["usuario"]->email;?></p> 
+		</div>
 		<div class="box-footer">
 			<a href="?logout=sim"  class="btn">Deslogar</a>
 		</div>

@@ -1,0 +1,110 @@
+/* Lojinha */
+.lojinha_list {
+    padding:0;
+    margin: 20px 0 60px;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3, 31.2%);
+    grid-gap: 20px;
+}
+.lojinha_list li {
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #097aff;
+    position: relative;
+}
+.lojinha_list li .show-info {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    border: 1px solid #097aff;
+    background: #097aff;
+    color: #fff;
+    display: block;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+.lojinha_list li h4 {
+    margin: 0 0 5px 0;
+    color:#097aff;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #097aff;
+}
+.lojinha_list li .item_info {
+    position: fixed;
+    z-index: 999999;
+    background: #fff;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+    overflow: auto;
+}
+.lojinha_list li .item_info p {
+    word-wrap: break-word;
+}
+.lojinha_list li select {
+    -webkit-appearance: none; 
+    -moz-appearance: none;
+    appearance: none;       /* remove default arrow */
+    background:#fff;
+    background-image: url(...);   /* add custom arrow */
+    padding: 5px 10px;
+    border: 1px solid #097aff;
+    color:#097aff;
+    margin-bottom: 15px;
+}
+.custom-select {
+    position: relative;
+}
+.arrow {
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    display: block;
+    width: 5px;
+    height: 3px;
+    color:#097aff;
+}
+.lojinha_list li select:active + .arrow {
+    transform: rotate(180deg);
+    top: 16px;
+    right: 7px;
+}
+.lojinha_list li figure {
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.lojinha_list li figure figcaption {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.lojinha_list li figure img {
+    margin:0 0 20px 0;
+}
+
+.lojinha_list li .btn {
+    width: 80px;
+    display: inline-block;
+}
+
+#resultado .msg {
+    border: 1px solid #d4d1c2;
+    background: #f3f0d2;
+    color: #a08a49;
+    padding: 5px;
+    border-radius: 3px;
+}

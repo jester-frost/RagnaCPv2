@@ -585,8 +585,6 @@
 	/*====================================================*/
 	//  Vote por Pontos
 	/*====================================================*/
-
-
 	function vote_points($con, $site, $acc_id, $points_for_click, $tempo, $links){
 		$accid=array(':account_id'=>$acc_id);
 		$search_vote_update = $con->prepare('SELECT `point`, `last_vote'.$site.'` FROM `vote_point` WHERE account_id=:account_id');
@@ -634,6 +632,8 @@
 		// retorna as mensagens*/
 		return $votes;
 	}
+
+
 
 
 
@@ -791,8 +791,7 @@
 			$sex = ($info->sex);
 			return $sex;
 		}
-	}
-                                            
+	}                                 
 	function carrega_rankPVP($con){
 		/* Preparando array que evita SQL injection */
 		$pvp_query = $con->prepare("SELECT char_id, name, kills, deaths FROM pvp ORDER BY kills DESC LIMIT 10");
@@ -1134,39 +1133,102 @@
 		$chars = $chars_query->fetchAll(PDO::FETCH_OBJ);
 		return $chars;
 	}
-
 	function lista_itens( $con, $item_db ){
 		$item_query = $con->prepare("SELECT * FROM `item_premium` LEFT JOIN `". $item_db ."` ON `". $item_db ."`.`id` = `item_premium`.item_id " );
 		$item_query->execute();
 		$itens = $item_query->fetchAll(PDO::FETCH_OBJ);
 		return $itens;
 	}
-
+	function verifica_rops($con, $account_id){
+		$info = array(':acc_id' => $account_id);
+		$cash_query = $con->prepare("SELECT * FROM `acc_reg_num` WHERE account_id = :acc_id");
+		$cash_query->execute($info);
+		$cash = $cash_query->fetch(PDO::FETCH_OBJ);
+		return $cash;
+	}
 	function compra_item( $con, $item_id, $account_id, $char_id ){
 		$item_id = array(':item_id' => $item_id);
 		$item_query = $con->prepare("SELECT * FROM `item_premium` WHERE item_id = :item_id");
 		$item_query->execute($item_id);
 		$item = $item_query->fetch(PDO::FETCH_OBJ);
-		
-		$info = array(':acc_id' => $account_id);
-		$cash_query = $con->prepare("SELECT * FROM `acc_reg_num` WHERE account_id = :acc_id");
-		$cash_query->execute($info);
-		$cash = $cash_query->fetch(PDO::FETCH_OBJ);
-
+		// Verificando os rops na conta do cidadão
+		$cash = verifica_rops($con, $account_id);
 		if( $item ){		
-			if( !$cash >= $item->item_price ){
-				$dados = "Você não tem Rop's o suficiente para este item";
+			if( !$cash->value >= $item->item_price ){
+				$dados = array(
+					"msg" => "Você não tem Rop's o suficiente para este item",
+					"rops" => "",
+				);
 			}else {
-				// Aqui começa a construção da compra
-
-				$dados = "Compra efetuada com Sucesso, confira o email enviado para o personagem selecionado";
+				// Maior ID de email da tabela
+	    		$max_ids = $con->prepare("SELECT MAX(`id`) FROM `mail`");
+	    		$max_ids->execute();
+	    		$id = $max_ids->fetch(PDO::FETCH_OBJ);
+	    		// Apenas o valor
+	    		$id = array_values( ( array ) $id) ;
+	    		// Informações do personagem
+	    		$charid = array(':char_id' => $char_id);
+				$char_query = $con->prepare("SELECT `name` FROM `char` WHERE `char_id` = :char_id" );
+				$char_query->execute($charid);
+				$char = $char_query->fetch(PDO::FETCH_OBJ);
+				// tempo convertido
+				$now = new DateTime;
+				$time = mktime(0, 0, 0, $now->format( 'm' ), $now->format( 'd' ), $now->format( 'Y' ));
+	    		// Enviando email via SQL
+	    		$send_mail = $con->prepare("INSERT INTO `mail` (
+	    			`id`,
+	    			`send_name`,
+	    			`send_id`,
+	    			`dest_name`,
+	    			`dest_id`,
+	    			`title`,
+	    			`message`,
+	    			`time`,
+	    			`status`,
+	    			`zeny`
+	    			)VALUES (
+						'".( $id[0] +1 )."',
+						'Lojinha Online',
+						'1',
+						'" . $char->name . "',
+						'". $char_id ."',
+						'Compra na Lojinha Online',
+						'Obrigado por sua colaboração, esperamos que goste do item adquirido, e volte a comprar conosco',
+						'" . $time . "',
+						'1',
+						'0'
+	    			)");
+	    		$send_mail->execute();
+	    		$send_mail_attchments = $con->prepare("INSERT INTO `mail_attachments` (
+					`id`,
+					`index`,
+					`nameid`,
+					`amount`,
+					`identify`
+	    			)VALUES (
+						'".( $id[0] +1 )."',
+						'0',
+						'" . array_values($item_id)[0] . "',
+						'1',
+						'1'
+	    			)");
+	    		$send_mail_attchments->execute();
+	    		// Cobrando o Cash da compra
+	    		$update=array(':Rops'=>$item->item_price, ':account_id'=>$account_id);
+				$cash_update = $con->prepare("INSERT INTO `acc_reg_num` (`account_id`, `key`, `index`, `value`) VALUES(:account_id, '#CASHPOINTS', 0, :Rops) ON DUPLICATE KEY UPDATE value=value-:Rops");
+				$cash_update->execute($update);
+				$cash = verifica_rops($con, $account_id);
+				$dados = array(
+					"msg" => "Compra efetuada com Sucesso, confira o email enviado para o personagem selecionado.",
+					"rops" =>$cash,
+				);
 			}
 		}else{
-			$dados = "Não encontramos o item desejado, sentimos muito.";
+			$dados = array(
+				"msg" => "Não encontramos o item desejado, sentimos muito.",
+				"rops" => "",
+			);
 		}
-
 		return $dados;
 	}
-
-
  ?>

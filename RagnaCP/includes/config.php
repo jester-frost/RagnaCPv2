@@ -22,6 +22,7 @@
     $level_admin = 80; // Aqui o level de ADMIN ( group_id ) do administrador
     $stats_points = 48; // Quantia de pontos de Status o personagem tem para usar ao criar o personagem
     $qtd_cabelos = 45; // quantia de estilos de cabelo do seu servidor (OBS: ficar atento as imagens pois podem não corresponder as mesmas imagens do seu servidor)
+    $item_db = 'item_db_re'; // Tabela de itens mude de acordo com seu servidor
     //
     // =================================================================================
 

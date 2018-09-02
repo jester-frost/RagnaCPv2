@@ -1,6 +1,7 @@
 <?php 
 	/* Template Name: [ Logs ADMIN ] */
     include( get_template_directory() . '/includes/config.php');
+    include_once ( get_template_directory() . '/includes/functions.php');
     // PDO database LOG
     $log_con = new PDO("mysql:host=$host;dbname=$logdatabase"
         ,$user

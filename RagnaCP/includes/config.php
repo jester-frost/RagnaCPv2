@@ -6,6 +6,7 @@
     $host="127.0.0.1"; // Host localhost ou 127.0.0.1 ou seu host
     $database="ragnarok"; // Banco de dados do Servidor
     $user="ragnarok";   // Usuário de acesso ao banco de dados do servidor
+    $logdatabase="ragnarok_logs"; // Banco de dados de Log, recomendável deixar separado
     $userpass="ragnarok";    // Senha do Usuário de acesso ao bando de dados do servidor
     $con = new PDO("mysql:host=$host;dbname=$database"
         ,$user

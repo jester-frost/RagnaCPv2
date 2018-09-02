@@ -1,7 +1,7 @@
 <?php
 /* Template Name: [ Transferir Dinheiro ] */
-include_once 'includes/functions.php';
-require "includes/config.php";
+include_once ( get_template_directory() . '/includes/functions.php');
+require ( get_template_directory() . '/includes/config.php');
 if ( $_SESSION['usuario'] ):
     if( !empty($_POST) and isset($_POST["transferencia"] ) ){
         $account_id = $_SESSION["usuario"]->account_id;

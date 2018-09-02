@@ -1,5 +1,5 @@
 <?php
-    include('config.php');
+    include( get_template_directory() . '/includes/config.php');
     $homunculos = tophom($con);
 ?>
 <table  id="conteudo">

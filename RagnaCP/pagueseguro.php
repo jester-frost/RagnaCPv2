@@ -36,7 +36,6 @@ date_default_timezone_set('America/Sao_Paulo');
         );
         $ps = new dPagSeguro($Email, $Token);
         $goURL = $ps->newPagamento($pedido, $produtos);
-        print_r($goURL);
 
         if($goURL){
             header("Location: {$goURL}");
@@ -123,7 +122,7 @@ get_header();
                             <div id="tab-2" class="hide">
                                 <h3> Doações Pendentes</h3>
                                 <hr>
-                                <?php include "includes/doacao_pendente.php";?>  
+                                <?php include(get_template_directory().'/includes/includes/doacao_pendente.php');?> 
                             </div>
                         </div>
                     </div>

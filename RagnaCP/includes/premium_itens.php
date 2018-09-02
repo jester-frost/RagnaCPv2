@@ -2,15 +2,18 @@
     if ( $_SESSION["usuario"] )  :
        $itens = lista_itens( $con, $item_db);
     endif;
-    $account_id = $_SESSION["usuario"]->account_id; // conta do usuario
+    $account_id = $_SESSION["usuario"]->account_id;     // conta do usuario
     $lista_chars = lista_personagens($con, $_SESSION["usuario"]->account_id );
+
     $cash = verifica_rops($con, $account_id);
+
     if( isset( $_POST['char_id'] ) && isset( $_POST['item_id'] ) ){
         $item_id = str_replace( $letters, "", $_POST['item_id'] );
         $char_id = str_replace( $letters, "", $_POST['char_id'] );
         $dados = compra_item( $con, $item_id, $account_id, $char_id );
     }
  ?>
+
 <div id="resultado">
     <?php if( $dados['rops']->value ): ?>
         <p>Cash na conta: <?php echo $dados['rops']->value; ?>  Rop's</p>

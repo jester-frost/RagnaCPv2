@@ -4,8 +4,8 @@
  * @subpackage RagnaCP
  * @since RagnaCP 2.0
  */
-$resumo = get_the_excerpt(the_id());
-$thumb = get_the_post_thumbnail(the_id());
+$resumo = get_the_excerpt();
+$thumb = get_the_post_thumbnail();
 ?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<div class="spacer">

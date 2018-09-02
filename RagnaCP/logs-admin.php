@@ -27,6 +27,7 @@
                     <?php if($resumo): ?>
                         <h4><?php echo $resumo; ?></h4>
                     <?php endif; ?>
+                    <?php the_content(); ?>
                     <table  id="conteudo" class="mvp-table" style="text-align: center; max-height: 800px; overflow: auto; display: block;">
                         <thead>
                             <tr class="ranking">

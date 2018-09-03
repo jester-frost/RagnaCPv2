@@ -12,6 +12,24 @@
         $char_id = str_replace( $letters, "", $_POST['char_id'] );
         $dados = compra_item( $con, $item_id, $account_id, $char_id );
     }
+
+    $type = array(
+        0 => "Usable",
+        1 => "Usable",
+        2 => "Usable",
+        3 => "Misc",
+        4 => "Equipment",
+        5 => "Equipment",
+        6 => "Card",
+        7 => "",
+        8 => "",
+    );
+
+    $jobs_equip = array(
+        4294967295 => "Every Jobs",
+        4294967294 => "Every Rebirth Job except High Novice",
+        33554432 => "Ninja",
+    );
  ?>
 
 <div id="resultado">
@@ -39,19 +57,40 @@
                             <h4><?php echo $item['name_japanese']; ?></h4>
                             <img src = "https://static.divine-pride.net/images/items/collection/<?php echo $item['item_id']; ?>.png">
                             <?php if( $item['slots'] ): ?>
-                                <p>Slots: <?php  echo "[".( 0 + $item['slots'] )."]";  ?></p>
+                                <p><strong>Slots: </strong><?php  echo "[".( 0 + $item['slots'] )."]";  ?></p>
                             <?php endif; ?>
                             <?php if( $item['atk:matk'] ): ?>
-                               <p>Atk / Matk =  <?php echo str_replace(":", " / ", $item['atk:matk']); ?></p>
+                               <p><strong>Atk / Matk :</strong>  <?php echo str_replace(":", " / ", $item['atk:matk']); ?></p>
                             <?php endif; ?>
                             <?php if( $item['defence'] ): ?>
-                                <p>Defence = <?php echo $item['defence']; ?></p>
+                                <p><strong>Defence :</strong> <?php echo $item['defence']; ?></p>
                             <?php endif; ?>
                             <?php if( $item['weight'] ): ?>
-                               <p>Weigth =  <?php echo $item['weight']; ?></p>
+                               <p><strong>Weigth :</strong>  <?php echo $item['weight']; ?></p>
+                            <?php endif; ?>
+                            <?php if( $item['weapon_level'] ): ?>
+                               <p><strong>Weapon Level :</strong>  <?php echo $item['weapon_level']; ?></p>
+                            <?php endif; ?>
+                            <?php if( $item['range'] ): ?>
+                               <p><strong>Range Level :</strong>  <?php echo $item['range']; ?></p>
+                            <?php endif; ?>
+                            <?php if( $item['type'] ): ?>
+                               <p><strong>Type :</strong>  <?php echo $type[$item['type']]; ?></p>
+                            <?php endif; ?>
+                            <?php if( $item['equip_jobs'] ): ?>
+                               <p><strong>Jobs :</strong>  <?php echo $jobs_equip[$item['equip_jobs']]; ?></p>
+                            <?php endif; ?>
+                            <?php if( $item['equip_level'] ): ?>
+                               <p><strong>Level Required :</strong>  <?php echo $item['equip_level']; ?></p>
                             <?php endif; ?>
                             <?php if( $item['script'] ): ?>
-                                <p>Script { <small><?php echo $item['script']; ?></small> }</p>
+                                <p><strong>Script</strong> { <small><?php echo $item['script']; ?></small> }</p>
+                            <?php endif; ?>
+                            <?php if( $item['equip_script'] ): ?>
+                                <p><strong>Script Equiped</strong> { <small><?php echo $item['equip_script']; ?></small> }</p>
+                            <?php endif; ?>
+                            <?php if( $item['unequip_script'] ): ?>
+                                <p><strong>Script Unequiped</strong> { <small><?php echo $item['unequip_script']; ?></small> }</p>
                             <?php endif; ?>
                         </div>
                     </figcaption>

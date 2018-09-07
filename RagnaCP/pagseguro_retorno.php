@@ -28,6 +28,7 @@ $valores = array(
 	':email'=> $transactionInfo['sender']['email'],
 	':data'=> $today
 	);
+
 if( $transactionInfo ){
 	if ( empty( $account_info ) ){
 		$add_compra_query = $con->prepare("INSERT INTO `doacao`(
@@ -49,6 +50,22 @@ if( $transactionInfo ){
 			) "
 		);
 		$add_compra_query->execute($valores);
+
+		$acc=array(':transaction_id'=> $valores[':transaction_id']);
+		$account_query = $con->prepare("SELECT * FROM `doacao` WHERE `transaction_id` = :transaction_id AND `estado` = 3");
+		$account_query->execute($acc);
+		$account_info = $account_query->fetchAll(PDO::FETCH_OBJ);
+
+		if ($account_info){
+			$account_info = array_shift($account_info);
+			$acc=array(':transaction_id'=> $valores[':transaction_id'], ':estado'=> $valores[':estado']);
+			$add_compra_query = $con->prepare("UPDATE `doacao`SET `estado` = :estado WHERE `transaction_id` = :transaction_id");
+			$add_compra_query->execute($acc);
+			$update=array(':Rops'=>$account_info->Rops, ':account_id'=>$account_info->account_id);
+			$cash_update = $con->prepare("INSERT INTO `acc_reg_num` (`account_id`, `key`, `index`, `value`) VALUES(:account_id, '#CASHPOINTS', 0, :Rops) ON DUPLICATE KEY UPDATE value=value+:Rops");
+			$cash_update->execute($update);
+		}
+
 		$dados = "Obrigado pela compra!";
 	}else{
 		$dados = "Compra já efetuada, verifique suas compras.";

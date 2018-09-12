@@ -1,5 +1,6 @@
  <?php 
     include( get_template_directory() . '/includes/config.php');
+    $guild = topguild($con);
     $castle = topcastle($con);
 ?>
 <table>

@@ -27,9 +27,21 @@
 
     $jobs_equip = array(
         4294967295 => "Every Jobs",
+        4294967294 => "Every Job except Novice",
         4294967294 => "Every Rebirth Job except High Novice",
         33554432 => "Ninja",
+        4096 => "Assassin",
+        279714 => "Swordman, Merchant, Knight, Blacksmith, Crusader, Alchemist",
+        16514 => "Swordman, Knight, Crusader",
+        4260096 => "Priest, Sage, Star Gladiator",
+        8487700 => "Mage, Acolyte, Priest, Wizard, Monk, Sage, Soul Linker",
+        512 => "Warlock",
+        1050640111 => "Novice (& Supernovice), Swordman, Mage, Archer, Merchant, Thief, Knight, Wizard, Blacksmith, Hunter, Assassin, Crusader, Sage, Rogue, Alchemist, Bard / Dancer, Soul Linker, Ninja, Kagerou / Oboro",
+        1090519040 => "Gunslinger, Rebellion",
+        312755 => "Novice (& Supernovice), Swordman, Acolyte, Merchant, Knight, Priest, Blacksmith, Crusader, Monk, Alchemist",
+        657480 => "Archer, Thief, Hunter, Rogue, Bard / Dancer",
     );
+
  ?>
 
 <div id="resultado">

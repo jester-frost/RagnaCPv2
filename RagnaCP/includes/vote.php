@@ -17,9 +17,9 @@ endif;
 		<div class="box">
 			<h5 class="box-title">Vote por Pontos</h5>
 			<div class="spacer">
-				<a href="?modo=vote&link=<?php print_r(array_keys($links)[0]); ?>" class="vote-link " ><img src="<?php bloginfo(template_url) ?>/images/top200.jpg" border="0" title="Vote em nosso servidor!"></a>
-				<a href="?modo=vote&link=<?php print_r(array_keys($links)[1]); ?>" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
-				<a href="?modo=vote&link=<?php print_r(array_keys($links)[2]); ?>" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
+				<a href="?modo=vote&link=<?php print_r(array_keys($links)[0]); ?>" class="vote-link " ><img src="<?php echo get_template_directory_uri() ?>/images/top200.jpg" border="0" title="Vote em nosso servidor!"></a>
+				<a href="?modo=vote&link=<?php print_r(array_keys($links)[1]); ?>" class="vote-link" ><img src="<?php echo get_template_directory_uri() ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
+				<a href="?modo=vote&link=<?php print_r(array_keys($links)[2]); ?>" class="vote-link" ><img src="<?php echo get_template_directory_uri() ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
 			</div>
 			<h5 class="points"><?php echo $votes["msg"];?></h5>
 		</div>
@@ -27,9 +27,9 @@ endif;
 			<div class="box">
 				<h5 class="box-title">Ajude-nos votando</h5>
 				<div class="spacer">
-					<a href="<?php echo $links[1];?>" target="_blank" class="vote-link " ><img src="<?php bloginfo(template_url) ?>/images/top200.jpg" border="0" title="Vote em nosso servidor!"></a>
-					<a href="<?php echo $links[2];?>" target="_blank" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
-					<a href="<?php echo $links[3];?>" target="_blank" class="vote-link" ><img src="<?php bloginfo(template_url) ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
+					<a href="<?php echo $links[1];?>" target="_blank" class="vote-link " ><img src="<?php echo get_template_directory_uri() ?>/images/top200.jpg" border="0" title="Vote em nosso servidor!"></a>
+					<a href="<?php echo $links[2];?>" target="_blank" class="vote-link" ><img src="<?php echo get_template_directory_uri() ?>/images/topBR.jpg" border="0" title="Vote em nosso servidor!"></a>
+					<a href="<?php echo $links[3];?>" target="_blank" class="vote-link" ><img src="<?php echo get_template_directory_uri() ?>/images/topORG.jpg" border="0" title="Vote em nosso servidor!"></a>
 				</div>
 			</div>
 	<?php endif; ?>
@@ -37,7 +37,7 @@ endif;
 	<div class="box">
 		<h5 class="box-title">MVP Timer</h5>
 		<div class="spacer">
-			<a href="<?php echo $mvp_link; ?>" target="_blank" class="vote-link " ><img src="<?php bloginfo(template_url) ?>/images/ragnarok-mvp-logo.png" border="0" title="MVP TImer !"></a>
+			<a href="<?php echo $mvp_link; ?>" target="_blank" class="vote-link " ><img src="<?php echo get_template_directory_uri() ?>/images/ragnarok-mvp-logo.png" border="0" title="MVP TImer !"></a>
 		</div>
 	</div>
 <?php endif; ?>

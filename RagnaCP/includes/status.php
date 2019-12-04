@@ -11,23 +11,23 @@
 
 	# Se $status->getLoginStatus() retornar algum valor, imprime Online.
 	echo "<div class='server-info'>";
-	if($status->getLoginStatus()) echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/login-on.gif'/>";
+	if($status->getLoginStatus()) echo "<img class='img-status'src='". get_template_directory_uri()  ."/status/login-on.gif'/>";
 	# Senão, imprime Offline
-	else echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/login-off.gif'/>";
+	else echo "<img class='img-status'src='". get_template_directory_uri()  ."/status/login-off.gif'/>";
 	
 	# Quebra de linha HTML.
 	
 	# Se $status->getCharStatus() retornar algum valor, imprime Online.
-	if($status->getCharStatus()) echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/char-on.gif'/>";
+	if($status->getCharStatus()) echo "<img class='img-status'src='". get_template_directory_uri()  ."/status/char-on.gif'/>";
 	# Senão, imprime Offline.
-	else echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/char-off.gif'/>";
+	else echo "<img class='img-status'src='". get_template_directory_uri()  ."/status/char-off.gif'/>";
 	
 	# Quebra de linha HTML.
 	
 	# Se $status->getMapStatus() retornar algum valor, imprime Online.
-	if($status->getMapStatus()) echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/map-on.gif'/>";
+	if($status->getMapStatus()) echo "<img class='img-status'src='". get_template_directory_uri()  ."/status/map-on.gif'/>";
 	# Senão, imprime Offline.
-	else echo "<img class='img-status'src='". get_bloginfo(template_url)  ."/status/map-off.gif'/>";
+	else echo "<img class='img-status'src='". get_template_directory_uri()  ."/status/map-off.gif'/>";
 	
 	# Quebra de linha HTML.
 	

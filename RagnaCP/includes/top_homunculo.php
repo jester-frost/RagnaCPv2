@@ -38,7 +38,7 @@
 	        </td>
 	        <td>
                 <div align="center">
-                    <?PHP echo "<div class='info'><img src='". get_bloginfo(template_url)  ."/images/homunculos/". ($h->class) .".gif '/> ";?>
+                    <?PHP echo "<div class='info'><img src='". get_template_directory_uri()  ."/images/homunculos/". ($h->class) .".gif '/> ";?>
                 </div>
             </td>
             <td>

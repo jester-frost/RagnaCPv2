@@ -40,11 +40,11 @@
             <div align="center">
                 <?PHP 
                     if ($i == 1) {
-                           echo "<div  align='center' class='info'><img src='" . get_bloginfo(template_url) . "/images/medal_" . $i . ".gif '/> ";
+                           echo "<div  align='center' class='info'><img src='" . get_template_directory_uri() . "/images/medal_" . $i . ".gif '/> ";
                         }elseif ($i == 2) {
-                           echo "<div  align='center' class='info'><img src='" . get_bloginfo(template_url) . "/images/medal_" . $i . ".gif '/> ";
+                           echo "<div  align='center' class='info'><img src='" . get_template_directory_uri() . "/images/medal_" . $i . ".gif '/> ";
                         }elseif ($i == 3) {
-                           echo "<div  align='center' class='info'><img src='" . get_bloginfo(template_url) . "/images/medal_" . $i . ".gif '/> ";
+                           echo "<div  align='center' class='info'><img src='" . get_template_directory_uri() . "/images/medal_" . $i . ".gif '/> ";
                         }else{
                         
                         echo $i;
